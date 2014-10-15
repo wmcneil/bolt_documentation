@@ -77,15 +77,15 @@
 
  Creates an object which lets you modify the internal settings of an entity before it is attached to Bolt. 
 #### void SetScopeAll(bool inScope)
-* **inScope** If this entity should be in scope or not
+- **inScope** If this entity should be in scope or not
 
  Sets the scope of all currently active connections for this entity. Only usable if Scope Mode has been set to Manual. 
 #### void SetScope(BoltConnection connection, bool inScope)
-* **inScope** If this entity should be in scope or not
+- **inScope** If this entity should be in scope or not
 
  Sets the scope for the connection passed in for this entity. Only usable if Scope Mode has been set to Manual. 
 #### void SetParent(BoltEntity parent)
-* **parent** The parent of this entity
+- **parent** The parent of this entity
 
  Sets the parent of this entity 
 #### void TakeControl()
@@ -95,37 +95,37 @@
 
  Releases local control of this entity 
 #### void SetUniqueId(Bolt.UniqueId id)
-* **id**
+- **id**
 
 #### void AssignControl(BoltConnection connection)
-* **connection** The connection to assign control to
+- **connection** The connection to assign control to
 
  Assigns control of this entity to a connection 
 #### void RevokeControl()
 
  Revokes control of this entity from a connection 
 #### bool IsController(BoltConnection connection)
-* **connection** The connection to check
+- **connection** The connection to check
 
  Checks if this entity is being controlled by the connection 
 #### bool QueueInput(Bolt.ICommandInput command)
-* **command** The command to queue
+- **command** The command to queue
 
  Queue a command not his entity for execution. This is called on a client which is controlling a proxied entity the command will also be sent to the server. 
 #### void Idle(BoltConnection connection)
-* **connection** The connection to idle the entity on
+- **connection** The connection to idle the entity on
 
  Set this entity as idle on the supplied connection, this means that the connection will not receive update state for this entity as long as it's idle. 
 #### void Wakeup(BoltConnection connection)
-* **connection** The connection to wake the entity up on
+- **connection** The connection to wake the entity up on
 
  Wakes this entity up from being idle on the supplied connection, this means that the connection will start receiving updated state for this entity 
 #### void AddEventListener(MonoBehaviour behaviour)
-* **behaviour** The behaviour to invoke event callbacks on
+- **behaviour** The behaviour to invoke event callbacks on
 
  Add an event listener to this entity. 
 #### void RemoveEventListener(MonoBehaviour behaviour)
-* **behaviour** The behaviour to remove
+- **behaviour** The behaviour to remove
 
  Remove an event listern from this entity 
 #### TState GetState()
@@ -187,65 +187,65 @@
 #### *GameObject* globalObject
  The global object that all global behaviours will be attached to 
 #### BoltEntity FindEntity(Bolt.UniqueId id)
-* **id** The id to look up
+- **id** The id to look up
 
  Find an entity based on unique id 
 #### BoltEntity Instantiate(GameObject prefab)
-* **prefab** The prefab to use
+- **prefab** The prefab to use
 
  Instantiates and attaches an instance of this prefab to Bolt 
 #### BoltEntity Instantiate(Bolt.PrefabId prefabId)
-* **prefabId** The prefab id to create an instance of
+- **prefabId** The prefab id to create an instance of
 
  Instantiates and attaches an instance of this prefab to Bolt 
 #### GameObject Attach(GameObject gameObject)
-* **gameObject** The game object that contains the Bolt Entity component
+- **gameObject** The game object that contains the Bolt Entity component
 
  Attaches a manually configured entity to bolt 
 #### void Detach(GameObject gameObject)
-* **gameObject** The gameobject holding the entity
+- **gameObject** The gameobject holding the entity
 
  Detaches an entity from bolt 
 #### BoltPhysicsHits OverlapSphereAll(Vector3 origin, float radius)
-* **origin** The origin of the sphere
-* **radius** The radius of the sphere
+- **origin** The origin of the sphere
+- **radius** The radius of the sphere
 
  Perform a sphere overlap against Bolt hiboxes 
 #### void Accept(UdpKit.UdpEndPoint ep)
-* **ep** The endpoint to access the connection from
+- **ep** The endpoint to access the connection from
 
  Accept a connection from a specific endpoint, only usable if Accept Mode has been set to Manual 
 #### void Refuse(UdpKit.UdpEndPoint ep)
-* **ep** The endpoint to refuse the connection from
+- **ep** The endpoint to refuse the connection from
 
  Refuse a connection from a specific endpoint, only usable if Accept Mode has been set to Manual 
 #### void AddGlobalEventListener(MonoBehaviour mb)
-* **mb** The monobehaviour to invoke events on
+- **mb** The monobehaviour to invoke events on
 
  Manually add a global event listener 
 #### void RemoveGlobalEventListener(MonoBehaviour mb)
-* **mb** The monobehaviour to be removed
+- **mb** The monobehaviour to be removed
 
  Manually remove a global event listener 
 #### void Destroy(GameObject gameobject)
-* **gameobject** The game object which contains the entity
+- **gameobject** The game object which contains the entity
 
  Destroy a bolt entity 
 #### void LoadScene(int scene)
-* **scene** The scene to load
+- **scene** The scene to load
 
  Load a scene based on index, only possible on the Server 
 #### void LoadScene(string scene)
-* **scene** The scene to load
+- **scene** The scene to load
 
  Load a scene based on name, only possible on the Server 
 #### void Connect(UdpKit.UdpEndPoint endpoint)
-* **endpoint** Server end point to connect to
+- **endpoint** Server end point to connect to
 
  Connect to a server 
 #### void SetSessionData(string serverName, string userData)
-* **serverName** Name of the server
-* **userData** User definable data
+- **serverName** Name of the server
+- **userData** User definable data
 
  Set session data for LAN Broadcast/Master Server listing 
 #### void DisableLanBroadcast()
@@ -317,12 +317,12 @@
 
  Invoked when you lost control of this entity 
 #### void MissingCommand(Bolt.Command previous)
-* **previous**
+- **previous**
 
  Invoked on the owner when a remote connection is controlling this entity but we have not received any command for the current simulation frame. 
 #### void ExecuteCommand(Bolt.Command command, bool resetState)
-* **command** The command to execute
-* **resetState** Indicates if we should reset the state of the local motor or not
+- **command** The command to execute
+- **resetState** Indicates if we should reset the state of the local motor or not
 
  Invoked on both the owner and controller to execute a command 
 ## Bolt.EntityBehaviour`1
@@ -361,40 +361,40 @@
 ## Bolt.IPriorityCalculator
  Interface which can be implemented on a behaviour attached to an entity which lets you provide custom priority calculations for state and events. 
 #### float CalculateStatePriority(BoltConnection connection, Bolt.BitArray mask, int skipped)
-* **connection** The connection we are calculating priority for
-* **mask** The mask of properties with updated values we want to replicate
-* **skipped** How many packets since we sent an update for this entity
+- **connection** The connection we are calculating priority for
+- **mask** The mask of properties with updated values we want to replicate
+- **skipped** How many packets since we sent an update for this entity
 
  Called for calculating the priority of this entity for the connection passed in 
 #### float CalculateEventPriority(BoltConnection connection, Bolt.Event evnt)
-* **connection** The connection we are calculating priority for
-* **evnt** The event we are calculating priority for
+- **connection** The connection we are calculating priority for
+- **evnt** The event we are calculating priority for
 
  Called for calculating the priority of an event sent to this entity for the connection passed in 
 ## Bolt.IState
  Base interface for all states 
 #### void SetAnimator(Animator animator)
-* **animator** The animator object to use
+- **animator** The animator object to use
 
  Set the animator object this state should use for reading/writing mecanim parameters 
 #### void AddCallback(string path, Bolt.PropertyCallback callback)
-* **path** The path of the property
-* **callback** The callback delegate
+- **path** The path of the property
+- **callback** The callback delegate
 
  Allows you to hook up a callback to a specific property 
 #### void AddCallback(string path, Bolt.PropertyCallbackSimple callback)
-* **path** The path of the property
-* **callback** The callback delegate
+- **path** The path of the property
+- **callback** The callback delegate
 
  Allows you to hook up a callback to a specific property 
 #### void RemoveCallback(string path, Bolt.PropertyCallback callback)
-* **path** The path of the property
-* **callback** The callback delegate to remove
+- **path** The path of the property
+- **callback** The callback delegate to remove
 
  Removes a callback from a property 
 #### void RemoveCallback(string path, Bolt.PropertyCallbackSimple callback)
-* **path** The path of the property
-* **callback** The callback delegate to remove
+- **path** The path of the property
+- **callback** The callback delegate to remove
 
  Removes a callback from a property 
 ## IntegerArray

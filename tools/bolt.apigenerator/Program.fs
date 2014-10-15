@@ -280,8 +280,8 @@ let main argv =
 
       for p in m.xml.Params do
         match p.Value with
-        | None -> paragraph (Some(sprintf "* **%s**" p.Name))
-        | Some v -> paragraph (Some(sprintf "* **%s** %s" p.Name v))
+        | None -> paragraph (Some(sprintf "- **%s**" p.Name))
+        | Some v -> paragraph (Some(sprintf "- **%s** %s" p.Name v))
 
       paragraph (Some "")
       paragraph m.xml.Summary
