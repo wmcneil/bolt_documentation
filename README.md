@@ -4,5 +4,5 @@ This repository contains every piece of documentation available. We accept commu
 
 
 **[API](Api.md)**
-**[Wiki](Wiki/Wiki.md)**
-**[Tutorial](Tutorial/Chapter1.md)**
+**[Wiki](wiki/Wiki.md)**
+**[Tutorial](tutorial/README.md)**
