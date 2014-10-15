@@ -11,7 +11,7 @@ If it's an *Authorative Server* then the Server will also be the Owner of (most)
 
 #### Client
 
-A client is normally anyone who is not connected to the game who is not considered to be the Server.
+A client is normally anyone who is connected to the game who is not considered to be the Server.
 In short every remote connection from the Server is a Client.
 
 #### Connection
