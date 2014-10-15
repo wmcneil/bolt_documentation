@@ -23,7 +23,7 @@ If the *Server* checks his own connection it will be `null` since there's no rem
 
 #### Owner
 
-When you're considered the Owner of an Entity than you're the one (by default) to have full authority over it.
+When you're considered the Owner of an Entity than you're the one (by default) to have full **authority** over it.
 In the case of an *Authorative Server* (most) BoltEntities would be owned by the *Server*.
 
 Bolt considers the one that Instantiates the object (through `BoltNetwork.Instantiate()`) to be the Owner of the created BoltEntity.
@@ -50,3 +50,13 @@ The BoltEntity is a Unity gameObject that will be represented on the network by 
 1. *Owned*, where`entity.isOwner == true`
 2. *Controlled*, where `entity.isController == true`
 3. *Proxy*, where `entity.isOwner == false && entity.isController == false`
+
+#### Synching the BoltEntity to others
+To sync state from the Owner to the other Clients you'll need to create a **State**.
+This can be done through Bolt's *Editor*. 
+*Make sure to recompile Bolt Assets after creating/changing a State*
+
+#### Controlling a BoltEntity
+
+To set up how a BoltEntity is controlled you'll need to override the entity's `ExecuteCommand()` and `SimulateController()` methods.
+This is (usually) done for **client-side prediction**. Note that the Owner will still have full control over the actual State of the BoltEntity.
