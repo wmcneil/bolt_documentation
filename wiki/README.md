@@ -4,6 +4,6 @@ This is the community wiki for Bolt Engine.
 
 ### Other resources
 
-[http://forum.boltengine.com/](Official Bolt Forum)
+[Official Bolt Forum](http://forum.boltengine.com/)
 
-[http://www.reddit.com/r/boltengine/wiki/index](http://www.reddit.com/r/boltengine/wiki/index)
+[Reddit /r/boltengine Wiki](http://www.reddit.com/r/boltengine/wiki/index)
