@@ -262,6 +262,9 @@ let main argv =
   for t in types do
     sb.AppendLine(sprintf "* [%s](#%s)" t.typ.FullName t.typ.FullName)
   
+  sb.AppendLine("");
+  sb.AppendLine("");
+
   for t in types do
     h2 t.typ.FullName
     paragraph t.xml.Summary

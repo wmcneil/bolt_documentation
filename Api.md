@@ -23,6 +23,8 @@
 * [IntegerArray](#IntegerArray)
 * [IntegerArrayModifier](#IntegerArrayModifier)
 * [TransformArray](#TransformArray)
+
+
 ## Bolt.ArrayIndices
  Contains the indices for all arrays that contain a specific property, in order 
 #### *int* Length
