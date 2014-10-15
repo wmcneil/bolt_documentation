@@ -9,5 +9,5 @@ An authoritative server is a setup where the client sends instructions/informati
 
 ### Cons
 
-1. To avoid input delay you would need client-side prediction. This might be hard to implement in some scenarios and with certain game mechanics.
+1. To avoid input delay you would need **client-side prediction**. This might be hard to implement in some scenarios and with certain game mechanics.
 2. The Server will need to do more calculation (it will need to process all data to get the output and confirm to the client); this could make Server hardware pricier.
