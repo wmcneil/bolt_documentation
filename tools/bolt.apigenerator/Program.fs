@@ -260,8 +260,11 @@ let main argv =
   sb.AppendLine("# Bolt API Documentation")
   
   for t in types do
-    sb.AppendLine(sprintf "[%s](#%s)" t.typ.FullName t.typ.FullName)
+    sb.AppendLine(sprintf "* [%s](#%s)" t.typ.FullName t.typ.FullName)
   
+  sb.AppendLine("");
+  sb.AppendLine("");
+
   for t in types do
     h2 t.typ.FullName
     paragraph t.xml.Summary
@@ -277,13 +280,6 @@ let main argv =
     for m in t.mtds do
       let parms = String.Join(", ", m.mtd.Parameters |> Seq.map (fun p -> (typeName p.ParameterType) + " " + p.Name))
       h3 (sprintf "%s %s(%s)" (typeName m.mtd.ReturnType) m.mtd.Name parms)
-
-      for p in m.xml.Params do
-        match p.Value with
-        | None -> paragraph (Some(sprintf "- **%s**" p.Name))
-        | Some v -> paragraph (Some(sprintf "- **%s** %s" p.Name v))
-
-      paragraph (Some "")
       paragraph m.xml.Summary
 
   File.WriteAllText("..\\..\\..\\..\\Api.md", sb.ToString());

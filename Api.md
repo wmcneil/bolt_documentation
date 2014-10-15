@@ -1,28 +1,30 @@
 # Bolt API Documentation
-[Bolt.ArrayIndices](#Bolt.ArrayIndices)
-[BoltConnection](#BoltConnection)
-[BoltEntity](#BoltEntity)
-[BoltHitbox](#BoltHitbox)
-[BoltHitboxBody](#BoltHitboxBody)
-[BoltNetwork](#BoltNetwork)
-[BoltPhysicsHit](#BoltPhysicsHit)
-[BoltPhysicsHits](#BoltPhysicsHits)
-[Bolt.Command](#Bolt.Command)
-[EntityArray](#EntityArray)
-[EntityArrayModifier](#EntityArrayModifier)
-[Bolt.EntityBehaviour](#Bolt.EntityBehaviour)
-[Bolt.EntityBehaviour`1](#Bolt.EntityBehaviour`1)
-[Bolt.EntityTargets](#Bolt.EntityTargets)
-[Bolt.Event](#Bolt.Event)
-[FloatArray](#FloatArray)
-[FloatArrayModifier](#FloatArrayModifier)
-[BoltInternal.GlobalEventListenerBase](#BoltInternal.GlobalEventListenerBase)
-[Bolt.GlobalTargets](#Bolt.GlobalTargets)
-[Bolt.IPriorityCalculator](#Bolt.IPriorityCalculator)
-[Bolt.IState](#Bolt.IState)
-[IntegerArray](#IntegerArray)
-[IntegerArrayModifier](#IntegerArrayModifier)
-[TransformArray](#TransformArray)
+* [Bolt.ArrayIndices](#Bolt.ArrayIndices)
+* [BoltConnection](#BoltConnection)
+* [BoltEntity](#BoltEntity)
+* [BoltHitbox](#BoltHitbox)
+* [BoltHitboxBody](#BoltHitboxBody)
+* [BoltNetwork](#BoltNetwork)
+* [BoltPhysicsHit](#BoltPhysicsHit)
+* [BoltPhysicsHits](#BoltPhysicsHits)
+* [Bolt.Command](#Bolt.Command)
+* [EntityArray](#EntityArray)
+* [EntityArrayModifier](#EntityArrayModifier)
+* [Bolt.EntityBehaviour](#Bolt.EntityBehaviour)
+* [Bolt.EntityBehaviour`1](#Bolt.EntityBehaviour`1)
+* [Bolt.EntityTargets](#Bolt.EntityTargets)
+* [Bolt.Event](#Bolt.Event)
+* [FloatArray](#FloatArray)
+* [FloatArrayModifier](#FloatArrayModifier)
+* [BoltInternal.GlobalEventListenerBase](#BoltInternal.GlobalEventListenerBase)
+* [Bolt.GlobalTargets](#Bolt.GlobalTargets)
+* [Bolt.IPriorityCalculator](#Bolt.IPriorityCalculator)
+* [Bolt.IState](#Bolt.IState)
+* [IntegerArray](#IntegerArray)
+* [IntegerArrayModifier](#IntegerArrayModifier)
+* [TransformArray](#TransformArray)
+
+
 ## Bolt.ArrayIndices
  Contains the indices for all arrays that contain a specific property, in order 
 #### *int* Length
@@ -48,10 +50,8 @@
 #### *object* userToken
  User assignable token which lets you pair arbitrary data with the connection 
 #### void Disconnect()
-
  Disconnect this connection 
 #### int GetSkippedUpdates(BoltEntity en)
-
  How many updates have been skipped for the entity to this connection 
 ## BoltEntity
  Enables a game object to be tracked by Bolt over the network 
@@ -74,65 +74,37 @@
 #### *bool* persistsOnSceneLoad
  Should this entity persist between scene loads 
 #### BoltEntitySettingsModifier ModifySettings()
-
  Creates an object which lets you modify the internal settings of an entity before it is attached to Bolt. 
 #### void SetScopeAll(bool inScope)
-- **inScope** If this entity should be in scope or not
-
  Sets the scope of all currently active connections for this entity. Only usable if Scope Mode has been set to Manual. 
 #### void SetScope(BoltConnection connection, bool inScope)
-- **inScope** If this entity should be in scope or not
-
  Sets the scope for the connection passed in for this entity. Only usable if Scope Mode has been set to Manual. 
 #### void SetParent(BoltEntity parent)
-- **parent** The parent of this entity
-
  Sets the parent of this entity 
 #### void TakeControl()
-
  Takes local control of this entity 
 #### void ReleaseControl()
-
  Releases local control of this entity 
 #### void SetUniqueId(Bolt.UniqueId id)
-- **id**
-
 #### void AssignControl(BoltConnection connection)
-- **connection** The connection to assign control to
-
  Assigns control of this entity to a connection 
 #### void RevokeControl()
-
  Revokes control of this entity from a connection 
 #### bool IsController(BoltConnection connection)
-- **connection** The connection to check
-
  Checks if this entity is being controlled by the connection 
 #### bool QueueInput(Bolt.ICommandInput command)
-- **command** The command to queue
-
  Queue a command not his entity for execution. This is called on a client which is controlling a proxied entity the command will also be sent to the server. 
 #### void Idle(BoltConnection connection)
-- **connection** The connection to idle the entity on
-
  Set this entity as idle on the supplied connection, this means that the connection will not receive update state for this entity as long as it's idle. 
 #### void Wakeup(BoltConnection connection)
-- **connection** The connection to wake the entity up on
-
  Wakes this entity up from being idle on the supplied connection, this means that the connection will start receiving updated state for this entity 
 #### void AddEventListener(MonoBehaviour behaviour)
-- **behaviour** The behaviour to invoke event callbacks on
-
  Add an event listener to this entity. 
 #### void RemoveEventListener(MonoBehaviour behaviour)
-- **behaviour** The behaviour to remove
-
  Remove an event listern from this entity 
 #### TState GetState()
-
  Get the state if this entity 
 #### bool StateIs()
-
  Checks which type of state this entity has 
 ## BoltHitbox
  Defines one hitbox on a BoltHitboxBody 
@@ -187,75 +159,40 @@
 #### *GameObject* globalObject
  The global object that all global behaviours will be attached to 
 #### BoltEntity FindEntity(Bolt.UniqueId id)
-- **id** The id to look up
-
  Find an entity based on unique id 
 #### BoltEntity Instantiate(GameObject prefab)
-- **prefab** The prefab to use
-
  Instantiates and attaches an instance of this prefab to Bolt 
 #### BoltEntity Instantiate(Bolt.PrefabId prefabId)
-- **prefabId** The prefab id to create an instance of
-
  Instantiates and attaches an instance of this prefab to Bolt 
 #### GameObject Attach(GameObject gameObject)
-- **gameObject** The game object that contains the Bolt Entity component
-
  Attaches a manually configured entity to bolt 
 #### void Detach(GameObject gameObject)
-- **gameObject** The gameobject holding the entity
-
  Detaches an entity from bolt 
 #### BoltPhysicsHits OverlapSphereAll(Vector3 origin, float radius)
-- **origin** The origin of the sphere
-- **radius** The radius of the sphere
-
  Perform a sphere overlap against Bolt hiboxes 
 #### void Accept(UdpKit.UdpEndPoint ep)
-- **ep** The endpoint to access the connection from
-
  Accept a connection from a specific endpoint, only usable if Accept Mode has been set to Manual 
 #### void Refuse(UdpKit.UdpEndPoint ep)
-- **ep** The endpoint to refuse the connection from
-
  Refuse a connection from a specific endpoint, only usable if Accept Mode has been set to Manual 
 #### void AddGlobalEventListener(MonoBehaviour mb)
-- **mb** The monobehaviour to invoke events on
-
  Manually add a global event listener 
 #### void RemoveGlobalEventListener(MonoBehaviour mb)
-- **mb** The monobehaviour to be removed
-
  Manually remove a global event listener 
 #### void Destroy(GameObject gameobject)
-- **gameobject** The game object which contains the entity
-
  Destroy a bolt entity 
 #### void LoadScene(int scene)
-- **scene** The scene to load
-
  Load a scene based on index, only possible on the Server 
 #### void LoadScene(string scene)
-- **scene** The scene to load
-
  Load a scene based on name, only possible on the Server 
 #### void Connect(UdpKit.UdpEndPoint endpoint)
-- **endpoint** Server end point to connect to
-
  Connect to a server 
 #### void SetSessionData(string serverName, string userData)
-- **serverName** Name of the server
-- **userData** User definable data
-
  Set session data for LAN Broadcast/Master Server listing 
 #### void DisableLanBroadcast()
-
  Disable LAN broadcasting 
 #### void EnableLanBroadcast()
-
  Enable LAN broadcasting 
 #### UdpKit.UdpSession[] GetSessions()
-
  Sessions currently vailable from the LAN Broadcasting/Master Server listing 
 ## BoltPhysicsHit
  Describes a hit to a BoltHitbox on a BoltHitboxBody 
@@ -270,7 +207,6 @@
 #### *int* count
  How many hits we have in the collection 
 #### BoltPhysicsHit GetHit(int index)
-
  Get the hit at a specific index 
 ## Bolt.Command
  Base class that all commands inherit from 
@@ -285,7 +221,6 @@
 #### *int* Length
  The size of the array 
 #### EntityArrayModifier Modify()
-
  Creates aa modifier object for this array 
 ## EntityArrayModifier
  Object which allows you to modify an entity array 
@@ -296,34 +231,22 @@
 #### *BoltEntity* entity
  The entity for this behaviour 
 #### void Initialized()
-
  Invoked when the entity has been initialized, before Attached 
 #### void Attached()
-
  Invoked when Bolt is aware of this entity and all internal state has been setup 
 #### void Detached()
-
  Invoked when this entity is removed from Bolts awareness 
 #### void SimulateOwner()
-
  Invoked each simulation step on the owner 
 #### void SimulateController()
-
  Invoked each simulation step on the controller 
 #### void ControlGained()
-
  Invoked when you gain control of this entity 
 #### void ControlLost()
-
  Invoked when you lost control of this entity 
 #### void MissingCommand(Bolt.Command previous)
-- **previous**
-
  Invoked on the owner when a remote connection is controlling this entity but we have not received any command for the current simulation frame. 
 #### void ExecuteCommand(Bolt.Command command, bool resetState)
-- **command** The command to execute
-- **resetState** Indicates if we should reset the state of the local motor or not
-
  Invoked on both the owner and controller to execute a command 
 ## Bolt.EntityBehaviour`1
  Base class for unity behaviours that want to access Bolt methods with the state available also 
@@ -338,14 +261,12 @@
 #### *BoltConnection* RaisedBy
  Returns the connection this event was received from, will be null if this event was raised on the local computer 
 #### void Send()
-
  Send this event 
 ## FloatArray
  Represents an array of floats on a state 
 #### *int* Length
  The size of the array 
 #### FloatArrayModifier Modify()
-
  Creates aa modifier object for this array 
 ## FloatArrayModifier
  Object which allows you to modify a float array 
@@ -354,55 +275,32 @@
 ## BoltInternal.GlobalEventListenerBase
  Base class for all BoltCallbacks objects 
 #### bool PersistBetweenStartupAndShutdown()
-
  Override this method and return true if you want the event listener to keep being attached to Bolt even when bBolt shuts down and starts again. 
 ## Bolt.GlobalTargets
  Enumeration of target options for global events 
 ## Bolt.IPriorityCalculator
  Interface which can be implemented on a behaviour attached to an entity which lets you provide custom priority calculations for state and events. 
 #### float CalculateStatePriority(BoltConnection connection, Bolt.BitArray mask, int skipped)
-- **connection** The connection we are calculating priority for
-- **mask** The mask of properties with updated values we want to replicate
-- **skipped** How many packets since we sent an update for this entity
-
  Called for calculating the priority of this entity for the connection passed in 
 #### float CalculateEventPriority(BoltConnection connection, Bolt.Event evnt)
-- **connection** The connection we are calculating priority for
-- **evnt** The event we are calculating priority for
-
  Called for calculating the priority of an event sent to this entity for the connection passed in 
 ## Bolt.IState
  Base interface for all states 
 #### void SetAnimator(Animator animator)
-- **animator** The animator object to use
-
  Set the animator object this state should use for reading/writing mecanim parameters 
 #### void AddCallback(string path, Bolt.PropertyCallback callback)
-- **path** The path of the property
-- **callback** The callback delegate
-
  Allows you to hook up a callback to a specific property 
 #### void AddCallback(string path, Bolt.PropertyCallbackSimple callback)
-- **path** The path of the property
-- **callback** The callback delegate
-
  Allows you to hook up a callback to a specific property 
 #### void RemoveCallback(string path, Bolt.PropertyCallback callback)
-- **path** The path of the property
-- **callback** The callback delegate to remove
-
  Removes a callback from a property 
 #### void RemoveCallback(string path, Bolt.PropertyCallbackSimple callback)
-- **path** The path of the property
-- **callback** The callback delegate to remove
-
  Removes a callback from a property 
 ## IntegerArray
  Represents an array of integers on a state 
 #### *int* Length
  The size of the array 
 #### IntegerArrayModifier Modify()
-
  Creates aa modifier object for this array 
 ## IntegerArrayModifier
  Object which allows you to modify an integer array 
