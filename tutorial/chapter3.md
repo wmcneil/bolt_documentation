@@ -121,7 +121,7 @@ Open up the *TutorialServerCallbacks.cs* file and update the class we have in th
 
 Implement the unity `Awake` function and call `TutorialPlayerObjectRegistry.CreateServerPlayer` inside it, this creates the server player for us whenever this callback object becomes active.
 
-Also in `TutorialServerCallbacks` override the method called `ClientConnected` which is inherited from `BoltCallbacks`. Inside of it call `TutorialPlayerObjectRegistry.CreateClientPlayer` and pass in the connection argument.
+Also in `TutorialServerCallbacks` override the method called `Connected` which is inherited from `Bolt.GlobalEventListener`. Inside of it call `TutorialPlayerObjectRegistry.CreateClientPlayer` and pass in the connection argument.
 
 ```csharp
 using UnityEngine;
