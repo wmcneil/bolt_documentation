@@ -42,7 +42,7 @@ With Bolt 0.4+ to remove any of the elements in the Bolt Editor you need to **ho
 
 With Bolt 0.4+ ensure to link up the transform in Attached():
 
-    void Attached() {
+    public override void Attached() {
         state.transform.SetTransforms(transform);
     }
     
