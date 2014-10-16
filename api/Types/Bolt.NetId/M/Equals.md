@@ -3,8 +3,8 @@
 # [Bolt.NetId](Types/Bolt.NetId.md).Equals
 `public virtual bool Equals(object obj)`
 ## Parameters
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.NetId\M\Equals_Parameters.md' Empty
+Contents of 'Types/Bolt.NetId/M/Equals_Parameters.md' is empty
 ## Description
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.NetId\M\Equals_Description.md' Empty
+Contents of 'Types/Bolt.NetId/M/Equals_Description.md' is empty
 ## Example
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.NetId\M\Equals_Example.md' Empty
+Contents of 'Types/Bolt.NetId/M/Equals_Example.md' is empty

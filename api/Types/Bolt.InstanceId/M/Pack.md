@@ -3,8 +3,8 @@
 # [Bolt.InstanceId](Types/Bolt.InstanceId.md).Pack
 `public void Pack(UdpKit.UdpStream stream)`
 ## Parameters
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.InstanceId\M\Pack_Parameters.md' Empty
+Contents of 'Types/Bolt.InstanceId/M/Pack_Parameters.md' is empty
 ## Description
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.InstanceId\M\Pack_Description.md' Empty
+Contents of 'Types/Bolt.InstanceId/M/Pack_Description.md' is empty
 ## Example
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.InstanceId\M\Pack_Example.md' Empty
+Contents of 'Types/Bolt.InstanceId/M/Pack_Example.md' is empty

@@ -3,8 +3,8 @@
 # [Bolt.GlobalEventListener](Types/Bolt.GlobalEventListener.md).ControlOfEntityGained
 `public virtual void ControlOfEntityGained(BoltEntity arg)`
 ## Parameters
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.GlobalEventListener\M\ControlOfEntityGained_Parameters.md' Empty
+Contents of 'Types/Bolt.GlobalEventListener/M/ControlOfEntityGained_Parameters.md' is empty
 ## Description
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.GlobalEventListener\M\ControlOfEntityGained_Description.md' Empty
+Contents of 'Types/Bolt.GlobalEventListener/M/ControlOfEntityGained_Description.md' is empty
 ## Example
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.GlobalEventListener\M\ControlOfEntityGained_Example.md' Empty
+Contents of 'Types/Bolt.GlobalEventListener/M/ControlOfEntityGained_Example.md' is empty

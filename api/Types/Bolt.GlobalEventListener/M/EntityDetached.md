@@ -3,8 +3,8 @@
 # [Bolt.GlobalEventListener](Types/Bolt.GlobalEventListener.md).EntityDetached
 `public virtual void EntityDetached(BoltEntity arg)`
 ## Parameters
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.GlobalEventListener\M\EntityDetached_Parameters.md' Empty
+Contents of 'Types/Bolt.GlobalEventListener/M/EntityDetached_Parameters.md' is empty
 ## Description
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.GlobalEventListener\M\EntityDetached_Description.md' Empty
+Contents of 'Types/Bolt.GlobalEventListener/M/EntityDetached_Description.md' is empty
 ## Example
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.GlobalEventListener\M\EntityDetached_Example.md' Empty
+Contents of 'Types/Bolt.GlobalEventListener/M/EntityDetached_Example.md' is empty

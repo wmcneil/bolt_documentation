@@ -3,6 +3,6 @@
 # [BoltHitboxType](Types/BoltHitboxType.md).Foot
 `public static BoltHitboxType Foot`
 ## Description
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltHitboxType\F\Foot_Description.md' Empty
+Contents of 'Types/BoltHitboxType/F/Foot_Description.md' is empty
 ## Example
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltHitboxType\F\Foot_Example.md' Empty
+Contents of 'Types/BoltHitboxType/F/Foot_Example.md' is empty

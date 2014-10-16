@@ -3,8 +3,8 @@
 # [BoltNetwork](Types/BoltNetwork.md).Detach
 `public static void Detach(GameObject gameObject)`
 ## Parameters
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltNetwork\M\Detach_Parameters.md' Empty
+Contents of 'Types/BoltNetwork/M/Detach_Parameters.md' is empty
 ## Description
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltNetwork\M\Detach_Description.md' Empty
+Contents of 'Types/BoltNetwork/M/Detach_Description.md' is empty
 ## Example
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltNetwork\M\Detach_Example.md' Empty
+Contents of 'Types/BoltNetwork/M/Detach_Example.md' is empty

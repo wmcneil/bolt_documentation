@@ -3,10 +3,10 @@
 # Bolt.EntityEventListener
 `public abstract class Bolt.EntityEventListener`
 ## Description
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.EntityEventListener_Description.md' Empty
+Contents of 'Types/Bolt.EntityEventListener_Description.md' is empty
 ## Example
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.EntityEventListener_Example.md' Empty
+Contents of 'Types/Bolt.EntityEventListener_Example.md' is empty
 ## Methods
 | Method | Summary |
 |:-----|:--------|
-|[Initialized](Bolt.EntityEventListener/M/Initialized.md)|File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.EntityEventListener\M\Initialized_Summary.md' Empty|
+|[Initialized](Bolt.EntityEventListener/M/Initialized.md)|Contents of 'Types/Bolt.EntityEventListener/M/Initialized_Summary.md' is empty|

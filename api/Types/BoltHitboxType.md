@@ -3,32 +3,32 @@
 # BoltHitboxType
 `public struct BoltHitboxType`
 ## Description
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltHitboxType_Description.md' Empty
+Contents of 'Types/BoltHitboxType_Description.md' is empty
 ## Example
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltHitboxType_Example.md' Empty
+Contents of 'Types/BoltHitboxType_Example.md' is empty
 ## Fields
 | Field | Summary |
 |:-----|:--------|
-|[value__](BoltHitboxType/F/value__.md)|File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltHitboxType\F\value___Summary.md' Empty|
-|[Unknown](BoltHitboxType/F/Unknown.md)|File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltHitboxType\F\Unknown_Summary.md' Empty|
-|[Proximity](BoltHitboxType/F/Proximity.md)|File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltHitboxType\F\Proximity_Summary.md' Empty|
-|[Body](BoltHitboxType/F/Body.md)|File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltHitboxType\F\Body_Summary.md' Empty|
-|[Head](BoltHitboxType/F/Head.md)|File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltHitboxType\F\Head_Summary.md' Empty|
-|[Throat](BoltHitboxType/F/Throat.md)|File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltHitboxType\F\Throat_Summary.md' Empty|
-|[Shoulder](BoltHitboxType/F/Shoulder.md)|File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltHitboxType\F\Shoulder_Summary.md' Empty|
-|[UpperArm](BoltHitboxType/F/UpperArm.md)|File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltHitboxType\F\UpperArm_Summary.md' Empty|
-|[Forearm](BoltHitboxType/F/Forearm.md)|File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltHitboxType\F\Forearm_Summary.md' Empty|
-|[Hand](BoltHitboxType/F/Hand.md)|File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltHitboxType\F\Hand_Summary.md' Empty|
-|[Chest](BoltHitboxType/F/Chest.md)|File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltHitboxType\F\Chest_Summary.md' Empty|
-|[Stomach](BoltHitboxType/F/Stomach.md)|File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltHitboxType\F\Stomach_Summary.md' Empty|
-|[Pelvis](BoltHitboxType/F/Pelvis.md)|File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltHitboxType\F\Pelvis_Summary.md' Empty|
-|[Buttocks](BoltHitboxType/F/Buttocks.md)|File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltHitboxType\F\Buttocks_Summary.md' Empty|
-|[Thigh](BoltHitboxType/F/Thigh.md)|File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltHitboxType\F\Thigh_Summary.md' Empty|
-|[Knee](BoltHitboxType/F/Knee.md)|File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltHitboxType\F\Knee_Summary.md' Empty|
-|[Leg](BoltHitboxType/F/Leg.md)|File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltHitboxType\F\Leg_Summary.md' Empty|
-|[Foot](BoltHitboxType/F/Foot.md)|File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltHitboxType\F\Foot_Summary.md' Empty|
-|[Elbow](BoltHitboxType/F/Elbow.md)|File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltHitboxType\F\Elbow_Summary.md' Empty|
-|[Ankle](BoltHitboxType/F/Ankle.md)|File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltHitboxType\F\Ankle_Summary.md' Empty|
-|[Wrist](BoltHitboxType/F/Wrist.md)|File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltHitboxType\F\Wrist_Summary.md' Empty|
-|[Finger](BoltHitboxType/F/Finger.md)|File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltHitboxType\F\Finger_Summary.md' Empty|
-|[Heel](BoltHitboxType/F/Heel.md)|File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltHitboxType\F\Heel_Summary.md' Empty|
+|[value__](BoltHitboxType/F/value__.md)|Contents of 'Types/BoltHitboxType/F/value___Summary.md' is empty|
+|[Unknown](BoltHitboxType/F/Unknown.md)|Contents of 'Types/BoltHitboxType/F/Unknown_Summary.md' is empty|
+|[Proximity](BoltHitboxType/F/Proximity.md)|Contents of 'Types/BoltHitboxType/F/Proximity_Summary.md' is empty|
+|[Body](BoltHitboxType/F/Body.md)|Contents of 'Types/BoltHitboxType/F/Body_Summary.md' is empty|
+|[Head](BoltHitboxType/F/Head.md)|Contents of 'Types/BoltHitboxType/F/Head_Summary.md' is empty|
+|[Throat](BoltHitboxType/F/Throat.md)|Contents of 'Types/BoltHitboxType/F/Throat_Summary.md' is empty|
+|[Shoulder](BoltHitboxType/F/Shoulder.md)|Contents of 'Types/BoltHitboxType/F/Shoulder_Summary.md' is empty|
+|[UpperArm](BoltHitboxType/F/UpperArm.md)|Contents of 'Types/BoltHitboxType/F/UpperArm_Summary.md' is empty|
+|[Forearm](BoltHitboxType/F/Forearm.md)|Contents of 'Types/BoltHitboxType/F/Forearm_Summary.md' is empty|
+|[Hand](BoltHitboxType/F/Hand.md)|Contents of 'Types/BoltHitboxType/F/Hand_Summary.md' is empty|
+|[Chest](BoltHitboxType/F/Chest.md)|Contents of 'Types/BoltHitboxType/F/Chest_Summary.md' is empty|
+|[Stomach](BoltHitboxType/F/Stomach.md)|Contents of 'Types/BoltHitboxType/F/Stomach_Summary.md' is empty|
+|[Pelvis](BoltHitboxType/F/Pelvis.md)|Contents of 'Types/BoltHitboxType/F/Pelvis_Summary.md' is empty|
+|[Buttocks](BoltHitboxType/F/Buttocks.md)|Contents of 'Types/BoltHitboxType/F/Buttocks_Summary.md' is empty|
+|[Thigh](BoltHitboxType/F/Thigh.md)|Contents of 'Types/BoltHitboxType/F/Thigh_Summary.md' is empty|
+|[Knee](BoltHitboxType/F/Knee.md)|Contents of 'Types/BoltHitboxType/F/Knee_Summary.md' is empty|
+|[Leg](BoltHitboxType/F/Leg.md)|Contents of 'Types/BoltHitboxType/F/Leg_Summary.md' is empty|
+|[Foot](BoltHitboxType/F/Foot.md)|Contents of 'Types/BoltHitboxType/F/Foot_Summary.md' is empty|
+|[Elbow](BoltHitboxType/F/Elbow.md)|Contents of 'Types/BoltHitboxType/F/Elbow_Summary.md' is empty|
+|[Ankle](BoltHitboxType/F/Ankle.md)|Contents of 'Types/BoltHitboxType/F/Ankle_Summary.md' is empty|
+|[Wrist](BoltHitboxType/F/Wrist.md)|Contents of 'Types/BoltHitboxType/F/Wrist_Summary.md' is empty|
+|[Finger](BoltHitboxType/F/Finger.md)|Contents of 'Types/BoltHitboxType/F/Finger_Summary.md' is empty|
+|[Heel](BoltHitboxType/F/Heel.md)|Contents of 'Types/BoltHitboxType/F/Heel_Summary.md' is empty|

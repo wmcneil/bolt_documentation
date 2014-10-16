@@ -3,6 +3,6 @@
 # [Bolt.UniqueId](Types/Bolt.UniqueId.md).New
 `public static Bolt.UniqueId New()`
 ## Description
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.UniqueId\M\New_Description.md' Empty
+Contents of 'Types/Bolt.UniqueId/M/New_Description.md' is empty
 ## Example
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.UniqueId\M\New_Example.md' Empty
+Contents of 'Types/Bolt.UniqueId/M/New_Example.md' is empty

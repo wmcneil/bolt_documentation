@@ -3,8 +3,8 @@
 # [Bolt.UniqueId](Types/Bolt.UniqueId.md).Read
 `public static Bolt.UniqueId Read(UdpKit.UdpStream stream)`
 ## Parameters
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.UniqueId\M\Read_Parameters.md' Empty
+Contents of 'Types/Bolt.UniqueId/M/Read_Parameters.md' is empty
 ## Description
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.UniqueId\M\Read_Description.md' Empty
+Contents of 'Types/Bolt.UniqueId/M/Read_Description.md' is empty
 ## Example
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.UniqueId\M\Read_Example.md' Empty
+Contents of 'Types/Bolt.UniqueId/M/Read_Example.md' is empty

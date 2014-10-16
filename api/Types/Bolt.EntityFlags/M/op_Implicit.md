@@ -3,8 +3,8 @@
 # [Bolt.EntityFlags](Types/Bolt.EntityFlags.md).op_Implicit
 `public static bool op_Implicit(Bolt.EntityFlags a)`
 ## Parameters
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.EntityFlags\M\op_Implicit_Parameters.md' Empty
+Contents of 'Types/Bolt.EntityFlags/M/op_Implicit_Parameters.md' is empty
 ## Description
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.EntityFlags\M\op_Implicit_Description.md' Empty
+Contents of 'Types/Bolt.EntityFlags/M/op_Implicit_Description.md' is empty
 ## Example
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.EntityFlags\M\op_Implicit_Example.md' Empty
+Contents of 'Types/Bolt.EntityFlags/M/op_Implicit_Example.md' is empty

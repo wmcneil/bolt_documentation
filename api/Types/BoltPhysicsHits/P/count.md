@@ -3,6 +3,6 @@
 # [BoltPhysicsHits](Types/BoltPhysicsHits.md).count
 `public int count { get; }`
 ## Description
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltPhysicsHits\P\count_Description.md' Empty
+Contents of 'Types/BoltPhysicsHits/P/count_Description.md' is empty
 ## Example
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltPhysicsHits\P\count_Example.md' Empty
+Contents of 'Types/BoltPhysicsHits/P/count_Example.md' is empty

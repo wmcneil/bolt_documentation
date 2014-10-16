@@ -3,8 +3,8 @@
 # [Bolt.GlobalEventListener](Types/Bolt.GlobalEventListener.md).Connected
 `public virtual void Connected(BoltConnection connection)`
 ## Parameters
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.GlobalEventListener\M\Connected_Parameters.md' Empty
+Contents of 'Types/Bolt.GlobalEventListener/M/Connected_Parameters.md' is empty
 ## Description
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.GlobalEventListener\M\Connected_Description.md' Empty
+Contents of 'Types/Bolt.GlobalEventListener/M/Connected_Description.md' is empty
 ## Example
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.GlobalEventListener\M\Connected_Example.md' Empty
+Contents of 'Types/Bolt.GlobalEventListener/M/Connected_Example.md' is empty

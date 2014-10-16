@@ -3,14 +3,14 @@
 # Bolt.GlobalTargets
 `public struct Bolt.GlobalTargets`
 ## Description
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.GlobalTargets_Description.md' Empty
+Contents of 'Types/Bolt.GlobalTargets_Description.md' is empty
 ## Example
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.GlobalTargets_Example.md' Empty
+Contents of 'Types/Bolt.GlobalTargets_Example.md' is empty
 ## Fields
 | Field | Summary |
 |:-----|:--------|
-|[value__](Bolt.GlobalTargets/F/value__.md)|File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.GlobalTargets\F\value___Summary.md' Empty|
-|[Everyone](Bolt.GlobalTargets/F/Everyone.md)|File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.GlobalTargets\F\Everyone_Summary.md' Empty|
-|[Others](Bolt.GlobalTargets/F/Others.md)|File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.GlobalTargets\F\Others_Summary.md' Empty|
-|[Server](Bolt.GlobalTargets/F/Server.md)|File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.GlobalTargets\F\Server_Summary.md' Empty|
-|[AllClients](Bolt.GlobalTargets/F/AllClients.md)|File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.GlobalTargets\F\AllClients_Summary.md' Empty|
+|[value__](Bolt.GlobalTargets/F/value__.md)|Contents of 'Types/Bolt.GlobalTargets/F/value___Summary.md' is empty|
+|[Everyone](Bolt.GlobalTargets/F/Everyone.md)|Contents of 'Types/Bolt.GlobalTargets/F/Everyone_Summary.md' is empty|
+|[Others](Bolt.GlobalTargets/F/Others.md)|Contents of 'Types/Bolt.GlobalTargets/F/Others_Summary.md' is empty|
+|[Server](Bolt.GlobalTargets/F/Server.md)|Contents of 'Types/Bolt.GlobalTargets/F/Server_Summary.md' is empty|
+|[AllClients](Bolt.GlobalTargets/F/AllClients.md)|Contents of 'Types/Bolt.GlobalTargets/F/AllClients_Summary.md' is empty|

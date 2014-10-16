@@ -3,6 +3,6 @@
 # [Bolt.CommandFlags](Types/Bolt.CommandFlags.md).ToString
 `public virtual string ToString()`
 ## Description
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.CommandFlags\M\ToString_Description.md' Empty
+Contents of 'Types/Bolt.CommandFlags/M/ToString_Description.md' is empty
 ## Example
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.CommandFlags\M\ToString_Example.md' Empty
+Contents of 'Types/Bolt.CommandFlags/M/ToString_Example.md' is empty

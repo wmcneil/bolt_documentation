@@ -3,8 +3,8 @@
 # [BoltEntity](Types/BoltEntity.md).Join
 `public static string Join(System.Collections.Generic.IEnumerable&lt;T&gt; items, string seperator)`
 ## Parameters
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltEntity\M\Join_Parameters.md' Empty
+Contents of 'Types/BoltEntity/M/Join_Parameters.md' is empty
 ## Description
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltEntity\M\Join_Description.md' Empty
+Contents of 'Types/BoltEntity/M/Join_Description.md' is empty
 ## Example
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltEntity\M\Join_Example.md' Empty
+Contents of 'Types/BoltEntity/M/Join_Example.md' is empty

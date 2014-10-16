@@ -3,15 +3,15 @@
 # IntegerArray
 `public struct IntegerArray`
 ## Description
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\IntegerArray_Description.md' Empty
+Contents of 'Types/IntegerArray_Description.md' is empty
 ## Example
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\IntegerArray_Example.md' Empty
+Contents of 'Types/IntegerArray_Example.md' is empty
 ## Properties
 | Property | Summary |
 |:-----|:--------|
-|[Length](IntegerArray/P/Length.md)|File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\IntegerArray\P\Length_Summary.md' Empty|
-|[Item](IntegerArray/P/Item.md)|File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\IntegerArray\P\Item_Summary.md' Empty|
+|[Length](IntegerArray/P/Length.md)|Contents of 'Types/IntegerArray/P/Length_Summary.md' is empty|
+|[Item](IntegerArray/P/Item.md)|Contents of 'Types/IntegerArray/P/Item_Summary.md' is empty|
 ## Methods
 | Method | Summary |
 |:-----|:--------|
-|[Modify](IntegerArray/M/Modify.md)|File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\IntegerArray\M\Modify_Summary.md' Empty|
+|[Modify](IntegerArray/M/Modify.md)|Contents of 'Types/IntegerArray/M/Modify_Summary.md' is empty|

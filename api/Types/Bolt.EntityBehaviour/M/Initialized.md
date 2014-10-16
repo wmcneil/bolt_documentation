@@ -3,6 +3,6 @@
 # [Bolt.EntityBehaviour](Types/Bolt.EntityBehaviour.md).Initialized
 `public virtual void Initialized()`
 ## Description
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.EntityBehaviour\M\Initialized_Description.md' Empty
+Contents of 'Types/Bolt.EntityBehaviour/M/Initialized_Description.md' is empty
 ## Example
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.EntityBehaviour\M\Initialized_Example.md' Empty
+Contents of 'Types/Bolt.EntityBehaviour/M/Initialized_Example.md' is empty

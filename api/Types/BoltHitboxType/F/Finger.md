@@ -3,6 +3,6 @@
 # [BoltHitboxType](Types/BoltHitboxType.md).Finger
 `public static BoltHitboxType Finger`
 ## Description
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltHitboxType\F\Finger_Description.md' Empty
+Contents of 'Types/BoltHitboxType/F/Finger_Description.md' is empty
 ## Example
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltHitboxType\F\Finger_Example.md' Empty
+Contents of 'Types/BoltHitboxType/F/Finger_Example.md' is empty

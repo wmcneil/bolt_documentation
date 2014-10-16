@@ -3,8 +3,8 @@
 # [Bolt.GlobalEventListener](Types/Bolt.GlobalEventListener.md).ConnectFailed
 `public virtual void ConnectFailed(UdpKit.UdpEndPoint arg)`
 ## Parameters
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.GlobalEventListener\M\ConnectFailed_Parameters.md' Empty
+Contents of 'Types/Bolt.GlobalEventListener/M/ConnectFailed_Parameters.md' is empty
 ## Description
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.GlobalEventListener\M\ConnectFailed_Description.md' Empty
+Contents of 'Types/Bolt.GlobalEventListener/M/ConnectFailed_Description.md' is empty
 ## Example
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.GlobalEventListener\M\ConnectFailed_Example.md' Empty
+Contents of 'Types/Bolt.GlobalEventListener/M/ConnectFailed_Example.md' is empty

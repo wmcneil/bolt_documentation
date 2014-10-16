@@ -3,6 +3,6 @@
 # [Bolt.InstantiateFlags](Types/Bolt.InstantiateFlags.md).ASSIGN_CONTROL
 `public readonly static Bolt.InstantiateFlags ASSIGN_CONTROL`
 ## Description
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.InstantiateFlags\F\ASSIGN_CONTROL_Description.md' Empty
+Contents of 'Types/Bolt.InstantiateFlags/F/ASSIGN_CONTROL_Description.md' is empty
 ## Example
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.InstantiateFlags\F\ASSIGN_CONTROL_Example.md' Empty
+Contents of 'Types/Bolt.InstantiateFlags/F/ASSIGN_CONTROL_Example.md' is empty

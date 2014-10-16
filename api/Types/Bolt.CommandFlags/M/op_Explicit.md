@@ -3,8 +3,8 @@
 # [Bolt.CommandFlags](Types/Bolt.CommandFlags.md).op_Explicit
 `public static Bolt.CommandFlags op_Explicit(int a)`
 ## Parameters
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.CommandFlags\M\op_Explicit_Parameters.md' Empty
+Contents of 'Types/Bolt.CommandFlags/M/op_Explicit_Parameters.md' is empty
 ## Description
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.CommandFlags\M\op_Explicit_Description.md' Empty
+Contents of 'Types/Bolt.CommandFlags/M/op_Explicit_Description.md' is empty
 ## Example
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.CommandFlags\M\op_Explicit_Example.md' Empty
+Contents of 'Types/Bolt.CommandFlags/M/op_Explicit_Example.md' is empty

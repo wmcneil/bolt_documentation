@@ -3,25 +3,25 @@
 # Bolt.UniqueId
 `public struct Bolt.UniqueId`
 ## Description
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.UniqueId_Description.md' Empty
+Contents of 'Types/Bolt.UniqueId_Description.md' is empty
 ## Example
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.UniqueId_Example.md' Empty
+Contents of 'Types/Bolt.UniqueId_Example.md' is empty
 ## Properties
 | Property | Summary |
 |:-----|:--------|
-|[IdString](Bolt.UniqueId/P/IdString.md)|File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.UniqueId\P\IdString_Summary.md' Empty|
-|[IsNone](Bolt.UniqueId/P/IsNone.md)|File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.UniqueId\P\IsNone_Summary.md' Empty|
-|[None](Bolt.UniqueId/P/None.md)|File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.UniqueId\P\None_Summary.md' Empty|
+|[IdString](Bolt.UniqueId/P/IdString.md)|Contents of 'Types/Bolt.UniqueId/P/IdString_Summary.md' is empty|
+|[IsNone](Bolt.UniqueId/P/IsNone.md)|Contents of 'Types/Bolt.UniqueId/P/IsNone_Summary.md' is empty|
+|[None](Bolt.UniqueId/P/None.md)|Contents of 'Types/Bolt.UniqueId/P/None_Summary.md' is empty|
 ## Methods
 | Method | Summary |
 |:-----|:--------|
-|[Pack](Bolt.UniqueId/M/Pack.md)|File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.UniqueId\M\Pack_Summary.md' Empty|
-|[ToByteArray](Bolt.UniqueId/M/ToByteArray.md)|File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.UniqueId\M\ToByteArray_Summary.md' Empty|
-|[GetHashCode](Bolt.UniqueId/M/GetHashCode.md)|File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.UniqueId\M\GetHashCode_Summary.md' Empty|
-|[Equals](Bolt.UniqueId/M/Equals.md)|File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.UniqueId\M\Equals_Summary.md' Empty|
-|[ToString](Bolt.UniqueId/M/ToString.md)|File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.UniqueId\M\ToString_Summary.md' Empty|
-|[New](Bolt.UniqueId/M/New.md)|File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.UniqueId\M\New_Summary.md' Empty|
-|[Parse](Bolt.UniqueId/M/Parse.md)|File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.UniqueId\M\Parse_Summary.md' Empty|
-|[Read](Bolt.UniqueId/M/Read.md)|File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.UniqueId\M\Read_Summary.md' Empty|
-|[op_Equality](Bolt.UniqueId/M/op_Equality.md)|File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.UniqueId\M\op_Equality_Summary.md' Empty|
-|[op_Inequality](Bolt.UniqueId/M/op_Inequality.md)|File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.UniqueId\M\op_Inequality_Summary.md' Empty|
+|[Pack](Bolt.UniqueId/M/Pack.md)|Contents of 'Types/Bolt.UniqueId/M/Pack_Summary.md' is empty|
+|[ToByteArray](Bolt.UniqueId/M/ToByteArray.md)|Contents of 'Types/Bolt.UniqueId/M/ToByteArray_Summary.md' is empty|
+|[GetHashCode](Bolt.UniqueId/M/GetHashCode.md)|Contents of 'Types/Bolt.UniqueId/M/GetHashCode_Summary.md' is empty|
+|[Equals](Bolt.UniqueId/M/Equals.md)|Contents of 'Types/Bolt.UniqueId/M/Equals_Summary.md' is empty|
+|[ToString](Bolt.UniqueId/M/ToString.md)|Contents of 'Types/Bolt.UniqueId/M/ToString_Summary.md' is empty|
+|[New](Bolt.UniqueId/M/New.md)|Contents of 'Types/Bolt.UniqueId/M/New_Summary.md' is empty|
+|[Parse](Bolt.UniqueId/M/Parse.md)|Contents of 'Types/Bolt.UniqueId/M/Parse_Summary.md' is empty|
+|[Read](Bolt.UniqueId/M/Read.md)|Contents of 'Types/Bolt.UniqueId/M/Read_Summary.md' is empty|
+|[op_Equality](Bolt.UniqueId/M/op_Equality.md)|Contents of 'Types/Bolt.UniqueId/M/op_Equality_Summary.md' is empty|
+|[op_Inequality](Bolt.UniqueId/M/op_Inequality.md)|Contents of 'Types/Bolt.UniqueId/M/op_Inequality_Summary.md' is empty|

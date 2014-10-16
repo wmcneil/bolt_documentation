@@ -3,6 +3,6 @@
 # [BoltHitboxType](Types/BoltHitboxType.md).Forearm
 `public static BoltHitboxType Forearm`
 ## Description
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltHitboxType\F\Forearm_Description.md' Empty
+Contents of 'Types/BoltHitboxType/F/Forearm_Description.md' is empty
 ## Example
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltHitboxType\F\Forearm_Example.md' Empty
+Contents of 'Types/BoltHitboxType/F/Forearm_Example.md' is empty

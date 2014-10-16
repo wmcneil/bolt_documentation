@@ -3,6 +3,6 @@
 # [BoltNetwork](Types/BoltNetwork.md).server
 `public static BoltConnection server { get; }`
 ## Description
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltNetwork\P\server_Description.md' Empty
+Contents of 'Types/BoltNetwork/P/server_Description.md' is empty
 ## Example
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltNetwork\P\server_Example.md' Empty
+Contents of 'Types/BoltNetwork/P/server_Example.md' is empty

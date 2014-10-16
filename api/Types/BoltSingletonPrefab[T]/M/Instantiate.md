@@ -3,6 +3,6 @@
 # [BoltSingletonPrefab&lt;T&gt;](Types/BoltSingletonPrefab&lt;T&gt;.md).Instantiate
 `public static void Instantiate()`
 ## Description
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltSingletonPrefab[T]\M\Instantiate_Description.md' Empty
+Contents of 'Types/BoltSingletonPrefab&lt;T&gt;/M/Instantiate_Description.md' is empty
 ## Example
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltSingletonPrefab[T]\M\Instantiate_Example.md' Empty
+Contents of 'Types/BoltSingletonPrefab&lt;T&gt;/M/Instantiate_Example.md' is empty

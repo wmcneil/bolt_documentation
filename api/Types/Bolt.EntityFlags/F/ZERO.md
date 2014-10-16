@@ -3,6 +3,6 @@
 # [Bolt.EntityFlags](Types/Bolt.EntityFlags.md).ZERO
 `public readonly static Bolt.EntityFlags ZERO`
 ## Description
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.EntityFlags\F\ZERO_Description.md' Empty
+Contents of 'Types/Bolt.EntityFlags/F/ZERO_Description.md' is empty
 ## Example
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.EntityFlags\F\ZERO_Example.md' Empty
+Contents of 'Types/Bolt.EntityFlags/F/ZERO_Example.md' is empty

@@ -3,27 +3,27 @@
 # BoltConnection
 `public class BoltConnection`
 ## Description
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltConnection_Description.md' Empty
+Contents of 'Types/BoltConnection_Description.md' is empty
 ## Example
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltConnection_Example.md' Empty
+Contents of 'Types/BoltConnection_Example.md' is empty
 ## Properties
 | Property | Summary |
 |:-----|:--------|
-|[isLoadingMap](BoltConnection/P/isLoadingMap.md)|File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltConnection\P\isLoadingMap_Summary.md' Empty|
-|[udpConnection](BoltConnection/P/udpConnection.md)|File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltConnection\P\udpConnection_Summary.md' Empty|
-|[remoteFrame](BoltConnection/P/remoteFrame.md)|File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltConnection\P\remoteFrame_Summary.md' Empty|
-|[ping](BoltConnection/P/ping.md)|File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltConnection\P\ping_Summary.md' Empty|
-|[pingAliased](BoltConnection/P/pingAliased.md)|File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltConnection\P\pingAliased_Summary.md' Empty|
-|[bitsPerSecondIn](BoltConnection/P/bitsPerSecondIn.md)|File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltConnection\P\bitsPerSecondIn_Summary.md' Empty|
-|[bitsPerSecondOut](BoltConnection/P/bitsPerSecondOut.md)|File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltConnection\P\bitsPerSecondOut_Summary.md' Empty|
-|[remoteEndPoint](BoltConnection/P/remoteEndPoint.md)|File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltConnection\P\remoteEndPoint_Summary.md' Empty|
-|[userToken](BoltConnection/P/userToken.md)|File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltConnection\P\userToken_Summary.md' Empty|
+|[isLoadingMap](BoltConnection/P/isLoadingMap.md)|Contents of 'Types/BoltConnection/P/isLoadingMap_Summary.md' is empty|
+|[udpConnection](BoltConnection/P/udpConnection.md)|Contents of 'Types/BoltConnection/P/udpConnection_Summary.md' is empty|
+|[remoteFrame](BoltConnection/P/remoteFrame.md)|Contents of 'Types/BoltConnection/P/remoteFrame_Summary.md' is empty|
+|[ping](BoltConnection/P/ping.md)|Contents of 'Types/BoltConnection/P/ping_Summary.md' is empty|
+|[pingAliased](BoltConnection/P/pingAliased.md)|Contents of 'Types/BoltConnection/P/pingAliased_Summary.md' is empty|
+|[bitsPerSecondIn](BoltConnection/P/bitsPerSecondIn.md)|Contents of 'Types/BoltConnection/P/bitsPerSecondIn_Summary.md' is empty|
+|[bitsPerSecondOut](BoltConnection/P/bitsPerSecondOut.md)|Contents of 'Types/BoltConnection/P/bitsPerSecondOut_Summary.md' is empty|
+|[remoteEndPoint](BoltConnection/P/remoteEndPoint.md)|Contents of 'Types/BoltConnection/P/remoteEndPoint_Summary.md' is empty|
+|[userToken](BoltConnection/P/userToken.md)|Contents of 'Types/BoltConnection/P/userToken_Summary.md' is empty|
 ## Methods
 | Method | Summary |
 |:-----|:--------|
-|[Disconnect](BoltConnection/M/Disconnect.md)|File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltConnection\M\Disconnect_Summary.md' Empty|
-|[GetSkippedUpdates](BoltConnection/M/GetSkippedUpdates.md)|File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltConnection\M\GetSkippedUpdates_Summary.md' Empty|
-|[Equals](BoltConnection/M/Equals.md)|File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltConnection\M\Equals_Summary.md' Empty|
-|[GetHashCode](BoltConnection/M/GetHashCode.md)|File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltConnection\M\GetHashCode_Summary.md' Empty|
-|[ToString](BoltConnection/M/ToString.md)|File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltConnection\M\ToString_Summary.md' Empty|
-|[op_Implicit](BoltConnection/M/op_Implicit.md)|File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltConnection\M\op_Implicit_Summary.md' Empty|
+|[Disconnect](BoltConnection/M/Disconnect.md)|Contents of 'Types/BoltConnection/M/Disconnect_Summary.md' is empty|
+|[GetSkippedUpdates](BoltConnection/M/GetSkippedUpdates.md)|Contents of 'Types/BoltConnection/M/GetSkippedUpdates_Summary.md' is empty|
+|[Equals](BoltConnection/M/Equals.md)|Contents of 'Types/BoltConnection/M/Equals_Summary.md' is empty|
+|[GetHashCode](BoltConnection/M/GetHashCode.md)|Contents of 'Types/BoltConnection/M/GetHashCode_Summary.md' is empty|
+|[ToString](BoltConnection/M/ToString.md)|Contents of 'Types/BoltConnection/M/ToString_Summary.md' is empty|
+|[op_Implicit](BoltConnection/M/op_Implicit.md)|Contents of 'Types/BoltConnection/M/op_Implicit_Summary.md' is empty|

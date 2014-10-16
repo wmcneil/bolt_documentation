@@ -3,6 +3,6 @@
 # [Bolt.EntityFlags](Types/Bolt.EntityFlags.md).ToString
 `public virtual string ToString()`
 ## Description
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.EntityFlags\M\ToString_Description.md' Empty
+Contents of 'Types/Bolt.EntityFlags/M/ToString_Description.md' is empty
 ## Example
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.EntityFlags\M\ToString_Example.md' Empty
+Contents of 'Types/Bolt.EntityFlags/M/ToString_Example.md' is empty

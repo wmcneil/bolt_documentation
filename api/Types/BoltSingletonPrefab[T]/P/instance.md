@@ -3,6 +3,6 @@
 # [BoltSingletonPrefab&lt;T&gt;](Types/BoltSingletonPrefab&lt;T&gt;.md).instance
 `public static T instance { get; }`
 ## Description
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltSingletonPrefab[T]\P\instance_Description.md' Empty
+Contents of 'Types/BoltSingletonPrefab&lt;T&gt;/P/instance_Description.md' is empty
 ## Example
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltSingletonPrefab[T]\P\instance_Example.md' Empty
+Contents of 'Types/BoltSingletonPrefab&lt;T&gt;/P/instance_Example.md' is empty

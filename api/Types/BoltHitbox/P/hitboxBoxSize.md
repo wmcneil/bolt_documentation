@@ -3,6 +3,6 @@
 # [BoltHitbox](Types/BoltHitbox.md).hitboxBoxSize
 `public Vector3 hitboxBoxSize { get; }`
 ## Description
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltHitbox\P\hitboxBoxSize_Description.md' Empty
+Contents of 'Types/BoltHitbox/P/hitboxBoxSize_Description.md' is empty
 ## Example
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltHitbox\P\hitboxBoxSize_Example.md' Empty
+Contents of 'Types/BoltHitbox/P/hitboxBoxSize_Example.md' is empty

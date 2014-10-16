@@ -3,6 +3,6 @@
 # [BoltNetwork](Types/BoltNetwork.md).serverFrame
 `public static int serverFrame { get; }`
 ## Description
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltNetwork\P\serverFrame_Description.md' Empty
+Contents of 'Types/BoltNetwork/P/serverFrame_Description.md' is empty
 ## Example
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltNetwork\P\serverFrame_Example.md' Empty
+Contents of 'Types/BoltNetwork/P/serverFrame_Example.md' is empty

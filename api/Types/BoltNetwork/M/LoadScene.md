@@ -3,8 +3,8 @@
 # [BoltNetwork](Types/BoltNetwork.md).LoadScene
 `public static void LoadScene(string scene)`
 ## Parameters
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltNetwork\M\LoadScene_Parameters.md' Empty
+Contents of 'Types/BoltNetwork/M/LoadScene_Parameters.md' is empty
 ## Description
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltNetwork\M\LoadScene_Description.md' Empty
+Contents of 'Types/BoltNetwork/M/LoadScene_Description.md' is empty
 ## Example
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltNetwork\M\LoadScene_Example.md' Empty
+Contents of 'Types/BoltNetwork/M/LoadScene_Example.md' is empty

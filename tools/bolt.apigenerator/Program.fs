@@ -81,8 +81,8 @@ let main argv =
 
     else
       if header <> "Summary" 
-        then p (sprintf "File '%s' Empty" (makePath file))
-        else a (sprintf "File '%s' Empty" (makePath file))
+        then p (sprintf "Contents of '%s' is empty" file)
+        else a (sprintf "Contents of '%s' is empty" file)
 
   let dll = 
     Mono.Cecil.AssemblyDefinition.ReadAssembly("C:\\Users\\Fredrik\\Documents\\GitHub\\bolt\\build\\bolt.dll")

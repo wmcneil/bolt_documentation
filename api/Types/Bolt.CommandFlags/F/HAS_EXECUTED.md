@@ -3,6 +3,6 @@
 # [Bolt.CommandFlags](Types/Bolt.CommandFlags.md).HAS_EXECUTED
 `public readonly static Bolt.CommandFlags HAS_EXECUTED`
 ## Description
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.CommandFlags\F\HAS_EXECUTED_Description.md' Empty
+Contents of 'Types/Bolt.CommandFlags/F/HAS_EXECUTED_Description.md' is empty
 ## Example
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.CommandFlags\F\HAS_EXECUTED_Example.md' Empty
+Contents of 'Types/Bolt.CommandFlags/F/HAS_EXECUTED_Example.md' is empty

@@ -3,6 +3,6 @@
 # [FloatArrayModifier](Types/FloatArrayModifier.md).Length
 `public int Length { get; }`
 ## Description
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\FloatArrayModifier\P\Length_Description.md' Empty
+Contents of 'Types/FloatArrayModifier/P/Length_Description.md' is empty
 ## Example
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\FloatArrayModifier\P\Length_Example.md' Empty
+Contents of 'Types/FloatArrayModifier/P/Length_Example.md' is empty

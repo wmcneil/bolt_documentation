@@ -3,6 +3,6 @@
 # BoltHitboxBody
 `public class BoltHitboxBody`
 ## Description
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltHitboxBody_Description.md' Empty
+Contents of 'Types/BoltHitboxBody_Description.md' is empty
 ## Example
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltHitboxBody_Example.md' Empty
+Contents of 'Types/BoltHitboxBody_Example.md' is empty

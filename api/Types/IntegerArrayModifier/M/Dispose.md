@@ -3,6 +3,6 @@
 # [IntegerArrayModifier](Types/IntegerArrayModifier.md).Dispose
 `public virtual void Dispose()`
 ## Description
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\IntegerArrayModifier\M\Dispose_Description.md' Empty
+Contents of 'Types/IntegerArrayModifier/M/Dispose_Description.md' is empty
 ## Example
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\IntegerArrayModifier\M\Dispose_Example.md' Empty
+Contents of 'Types/IntegerArrayModifier/M/Dispose_Example.md' is empty

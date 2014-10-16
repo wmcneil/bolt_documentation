@@ -3,8 +3,8 @@
 # [Bolt.CommandFlags](Types/Bolt.CommandFlags.md).op_Implicit
 `public static bool op_Implicit(Bolt.CommandFlags a)`
 ## Parameters
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.CommandFlags\M\op_Implicit_Parameters.md' Empty
+Contents of 'Types/Bolt.CommandFlags/M/op_Implicit_Parameters.md' is empty
 ## Description
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.CommandFlags\M\op_Implicit_Description.md' Empty
+Contents of 'Types/Bolt.CommandFlags/M/op_Implicit_Description.md' is empty
 ## Example
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.CommandFlags\M\op_Implicit_Example.md' Empty
+Contents of 'Types/Bolt.CommandFlags/M/op_Implicit_Example.md' is empty

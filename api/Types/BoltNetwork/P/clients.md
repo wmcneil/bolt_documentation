@@ -3,6 +3,6 @@
 # [BoltNetwork](Types/BoltNetwork.md).clients
 `public static System.Collections.Generic.IEnumerable&lt;BoltConnection&gt; clients { get; }`
 ## Description
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltNetwork\P\clients_Description.md' Empty
+Contents of 'Types/BoltNetwork/P/clients_Description.md' is empty
 ## Example
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltNetwork\P\clients_Example.md' Empty
+Contents of 'Types/BoltNetwork/P/clients_Example.md' is empty

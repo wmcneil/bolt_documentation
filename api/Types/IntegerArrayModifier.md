@@ -3,15 +3,15 @@
 # IntegerArrayModifier
 `public class IntegerArrayModifier`
 ## Description
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\IntegerArrayModifier_Description.md' Empty
+Contents of 'Types/IntegerArrayModifier_Description.md' is empty
 ## Example
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\IntegerArrayModifier_Example.md' Empty
+Contents of 'Types/IntegerArrayModifier_Example.md' is empty
 ## Properties
 | Property | Summary |
 |:-----|:--------|
-|[Length](IntegerArrayModifier/P/Length.md)|File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\IntegerArrayModifier\P\Length_Summary.md' Empty|
-|[Item](IntegerArrayModifier/P/Item.md)|File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\IntegerArrayModifier\P\Item_Summary.md' Empty|
+|[Length](IntegerArrayModifier/P/Length.md)|Contents of 'Types/IntegerArrayModifier/P/Length_Summary.md' is empty|
+|[Item](IntegerArrayModifier/P/Item.md)|Contents of 'Types/IntegerArrayModifier/P/Item_Summary.md' is empty|
 ## Methods
 | Method | Summary |
 |:-----|:--------|
-|[Dispose](IntegerArrayModifier/M/Dispose.md)|File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\IntegerArrayModifier\M\Dispose_Summary.md' Empty|
+|[Dispose](IntegerArrayModifier/M/Dispose.md)|Contents of 'Types/IntegerArrayModifier/M/Dispose_Summary.md' is empty|

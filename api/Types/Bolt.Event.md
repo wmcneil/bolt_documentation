@@ -3,15 +3,15 @@
 # Bolt.Event
 `public abstract class Bolt.Event`
 ## Description
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.Event_Description.md' Empty
+Contents of 'Types/Bolt.Event_Description.md' is empty
 ## Example
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.Event_Example.md' Empty
+Contents of 'Types/Bolt.Event_Example.md' is empty
 ## Properties
 | Property | Summary |
 |:-----|:--------|
-|[IsFromLocalComputer](Bolt.Event/P/IsFromLocalComputer.md)|File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.Event\P\IsFromLocalComputer_Summary.md' Empty|
-|[RaisedBy](Bolt.Event/P/RaisedBy.md)|File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.Event\P\RaisedBy_Summary.md' Empty|
+|[IsFromLocalComputer](Bolt.Event/P/IsFromLocalComputer.md)|Contents of 'Types/Bolt.Event/P/IsFromLocalComputer_Summary.md' is empty|
+|[RaisedBy](Bolt.Event/P/RaisedBy.md)|Contents of 'Types/Bolt.Event/P/RaisedBy_Summary.md' is empty|
 ## Methods
 | Method | Summary |
 |:-----|:--------|
-|[Send](Bolt.Event/M/Send.md)|File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.Event\M\Send_Summary.md' Empty|
+|[Send](Bolt.Event/M/Send.md)|Contents of 'Types/Bolt.Event/M/Send_Summary.md' is empty|

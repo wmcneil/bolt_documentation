@@ -3,8 +3,8 @@
 # [BoltNetwork](Types/BoltNetwork.md).AddGlobalEventListener
 `public static void AddGlobalEventListener(MonoBehaviour mb)`
 ## Parameters
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltNetwork\M\AddGlobalEventListener_Parameters.md' Empty
+Contents of 'Types/BoltNetwork/M/AddGlobalEventListener_Parameters.md' is empty
 ## Description
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltNetwork\M\AddGlobalEventListener_Description.md' Empty
+Contents of 'Types/BoltNetwork/M/AddGlobalEventListener_Description.md' is empty
 ## Example
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltNetwork\M\AddGlobalEventListener_Example.md' Empty
+Contents of 'Types/BoltNetwork/M/AddGlobalEventListener_Example.md' is empty

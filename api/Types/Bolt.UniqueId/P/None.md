@@ -3,6 +3,6 @@
 # [Bolt.UniqueId](Types/Bolt.UniqueId.md).None
 `public static Bolt.UniqueId None { get; }`
 ## Description
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.UniqueId\P\None_Description.md' Empty
+Contents of 'Types/Bolt.UniqueId/P/None_Description.md' is empty
 ## Example
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.UniqueId\P\None_Example.md' Empty
+Contents of 'Types/Bolt.UniqueId/P/None_Example.md' is empty

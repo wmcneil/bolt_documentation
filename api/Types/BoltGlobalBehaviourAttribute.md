@@ -3,12 +3,12 @@
 # BoltGlobalBehaviourAttribute
 `public class BoltGlobalBehaviourAttribute`
 ## Description
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltGlobalBehaviourAttribute_Description.md' Empty
+Contents of 'Types/BoltGlobalBehaviourAttribute_Description.md' is empty
 ## Example
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltGlobalBehaviourAttribute_Example.md' Empty
+Contents of 'Types/BoltGlobalBehaviourAttribute_Example.md' is empty
 ## Properties
 | Property | Summary |
 |:-----|:--------|
-|[Mode](BoltGlobalBehaviourAttribute/P/Mode.md)|File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltGlobalBehaviourAttribute\P\Mode_Summary.md' Empty|
-|[Scenes](BoltGlobalBehaviourAttribute/P/Scenes.md)|File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltGlobalBehaviourAttribute\P\Scenes_Summary.md' Empty|
-|[ScenesNames](BoltGlobalBehaviourAttribute/P/ScenesNames.md)|File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltGlobalBehaviourAttribute\P\ScenesNames_Summary.md' Empty|
+|[Mode](BoltGlobalBehaviourAttribute/P/Mode.md)|Contents of 'Types/BoltGlobalBehaviourAttribute/P/Mode_Summary.md' is empty|
+|[Scenes](BoltGlobalBehaviourAttribute/P/Scenes.md)|Contents of 'Types/BoltGlobalBehaviourAttribute/P/Scenes_Summary.md' is empty|
+|[ScenesNames](BoltGlobalBehaviourAttribute/P/ScenesNames.md)|Contents of 'Types/BoltGlobalBehaviourAttribute/P/ScenesNames_Summary.md' is empty|

@@ -3,34 +3,34 @@
 # Bolt.CommandFlags
 `public struct Bolt.CommandFlags`
 ## Description
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.CommandFlags_Description.md' Empty
+Contents of 'Types/Bolt.CommandFlags_Description.md' is empty
 ## Example
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.CommandFlags_Example.md' Empty
+Contents of 'Types/Bolt.CommandFlags_Example.md' is empty
 ## Fields
 | Field | Summary |
 |:-----|:--------|
-|[ZERO](Bolt.CommandFlags/F/ZERO.md)|File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.CommandFlags\F\ZERO_Summary.md' Empty|
-|[HAS_EXECUTED](Bolt.CommandFlags/F/HAS_EXECUTED.md)|File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.CommandFlags\F\HAS_EXECUTED_Summary.md' Empty|
-|[SEND_STATE](Bolt.CommandFlags/F/SEND_STATE.md)|File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.CommandFlags\F\SEND_STATE_Summary.md' Empty|
-|[SEND_STATE_PERFORMED](Bolt.CommandFlags/F/SEND_STATE_PERFORMED.md)|File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.CommandFlags\F\SEND_STATE_PERFORMED_Summary.md' Empty|
-|[CORRECTION_RECEIVED](Bolt.CommandFlags/F/CORRECTION_RECEIVED.md)|File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.CommandFlags\F\CORRECTION_RECEIVED_Summary.md' Empty|
-|[DISPOSE](Bolt.CommandFlags/F/DISPOSE.md)|File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.CommandFlags\F\DISPOSE_Summary.md' Empty|
+|[ZERO](Bolt.CommandFlags/F/ZERO.md)|Contents of 'Types/Bolt.CommandFlags/F/ZERO_Summary.md' is empty|
+|[HAS_EXECUTED](Bolt.CommandFlags/F/HAS_EXECUTED.md)|Contents of 'Types/Bolt.CommandFlags/F/HAS_EXECUTED_Summary.md' is empty|
+|[SEND_STATE](Bolt.CommandFlags/F/SEND_STATE.md)|Contents of 'Types/Bolt.CommandFlags/F/SEND_STATE_Summary.md' is empty|
+|[SEND_STATE_PERFORMED](Bolt.CommandFlags/F/SEND_STATE_PERFORMED.md)|Contents of 'Types/Bolt.CommandFlags/F/SEND_STATE_PERFORMED_Summary.md' is empty|
+|[CORRECTION_RECEIVED](Bolt.CommandFlags/F/CORRECTION_RECEIVED.md)|Contents of 'Types/Bolt.CommandFlags/F/CORRECTION_RECEIVED_Summary.md' is empty|
+|[DISPOSE](Bolt.CommandFlags/F/DISPOSE.md)|Contents of 'Types/Bolt.CommandFlags/F/DISPOSE_Summary.md' is empty|
 ## Properties
 | Property | Summary |
 |:-----|:--------|
-|[IsZero](Bolt.CommandFlags/P/IsZero.md)|File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.CommandFlags\P\IsZero_Summary.md' Empty|
+|[IsZero](Bolt.CommandFlags/P/IsZero.md)|Contents of 'Types/Bolt.CommandFlags/P/IsZero_Summary.md' is empty|
 ## Methods
 | Method | Summary |
 |:-----|:--------|
-|[GetHashCode](Bolt.CommandFlags/M/GetHashCode.md)|File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.CommandFlags\M\GetHashCode_Summary.md' Empty|
-|[Equals](Bolt.CommandFlags/M/Equals.md)|File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.CommandFlags\M\Equals_Summary.md' Empty|
-|[ToString](Bolt.CommandFlags/M/ToString.md)|File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.CommandFlags\M\ToString_Summary.md' Empty|
-|[op_Implicit](Bolt.CommandFlags/M/op_Implicit.md)|File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.CommandFlags\M\op_Implicit_Summary.md' Empty|
-|[op_Explicit](Bolt.CommandFlags/M/op_Explicit.md)|File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.CommandFlags\M\op_Explicit_Summary.md' Empty|
-|[op_Explicit](Bolt.CommandFlags/M/op_Explicit.md)|File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.CommandFlags\M\op_Explicit_Summary.md' Empty|
-|[op_BitwiseAnd](Bolt.CommandFlags/M/op_BitwiseAnd.md)|File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.CommandFlags\M\op_BitwiseAnd_Summary.md' Empty|
-|[op_BitwiseOr](Bolt.CommandFlags/M/op_BitwiseOr.md)|File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.CommandFlags\M\op_BitwiseOr_Summary.md' Empty|
-|[op_ExclusiveOr](Bolt.CommandFlags/M/op_ExclusiveOr.md)|File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.CommandFlags\M\op_ExclusiveOr_Summary.md' Empty|
-|[op_OnesComplement](Bolt.CommandFlags/M/op_OnesComplement.md)|File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.CommandFlags\M\op_OnesComplement_Summary.md' Empty|
-|[op_Equality](Bolt.CommandFlags/M/op_Equality.md)|File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.CommandFlags\M\op_Equality_Summary.md' Empty|
-|[op_Inequality](Bolt.CommandFlags/M/op_Inequality.md)|File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.CommandFlags\M\op_Inequality_Summary.md' Empty|
+|[GetHashCode](Bolt.CommandFlags/M/GetHashCode.md)|Contents of 'Types/Bolt.CommandFlags/M/GetHashCode_Summary.md' is empty|
+|[Equals](Bolt.CommandFlags/M/Equals.md)|Contents of 'Types/Bolt.CommandFlags/M/Equals_Summary.md' is empty|
+|[ToString](Bolt.CommandFlags/M/ToString.md)|Contents of 'Types/Bolt.CommandFlags/M/ToString_Summary.md' is empty|
+|[op_Implicit](Bolt.CommandFlags/M/op_Implicit.md)|Contents of 'Types/Bolt.CommandFlags/M/op_Implicit_Summary.md' is empty|
+|[op_Explicit](Bolt.CommandFlags/M/op_Explicit.md)|Contents of 'Types/Bolt.CommandFlags/M/op_Explicit_Summary.md' is empty|
+|[op_Explicit](Bolt.CommandFlags/M/op_Explicit.md)|Contents of 'Types/Bolt.CommandFlags/M/op_Explicit_Summary.md' is empty|
+|[op_BitwiseAnd](Bolt.CommandFlags/M/op_BitwiseAnd.md)|Contents of 'Types/Bolt.CommandFlags/M/op_BitwiseAnd_Summary.md' is empty|
+|[op_BitwiseOr](Bolt.CommandFlags/M/op_BitwiseOr.md)|Contents of 'Types/Bolt.CommandFlags/M/op_BitwiseOr_Summary.md' is empty|
+|[op_ExclusiveOr](Bolt.CommandFlags/M/op_ExclusiveOr.md)|Contents of 'Types/Bolt.CommandFlags/M/op_ExclusiveOr_Summary.md' is empty|
+|[op_OnesComplement](Bolt.CommandFlags/M/op_OnesComplement.md)|Contents of 'Types/Bolt.CommandFlags/M/op_OnesComplement_Summary.md' is empty|
+|[op_Equality](Bolt.CommandFlags/M/op_Equality.md)|Contents of 'Types/Bolt.CommandFlags/M/op_Equality_Summary.md' is empty|
+|[op_Inequality](Bolt.CommandFlags/M/op_Inequality.md)|Contents of 'Types/Bolt.CommandFlags/M/op_Inequality_Summary.md' is empty|

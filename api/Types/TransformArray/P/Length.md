@@ -3,6 +3,6 @@
 # [TransformArray](Types/TransformArray.md).Length
 `public int Length { get; }`
 ## Description
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\TransformArray\P\Length_Description.md' Empty
+Contents of 'Types/TransformArray/P/Length_Description.md' is empty
 ## Example
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\TransformArray\P\Length_Example.md' Empty
+Contents of 'Types/TransformArray/P/Length_Example.md' is empty

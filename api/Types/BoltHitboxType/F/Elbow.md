@@ -3,6 +3,6 @@
 # [BoltHitboxType](Types/BoltHitboxType.md).Elbow
 `public static BoltHitboxType Elbow`
 ## Description
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltHitboxType\F\Elbow_Description.md' Empty
+Contents of 'Types/BoltHitboxType/F/Elbow_Description.md' is empty
 ## Example
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltHitboxType\F\Elbow_Example.md' Empty
+Contents of 'Types/BoltHitboxType/F/Elbow_Example.md' is empty

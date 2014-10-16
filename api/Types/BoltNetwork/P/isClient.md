@@ -3,6 +3,6 @@
 # [BoltNetwork](Types/BoltNetwork.md).isClient
 `public static bool isClient { get; }`
 ## Description
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltNetwork\P\isClient_Description.md' Empty
+Contents of 'Types/BoltNetwork/P/isClient_Description.md' is empty
 ## Example
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltNetwork\P\isClient_Example.md' Empty
+Contents of 'Types/BoltNetwork/P/isClient_Example.md' is empty

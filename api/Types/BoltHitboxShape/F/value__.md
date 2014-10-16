@@ -3,6 +3,6 @@
 # [BoltHitboxShape](Types/BoltHitboxShape.md).value__
 `public int value__`
 ## Description
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltHitboxShape\F\value___Description.md' Empty
+Contents of 'Types/BoltHitboxShape/F/value___Description.md' is empty
 ## Example
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltHitboxShape\F\value___Example.md' Empty
+Contents of 'Types/BoltHitboxShape/F/value___Example.md' is empty

@@ -3,6 +3,6 @@
 # [BoltHitboxType](Types/BoltHitboxType.md).Proximity
 `public static BoltHitboxType Proximity`
 ## Description
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltHitboxType\F\Proximity_Description.md' Empty
+Contents of 'Types/BoltHitboxType/F/Proximity_Description.md' is empty
 ## Example
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltHitboxType\F\Proximity_Example.md' Empty
+Contents of 'Types/BoltHitboxType/F/Proximity_Example.md' is empty

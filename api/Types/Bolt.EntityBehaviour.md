@@ -3,22 +3,22 @@
 # Bolt.EntityBehaviour
 `public abstract class Bolt.EntityBehaviour`
 ## Description
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.EntityBehaviour_Description.md' Empty
+Contents of 'Types/Bolt.EntityBehaviour_Description.md' is empty
 ## Example
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.EntityBehaviour_Example.md' Empty
+Contents of 'Types/Bolt.EntityBehaviour_Example.md' is empty
 ## Properties
 | Property | Summary |
 |:-----|:--------|
-|[entity](Bolt.EntityBehaviour/P/entity.md)|File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.EntityBehaviour\P\entity_Summary.md' Empty|
+|[entity](Bolt.EntityBehaviour/P/entity.md)|Contents of 'Types/Bolt.EntityBehaviour/P/entity_Summary.md' is empty|
 ## Methods
 | Method | Summary |
 |:-----|:--------|
-|[Initialized](Bolt.EntityBehaviour/M/Initialized.md)|File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.EntityBehaviour\M\Initialized_Summary.md' Empty|
-|[Attached](Bolt.EntityBehaviour/M/Attached.md)|File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.EntityBehaviour\M\Attached_Summary.md' Empty|
-|[Detached](Bolt.EntityBehaviour/M/Detached.md)|File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.EntityBehaviour\M\Detached_Summary.md' Empty|
-|[SimulateOwner](Bolt.EntityBehaviour/M/SimulateOwner.md)|File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.EntityBehaviour\M\SimulateOwner_Summary.md' Empty|
-|[SimulateController](Bolt.EntityBehaviour/M/SimulateController.md)|File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.EntityBehaviour\M\SimulateController_Summary.md' Empty|
-|[ControlGained](Bolt.EntityBehaviour/M/ControlGained.md)|File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.EntityBehaviour\M\ControlGained_Summary.md' Empty|
-|[ControlLost](Bolt.EntityBehaviour/M/ControlLost.md)|File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.EntityBehaviour\M\ControlLost_Summary.md' Empty|
-|[MissingCommand](Bolt.EntityBehaviour/M/MissingCommand.md)|File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.EntityBehaviour\M\MissingCommand_Summary.md' Empty|
-|[ExecuteCommand](Bolt.EntityBehaviour/M/ExecuteCommand.md)|File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.EntityBehaviour\M\ExecuteCommand_Summary.md' Empty|
+|[Initialized](Bolt.EntityBehaviour/M/Initialized.md)|Contents of 'Types/Bolt.EntityBehaviour/M/Initialized_Summary.md' is empty|
+|[Attached](Bolt.EntityBehaviour/M/Attached.md)|Contents of 'Types/Bolt.EntityBehaviour/M/Attached_Summary.md' is empty|
+|[Detached](Bolt.EntityBehaviour/M/Detached.md)|Contents of 'Types/Bolt.EntityBehaviour/M/Detached_Summary.md' is empty|
+|[SimulateOwner](Bolt.EntityBehaviour/M/SimulateOwner.md)|Contents of 'Types/Bolt.EntityBehaviour/M/SimulateOwner_Summary.md' is empty|
+|[SimulateController](Bolt.EntityBehaviour/M/SimulateController.md)|Contents of 'Types/Bolt.EntityBehaviour/M/SimulateController_Summary.md' is empty|
+|[ControlGained](Bolt.EntityBehaviour/M/ControlGained.md)|Contents of 'Types/Bolt.EntityBehaviour/M/ControlGained_Summary.md' is empty|
+|[ControlLost](Bolt.EntityBehaviour/M/ControlLost.md)|Contents of 'Types/Bolt.EntityBehaviour/M/ControlLost_Summary.md' is empty|
+|[MissingCommand](Bolt.EntityBehaviour/M/MissingCommand.md)|Contents of 'Types/Bolt.EntityBehaviour/M/MissingCommand_Summary.md' is empty|
+|[ExecuteCommand](Bolt.EntityBehaviour/M/ExecuteCommand.md)|Contents of 'Types/Bolt.EntityBehaviour/M/ExecuteCommand_Summary.md' is empty|

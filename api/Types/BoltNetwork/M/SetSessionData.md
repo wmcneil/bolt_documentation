@@ -3,8 +3,8 @@
 # [BoltNetwork](Types/BoltNetwork.md).SetSessionData
 `public static void SetSessionData(string serverName, string userData)`
 ## Parameters
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltNetwork\M\SetSessionData_Parameters.md' Empty
+Contents of 'Types/BoltNetwork/M/SetSessionData_Parameters.md' is empty
 ## Description
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltNetwork\M\SetSessionData_Description.md' Empty
+Contents of 'Types/BoltNetwork/M/SetSessionData_Description.md' is empty
 ## Example
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltNetwork\M\SetSessionData_Example.md' Empty
+Contents of 'Types/BoltNetwork/M/SetSessionData_Example.md' is empty

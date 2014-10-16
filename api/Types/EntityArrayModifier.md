@@ -3,15 +3,15 @@
 # EntityArrayModifier
 `public class EntityArrayModifier`
 ## Description
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\EntityArrayModifier_Description.md' Empty
+Contents of 'Types/EntityArrayModifier_Description.md' is empty
 ## Example
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\EntityArrayModifier_Example.md' Empty
+Contents of 'Types/EntityArrayModifier_Example.md' is empty
 ## Properties
 | Property | Summary |
 |:-----|:--------|
-|[Length](EntityArrayModifier/P/Length.md)|File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\EntityArrayModifier\P\Length_Summary.md' Empty|
-|[Item](EntityArrayModifier/P/Item.md)|File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\EntityArrayModifier\P\Item_Summary.md' Empty|
+|[Length](EntityArrayModifier/P/Length.md)|Contents of 'Types/EntityArrayModifier/P/Length_Summary.md' is empty|
+|[Item](EntityArrayModifier/P/Item.md)|Contents of 'Types/EntityArrayModifier/P/Item_Summary.md' is empty|
 ## Methods
 | Method | Summary |
 |:-----|:--------|
-|[Dispose](EntityArrayModifier/M/Dispose.md)|File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\EntityArrayModifier\M\Dispose_Summary.md' Empty|
+|[Dispose](EntityArrayModifier/M/Dispose.md)|Contents of 'Types/EntityArrayModifier/M/Dispose_Summary.md' is empty|

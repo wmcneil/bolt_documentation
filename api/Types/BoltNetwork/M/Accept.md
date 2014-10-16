@@ -3,8 +3,8 @@
 # [BoltNetwork](Types/BoltNetwork.md).Accept
 `public static void Accept(UdpKit.UdpEndPoint ep, object userToken)`
 ## Parameters
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltNetwork\M\Accept_Parameters.md' Empty
+Contents of 'Types/BoltNetwork/M/Accept_Parameters.md' is empty
 ## Description
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltNetwork\M\Accept_Description.md' Empty
+Contents of 'Types/BoltNetwork/M/Accept_Description.md' is empty
 ## Example
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltNetwork\M\Accept_Example.md' Empty
+Contents of 'Types/BoltNetwork/M/Accept_Example.md' is empty

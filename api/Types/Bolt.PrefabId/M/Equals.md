@@ -3,8 +3,8 @@
 # [Bolt.PrefabId](Types/Bolt.PrefabId.md).Equals
 `public virtual bool Equals(object obj)`
 ## Parameters
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.PrefabId\M\Equals_Parameters.md' Empty
+Contents of 'Types/Bolt.PrefabId/M/Equals_Parameters.md' is empty
 ## Description
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.PrefabId\M\Equals_Description.md' Empty
+Contents of 'Types/Bolt.PrefabId/M/Equals_Description.md' is empty
 ## Example
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.PrefabId\M\Equals_Example.md' Empty
+Contents of 'Types/Bolt.PrefabId/M/Equals_Example.md' is empty

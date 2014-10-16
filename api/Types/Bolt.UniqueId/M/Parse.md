@@ -3,8 +3,8 @@
 # [Bolt.UniqueId](Types/Bolt.UniqueId.md).Parse
 `public static Bolt.UniqueId Parse(string text)`
 ## Parameters
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.UniqueId\M\Parse_Parameters.md' Empty
+Contents of 'Types/Bolt.UniqueId/M/Parse_Parameters.md' is empty
 ## Description
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.UniqueId\M\Parse_Description.md' Empty
+Contents of 'Types/Bolt.UniqueId/M/Parse_Description.md' is empty
 ## Example
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.UniqueId\M\Parse_Example.md' Empty
+Contents of 'Types/Bolt.UniqueId/M/Parse_Example.md' is empty

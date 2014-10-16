@@ -3,8 +3,8 @@
 # [BoltEntity](Types/BoltEntity.md).SetScope
 `public void SetScope(BoltConnection connection, bool inScope)`
 ## Parameters
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltEntity\M\SetScope_Parameters.md' Empty
+Contents of 'Types/BoltEntity/M/SetScope_Parameters.md' is empty
 ## Description
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltEntity\M\SetScope_Description.md' Empty
+Contents of 'Types/BoltEntity/M/SetScope_Description.md' is empty
 ## Example
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltEntity\M\SetScope_Example.md' Empty
+Contents of 'Types/BoltEntity/M/SetScope_Example.md' is empty

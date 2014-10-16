@@ -3,6 +3,6 @@
 # [BoltEntitySettingsModifier](Types/BoltEntitySettingsModifier.md).allowInstantiateOnClient
 `public bool allowInstantiateOnClient { get; set; }`
 ## Description
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltEntitySettingsModifier\P\allowInstantiateOnClient_Description.md' Empty
+Contents of 'Types/BoltEntitySettingsModifier/P/allowInstantiateOnClient_Description.md' is empty
 ## Example
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltEntitySettingsModifier\P\allowInstantiateOnClient_Example.md' Empty
+Contents of 'Types/BoltEntitySettingsModifier/P/allowInstantiateOnClient_Example.md' is empty

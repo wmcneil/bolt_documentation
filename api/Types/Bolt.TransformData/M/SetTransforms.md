@@ -3,8 +3,8 @@
 # [Bolt.TransformData](Types/Bolt.TransformData.md).SetTransforms
 `public void SetTransforms(Transform simulate, Transform render)`
 ## Parameters
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.TransformData\M\SetTransforms_Parameters.md' Empty
+Contents of 'Types/Bolt.TransformData/M/SetTransforms_Parameters.md' is empty
 ## Description
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.TransformData\M\SetTransforms_Description.md' Empty
+Contents of 'Types/Bolt.TransformData/M/SetTransforms_Description.md' is empty
 ## Example
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.TransformData\M\SetTransforms_Example.md' Empty
+Contents of 'Types/Bolt.TransformData/M/SetTransforms_Example.md' is empty

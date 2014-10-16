@@ -3,8 +3,8 @@
 # [Bolt.EntityFlags](Types/Bolt.EntityFlags.md).op_OnesComplement
 `public static Bolt.EntityFlags op_OnesComplement(Bolt.EntityFlags a)`
 ## Parameters
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.EntityFlags\M\op_OnesComplement_Parameters.md' Empty
+Contents of 'Types/Bolt.EntityFlags/M/op_OnesComplement_Parameters.md' is empty
 ## Description
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.EntityFlags\M\op_OnesComplement_Description.md' Empty
+Contents of 'Types/Bolt.EntityFlags/M/op_OnesComplement_Description.md' is empty
 ## Example
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.EntityFlags\M\op_OnesComplement_Example.md' Empty
+Contents of 'Types/Bolt.EntityFlags/M/op_OnesComplement_Example.md' is empty

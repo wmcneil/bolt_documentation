@@ -3,6 +3,6 @@
 # [BoltEntitySettingsModifier](Types/BoltEntitySettingsModifier.md).prefabId
 `public Bolt.PrefabId prefabId { get; set; }`
 ## Description
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltEntitySettingsModifier\P\prefabId_Description.md' Empty
+Contents of 'Types/BoltEntitySettingsModifier/P/prefabId_Description.md' is empty
 ## Example
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltEntitySettingsModifier\P\prefabId_Example.md' Empty
+Contents of 'Types/BoltEntitySettingsModifier/P/prefabId_Example.md' is empty

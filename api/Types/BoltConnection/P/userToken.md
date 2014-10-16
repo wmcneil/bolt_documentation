@@ -3,6 +3,6 @@
 # [BoltConnection](Types/BoltConnection.md).userToken
 `public object userToken { get; set; }`
 ## Description
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltConnection\P\userToken_Description.md' Empty
+Contents of 'Types/BoltConnection/P/userToken_Description.md' is empty
 ## Example
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltConnection\P\userToken_Example.md' Empty
+Contents of 'Types/BoltConnection/P/userToken_Example.md' is empty

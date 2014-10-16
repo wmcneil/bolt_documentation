@@ -3,8 +3,8 @@
 # [BoltEntity](Types/BoltEntity.md).Wakeup
 `public void Wakeup(BoltConnection connection)`
 ## Parameters
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltEntity\M\Wakeup_Parameters.md' Empty
+Contents of 'Types/BoltEntity/M/Wakeup_Parameters.md' is empty
 ## Description
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltEntity\M\Wakeup_Description.md' Empty
+Contents of 'Types/BoltEntity/M/Wakeup_Description.md' is empty
 ## Example
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltEntity\M\Wakeup_Example.md' Empty
+Contents of 'Types/BoltEntity/M/Wakeup_Example.md' is empty

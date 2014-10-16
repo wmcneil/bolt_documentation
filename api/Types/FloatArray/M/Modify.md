@@ -3,6 +3,6 @@
 # [FloatArray](Types/FloatArray.md).Modify
 `public FloatArrayModifier Modify()`
 ## Description
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\FloatArray\M\Modify_Description.md' Empty
+Contents of 'Types/FloatArray/M/Modify_Description.md' is empty
 ## Example
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\FloatArray\M\Modify_Example.md' Empty
+Contents of 'Types/FloatArray/M/Modify_Example.md' is empty

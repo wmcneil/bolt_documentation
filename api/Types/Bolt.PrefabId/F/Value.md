@@ -3,6 +3,6 @@
 # [Bolt.PrefabId](Types/Bolt.PrefabId.md).Value
 `public readonly int Value`
 ## Description
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.PrefabId\F\Value_Description.md' Empty
+Contents of 'Types/Bolt.PrefabId/F/Value_Description.md' is empty
 ## Example
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.PrefabId\F\Value_Example.md' Empty
+Contents of 'Types/Bolt.PrefabId/F/Value_Example.md' is empty

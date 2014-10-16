@@ -3,8 +3,8 @@
 # [Bolt.CommandFlags](Types/Bolt.CommandFlags.md).op_OnesComplement
 `public static Bolt.CommandFlags op_OnesComplement(Bolt.CommandFlags a)`
 ## Parameters
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.CommandFlags\M\op_OnesComplement_Parameters.md' Empty
+Contents of 'Types/Bolt.CommandFlags/M/op_OnesComplement_Parameters.md' is empty
 ## Description
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.CommandFlags\M\op_OnesComplement_Description.md' Empty
+Contents of 'Types/Bolt.CommandFlags/M/op_OnesComplement_Description.md' is empty
 ## Example
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.CommandFlags\M\op_OnesComplement_Example.md' Empty
+Contents of 'Types/Bolt.CommandFlags/M/op_OnesComplement_Example.md' is empty

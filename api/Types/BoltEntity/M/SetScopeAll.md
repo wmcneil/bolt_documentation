@@ -3,8 +3,8 @@
 # [BoltEntity](Types/BoltEntity.md).SetScopeAll
 `public void SetScopeAll(bool inScope)`
 ## Parameters
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltEntity\M\SetScopeAll_Parameters.md' Empty
+Contents of 'Types/BoltEntity/M/SetScopeAll_Parameters.md' is empty
 ## Description
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltEntity\M\SetScopeAll_Description.md' Empty
+Contents of 'Types/BoltEntity/M/SetScopeAll_Description.md' is empty
 ## Example
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltEntity\M\SetScopeAll_Example.md' Empty
+Contents of 'Types/BoltEntity/M/SetScopeAll_Example.md' is empty

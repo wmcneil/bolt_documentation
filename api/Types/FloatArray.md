@@ -3,15 +3,15 @@
 # FloatArray
 `public struct FloatArray`
 ## Description
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\FloatArray_Description.md' Empty
+Contents of 'Types/FloatArray_Description.md' is empty
 ## Example
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\FloatArray_Example.md' Empty
+Contents of 'Types/FloatArray_Example.md' is empty
 ## Properties
 | Property | Summary |
 |:-----|:--------|
-|[Length](FloatArray/P/Length.md)|File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\FloatArray\P\Length_Summary.md' Empty|
-|[Item](FloatArray/P/Item.md)|File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\FloatArray\P\Item_Summary.md' Empty|
+|[Length](FloatArray/P/Length.md)|Contents of 'Types/FloatArray/P/Length_Summary.md' is empty|
+|[Item](FloatArray/P/Item.md)|Contents of 'Types/FloatArray/P/Item_Summary.md' is empty|
 ## Methods
 | Method | Summary |
 |:-----|:--------|
-|[Modify](FloatArray/M/Modify.md)|File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\FloatArray\M\Modify_Summary.md' Empty|
+|[Modify](FloatArray/M/Modify.md)|Contents of 'Types/FloatArray/M/Modify_Summary.md' is empty|

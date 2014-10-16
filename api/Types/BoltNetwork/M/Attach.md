@@ -3,8 +3,8 @@
 # [BoltNetwork](Types/BoltNetwork.md).Attach
 `public static GameObject Attach(GameObject gameObject, Bolt.TypeId serializerTypeId)`
 ## Parameters
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltNetwork\M\Attach_Parameters.md' Empty
+Contents of 'Types/BoltNetwork/M/Attach_Parameters.md' is empty
 ## Description
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltNetwork\M\Attach_Description.md' Empty
+Contents of 'Types/BoltNetwork/M/Attach_Description.md' is empty
 ## Example
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltNetwork\M\Attach_Example.md' Empty
+Contents of 'Types/BoltNetwork/M/Attach_Example.md' is empty

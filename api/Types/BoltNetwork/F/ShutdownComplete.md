@@ -3,6 +3,6 @@
 # [BoltNetwork](Types/BoltNetwork.md).ShutdownComplete
 `public static System.Action ShutdownComplete`
 ## Description
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltNetwork\F\ShutdownComplete_Description.md' Empty
+Contents of 'Types/BoltNetwork/F/ShutdownComplete_Description.md' is empty
 ## Example
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltNetwork\F\ShutdownComplete_Example.md' Empty
+Contents of 'Types/BoltNetwork/F/ShutdownComplete_Example.md' is empty

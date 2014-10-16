@@ -3,8 +3,8 @@
 # [BoltEntity](Types/BoltEntity.md).RemoveEventListener
 `public void RemoveEventListener(MonoBehaviour behaviour)`
 ## Parameters
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltEntity\M\RemoveEventListener_Parameters.md' Empty
+Contents of 'Types/BoltEntity/M/RemoveEventListener_Parameters.md' is empty
 ## Description
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltEntity\M\RemoveEventListener_Description.md' Empty
+Contents of 'Types/BoltEntity/M/RemoveEventListener_Description.md' is empty
 ## Example
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltEntity\M\RemoveEventListener_Example.md' Empty
+Contents of 'Types/BoltEntity/M/RemoveEventListener_Example.md' is empty

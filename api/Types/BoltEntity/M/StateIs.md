@@ -3,6 +3,6 @@
 # [BoltEntity](Types/BoltEntity.md).StateIs
 `public bool StateIs()`
 ## Description
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltEntity\M\StateIs_Description.md' Empty
+Contents of 'Types/BoltEntity/M/StateIs_Description.md' is empty
 ## Example
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltEntity\M\StateIs_Example.md' Empty
+Contents of 'Types/BoltEntity/M/StateIs_Example.md' is empty

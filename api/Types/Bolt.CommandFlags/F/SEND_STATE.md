@@ -3,6 +3,6 @@
 # [Bolt.CommandFlags](Types/Bolt.CommandFlags.md).SEND_STATE
 `public readonly static Bolt.CommandFlags SEND_STATE`
 ## Description
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.CommandFlags\F\SEND_STATE_Description.md' Empty
+Contents of 'Types/Bolt.CommandFlags/F/SEND_STATE_Description.md' is empty
 ## Example
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.CommandFlags\F\SEND_STATE_Example.md' Empty
+Contents of 'Types/Bolt.CommandFlags/F/SEND_STATE_Example.md' is empty

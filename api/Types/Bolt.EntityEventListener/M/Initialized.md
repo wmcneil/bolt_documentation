@@ -3,6 +3,6 @@
 # [Bolt.EntityEventListener](Types/Bolt.EntityEventListener.md).Initialized
 `public virtual void Initialized()`
 ## Description
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.EntityEventListener\M\Initialized_Description.md' Empty
+Contents of 'Types/Bolt.EntityEventListener/M/Initialized_Description.md' is empty
 ## Example
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.EntityEventListener\M\Initialized_Example.md' Empty
+Contents of 'Types/Bolt.EntityEventListener/M/Initialized_Example.md' is empty

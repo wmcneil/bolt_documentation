@@ -3,14 +3,14 @@
 # BoltHitbox
 `public class BoltHitbox`
 ## Description
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltHitbox_Description.md' Empty
+Contents of 'Types/BoltHitbox_Description.md' is empty
 ## Example
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltHitbox_Example.md' Empty
+Contents of 'Types/BoltHitbox_Example.md' is empty
 ## Properties
 | Property | Summary |
 |:-----|:--------|
-|[hitboxShape](BoltHitbox/P/hitboxShape.md)|File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltHitbox\P\hitboxShape_Summary.md' Empty|
-|[hitboxType](BoltHitbox/P/hitboxType.md)|File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltHitbox\P\hitboxType_Summary.md' Empty|
-|[hitboxCenter](BoltHitbox/P/hitboxCenter.md)|File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltHitbox\P\hitboxCenter_Summary.md' Empty|
-|[hitboxBoxSize](BoltHitbox/P/hitboxBoxSize.md)|File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltHitbox\P\hitboxBoxSize_Summary.md' Empty|
-|[hitboxSphereRadius](BoltHitbox/P/hitboxSphereRadius.md)|File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltHitbox\P\hitboxSphereRadius_Summary.md' Empty|
+|[hitboxShape](BoltHitbox/P/hitboxShape.md)|Contents of 'Types/BoltHitbox/P/hitboxShape_Summary.md' is empty|
+|[hitboxType](BoltHitbox/P/hitboxType.md)|Contents of 'Types/BoltHitbox/P/hitboxType_Summary.md' is empty|
+|[hitboxCenter](BoltHitbox/P/hitboxCenter.md)|Contents of 'Types/BoltHitbox/P/hitboxCenter_Summary.md' is empty|
+|[hitboxBoxSize](BoltHitbox/P/hitboxBoxSize.md)|Contents of 'Types/BoltHitbox/P/hitboxBoxSize_Summary.md' is empty|
+|[hitboxSphereRadius](BoltHitbox/P/hitboxSphereRadius.md)|Contents of 'Types/BoltHitbox/P/hitboxSphereRadius_Summary.md' is empty|

@@ -3,6 +3,6 @@
 # [Bolt.EntityTargets](Types/Bolt.EntityTargets.md).EveryoneExceptController
 `public static Bolt.EntityTargets EveryoneExceptController`
 ## Description
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.EntityTargets\F\EveryoneExceptController_Description.md' Empty
+Contents of 'Types/Bolt.EntityTargets/F/EveryoneExceptController_Description.md' is empty
 ## Example
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.EntityTargets\F\EveryoneExceptController_Example.md' Empty
+Contents of 'Types/Bolt.EntityTargets/F/EveryoneExceptController_Example.md' is empty

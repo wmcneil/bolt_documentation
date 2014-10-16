@@ -3,6 +3,6 @@
 # [Bolt.GlobalTargets](Types/Bolt.GlobalTargets.md).Server
 `public static Bolt.GlobalTargets Server`
 ## Description
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.GlobalTargets\F\Server_Description.md' Empty
+Contents of 'Types/Bolt.GlobalTargets/F/Server_Description.md' is empty
 ## Example
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.GlobalTargets\F\Server_Example.md' Empty
+Contents of 'Types/Bolt.GlobalTargets/F/Server_Example.md' is empty

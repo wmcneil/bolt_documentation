@@ -3,6 +3,6 @@
 # [Bolt.Event](Types/Bolt.Event.md).Send
 `public void Send()`
 ## Description
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.Event\M\Send_Description.md' Empty
+Contents of 'Types/Bolt.Event/M/Send_Description.md' is empty
 ## Example
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.Event\M\Send_Example.md' Empty
+Contents of 'Types/Bolt.Event/M/Send_Example.md' is empty

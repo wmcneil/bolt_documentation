@@ -3,6 +3,6 @@
 # [BoltEntity](Types/BoltEntity.md).ModifySettings
 `public BoltEntitySettingsModifier ModifySettings()`
 ## Description
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltEntity\M\ModifySettings_Description.md' Empty
+Contents of 'Types/BoltEntity/M/ModifySettings_Description.md' is empty
 ## Example
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltEntity\M\ModifySettings_Example.md' Empty
+Contents of 'Types/BoltEntity/M/ModifySettings_Example.md' is empty

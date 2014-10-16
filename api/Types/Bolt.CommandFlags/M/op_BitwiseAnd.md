@@ -3,8 +3,8 @@
 # [Bolt.CommandFlags](Types/Bolt.CommandFlags.md).op_BitwiseAnd
 `public static Bolt.CommandFlags op_BitwiseAnd(Bolt.CommandFlags a, Bolt.CommandFlags b)`
 ## Parameters
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.CommandFlags\M\op_BitwiseAnd_Parameters.md' Empty
+Contents of 'Types/Bolt.CommandFlags/M/op_BitwiseAnd_Parameters.md' is empty
 ## Description
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.CommandFlags\M\op_BitwiseAnd_Description.md' Empty
+Contents of 'Types/Bolt.CommandFlags/M/op_BitwiseAnd_Description.md' is empty
 ## Example
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.CommandFlags\M\op_BitwiseAnd_Example.md' Empty
+Contents of 'Types/Bolt.CommandFlags/M/op_BitwiseAnd_Example.md' is empty

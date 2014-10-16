@@ -3,8 +3,8 @@
 # [BoltEntity](Types/BoltEntity.md).SetParent
 `public void SetParent(BoltEntity parent)`
 ## Parameters
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltEntity\M\SetParent_Parameters.md' Empty
+Contents of 'Types/BoltEntity/M/SetParent_Parameters.md' is empty
 ## Description
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltEntity\M\SetParent_Description.md' Empty
+Contents of 'Types/BoltEntity/M/SetParent_Description.md' is empty
 ## Example
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltEntity\M\SetParent_Example.md' Empty
+Contents of 'Types/BoltEntity/M/SetParent_Example.md' is empty

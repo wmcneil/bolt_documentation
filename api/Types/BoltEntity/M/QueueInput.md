@@ -3,8 +3,8 @@
 # [BoltEntity](Types/BoltEntity.md).QueueInput
 `public bool QueueInput(Bolt.ICommandInput command)`
 ## Parameters
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltEntity\M\QueueInput_Parameters.md' Empty
+Contents of 'Types/BoltEntity/M/QueueInput_Parameters.md' is empty
 ## Description
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltEntity\M\QueueInput_Description.md' Empty
+Contents of 'Types/BoltEntity/M/QueueInput_Description.md' is empty
 ## Example
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltEntity\M\QueueInput_Example.md' Empty
+Contents of 'Types/BoltEntity/M/QueueInput_Example.md' is empty

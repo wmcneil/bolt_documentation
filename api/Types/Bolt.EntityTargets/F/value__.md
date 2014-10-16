@@ -3,6 +3,6 @@
 # [Bolt.EntityTargets](Types/Bolt.EntityTargets.md).value__
 `public System.Byte value__`
 ## Description
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.EntityTargets\F\value___Description.md' Empty
+Contents of 'Types/Bolt.EntityTargets/F/value___Description.md' is empty
 ## Example
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.EntityTargets\F\value___Example.md' Empty
+Contents of 'Types/Bolt.EntityTargets/F/value___Example.md' is empty

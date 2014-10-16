@@ -3,11 +3,11 @@
 # TransformArray
 `public struct TransformArray`
 ## Description
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\TransformArray_Description.md' Empty
+Contents of 'Types/TransformArray_Description.md' is empty
 ## Example
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\TransformArray_Example.md' Empty
+Contents of 'Types/TransformArray_Example.md' is empty
 ## Properties
 | Property | Summary |
 |:-----|:--------|
-|[Length](TransformArray/P/Length.md)|File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\TransformArray\P\Length_Summary.md' Empty|
-|[Item](TransformArray/P/Item.md)|File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\TransformArray\P\Item_Summary.md' Empty|
+|[Length](TransformArray/P/Length.md)|Contents of 'Types/TransformArray/P/Length_Summary.md' is empty|
+|[Item](TransformArray/P/Item.md)|Contents of 'Types/TransformArray/P/Item_Summary.md' is empty|

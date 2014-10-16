@@ -3,6 +3,6 @@
 # [Bolt.ProxyFlags](Types/Bolt.ProxyFlags.md).IsZero
 `public bool IsZero { get; }`
 ## Description
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.ProxyFlags\P\IsZero_Description.md' Empty
+Contents of 'Types/Bolt.ProxyFlags/P/IsZero_Description.md' is empty
 ## Example
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.ProxyFlags\P\IsZero_Example.md' Empty
+Contents of 'Types/Bolt.ProxyFlags/P/IsZero_Example.md' is empty

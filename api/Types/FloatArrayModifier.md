@@ -3,15 +3,15 @@
 # FloatArrayModifier
 `public class FloatArrayModifier`
 ## Description
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\FloatArrayModifier_Description.md' Empty
+Contents of 'Types/FloatArrayModifier_Description.md' is empty
 ## Example
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\FloatArrayModifier_Example.md' Empty
+Contents of 'Types/FloatArrayModifier_Example.md' is empty
 ## Properties
 | Property | Summary |
 |:-----|:--------|
-|[Length](FloatArrayModifier/P/Length.md)|File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\FloatArrayModifier\P\Length_Summary.md' Empty|
-|[Item](FloatArrayModifier/P/Item.md)|File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\FloatArrayModifier\P\Item_Summary.md' Empty|
+|[Length](FloatArrayModifier/P/Length.md)|Contents of 'Types/FloatArrayModifier/P/Length_Summary.md' is empty|
+|[Item](FloatArrayModifier/P/Item.md)|Contents of 'Types/FloatArrayModifier/P/Item_Summary.md' is empty|
 ## Methods
 | Method | Summary |
 |:-----|:--------|
-|[Dispose](FloatArrayModifier/M/Dispose.md)|File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\FloatArrayModifier\M\Dispose_Summary.md' Empty|
+|[Dispose](FloatArrayModifier/M/Dispose.md)|Contents of 'Types/FloatArrayModifier/M/Dispose_Summary.md' is empty|

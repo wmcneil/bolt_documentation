@@ -3,6 +3,6 @@
 # [BoltNetwork](Types/BoltNetwork.md).serverTime
 `public static float serverTime { get; }`
 ## Description
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltNetwork\P\serverTime_Description.md' Empty
+Contents of 'Types/BoltNetwork/P/serverTime_Description.md' is empty
 ## Example
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltNetwork\P\serverTime_Example.md' Empty
+Contents of 'Types/BoltNetwork/P/serverTime_Example.md' is empty

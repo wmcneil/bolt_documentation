@@ -3,6 +3,6 @@
 # [Bolt.CommandFlags](Types/Bolt.CommandFlags.md).DISPOSE
 `public readonly static Bolt.CommandFlags DISPOSE`
 ## Description
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.CommandFlags\F\DISPOSE_Description.md' Empty
+Contents of 'Types/Bolt.CommandFlags/F/DISPOSE_Description.md' is empty
 ## Example
-File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.CommandFlags\F\DISPOSE_Example.md' Empty
+Contents of 'Types/Bolt.CommandFlags/F/DISPOSE_Example.md' is empty
