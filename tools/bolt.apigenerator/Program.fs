@@ -167,7 +167,7 @@ let main argv =
         m |> memberInclude "Summary"
         m |> memberInclude "Example"
 
-        save (memberPath m)
+        save ("Types/" + (memberPath m))
 
       for m in properties t do
         sb := new System.Text.StringBuilder()
@@ -182,7 +182,7 @@ let main argv =
         m |> memberInclude "Summary"
         m |> memberInclude "Example"
 
-        save (memberPath m)
+        save ("Types/" + (memberPath m))
 
       for m in methods t do
         sb := new System.Text.StringBuilder()
@@ -207,7 +207,7 @@ let main argv =
         m |> memberInclude "Summary"
         m |> memberInclude "Example"
 
-        save (memberPath m)
+        save ("Types/" + (memberPath m))
 
 
   writeReadme() 
