@@ -1,6 +1,7 @@
 *This file is auto-generated, do not edit.*
 
 # Bolt.EntityBehaviour
+`public abstract class Bolt.EntityBehaviour`
 ## Description
 Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.EntityBehaviour_Description.md'
 ## Example

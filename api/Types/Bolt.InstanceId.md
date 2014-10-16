@@ -1,6 +1,7 @@
 *This file is auto-generated, do not edit.*
 
 # Bolt.InstanceId
+`public struct Bolt.InstanceId`
 ## Description
 Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.InstanceId_Description.md'
 ## Example

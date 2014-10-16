@@ -1,6 +1,7 @@
 *This file is auto-generated, do not edit.*
 
 # Bolt.PrefabId
+`public struct Bolt.PrefabId`
 ## Description
 Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.PrefabId_Description.md'
 ## Example

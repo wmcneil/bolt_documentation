@@ -1,6 +1,7 @@
 *This file is auto-generated, do not edit.*
 
 # Bolt.EntityTargets
+`public struct Bolt.EntityTargets`
 ## Description
 Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.EntityTargets_Description.md'
 ## Example

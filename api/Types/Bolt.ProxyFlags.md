@@ -1,6 +1,7 @@
 *This file is auto-generated, do not edit.*
 
 # Bolt.ProxyFlags
+`public struct Bolt.ProxyFlags`
 ## Description
 Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.ProxyFlags_Description.md'
 ## Example

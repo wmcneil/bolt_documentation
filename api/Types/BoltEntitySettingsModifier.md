@@ -1,6 +1,7 @@
 *This file is auto-generated, do not edit.*
 
 # BoltEntitySettingsModifier
+`public class BoltEntitySettingsModifier`
 ## Description
 Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltEntitySettingsModifier_Description.md'
 ## Example

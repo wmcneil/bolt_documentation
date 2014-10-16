@@ -1,6 +1,7 @@
 *This file is auto-generated, do not edit.*
 
 # FloatArray
+`public struct FloatArray`
 ## Description
 Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\FloatArray_Description.md'
 ## Example

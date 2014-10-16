@@ -1,6 +1,7 @@
 *This file is auto-generated, do not edit.*
 
 # IntegerArray
+`public struct IntegerArray`
 ## Description
 Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\IntegerArray_Description.md'
 ## Example

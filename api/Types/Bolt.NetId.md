@@ -1,6 +1,7 @@
 *This file is auto-generated, do not edit.*
 
 # Bolt.NetId
+`public struct Bolt.NetId`
 ## Description
 Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.NetId_Description.md'
 ## Example

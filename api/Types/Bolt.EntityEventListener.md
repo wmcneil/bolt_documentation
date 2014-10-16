@@ -1,6 +1,7 @@
 *This file is auto-generated, do not edit.*
 
 # Bolt.EntityEventListener
+`public abstract class Bolt.EntityEventListener`
 ## Description
 Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.EntityEventListener_Description.md'
 ## Example

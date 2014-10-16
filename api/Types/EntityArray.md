@@ -1,6 +1,7 @@
 *This file is auto-generated, do not edit.*
 
 # EntityArray
+`public struct EntityArray`
 ## Description
 Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\EntityArray_Description.md'
 ## Example

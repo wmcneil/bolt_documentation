@@ -1,6 +1,7 @@
 *This file is auto-generated, do not edit.*
 
 # BoltEntity
+`public class BoltEntity`
 ## Description
 Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltEntity_Description.md'
 ## Example

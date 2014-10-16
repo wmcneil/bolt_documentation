@@ -133,6 +133,9 @@ let main argv =
           m |> memberLink |> sprintf "|%s|" |> a
           m |> memberInclude "Summary"
           p "|"
+          
+  let isStatic yes =
+    if yes then "static " else ""
 
   let writeReadme () =
     sb := new System.Text.StringBuilder()
@@ -155,6 +158,20 @@ let main argv =
       sb := new System.Text.StringBuilder()
 
       h1 (typeName t)
+      
+      let abs = 
+        if t.IsAbstract then "abstract " else ""
+
+
+
+      let typ = 
+        if t.IsValueType then "struct " 
+        elif t.IsClass then "class "
+        elif t.IsInterface then "interface "
+        elif t.IsEnum then "enum "
+        else failwith "unknown type"
+
+      code ("public " + abs + typ + (typeName t))
 
       t |> typeInclude "Description"
       t |> typeInclude "Example"
@@ -166,9 +183,6 @@ let main argv =
       save (typePath t)
 
   let writeMembers () =
-    let isStatic yes =
-      if yes then "static " else ""
-
     for t in types do
 
       for m in fields t do
@@ -179,7 +193,6 @@ let main argv =
         let typ = typeNamePretty m.FieldType
         let statc = isStatic m.IsStatic
         let readonly = if m.IsInitOnly then "readonly " else ""
-
         code (sprintf "public %s%s%s %s" readonly statc typ m.Name)
         
         m |> memberInclude "Description"

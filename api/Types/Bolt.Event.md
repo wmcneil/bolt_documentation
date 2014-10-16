@@ -1,6 +1,7 @@
 *This file is auto-generated, do not edit.*
 
 # Bolt.Event
+`public abstract class Bolt.Event`
 ## Description
 Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.Event_Description.md'
 ## Example

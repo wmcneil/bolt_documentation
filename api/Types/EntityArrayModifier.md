@@ -1,6 +1,7 @@
 *This file is auto-generated, do not edit.*
 
 # EntityArrayModifier
+`public class EntityArrayModifier`
 ## Description
 Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\EntityArrayModifier_Description.md'
 ## Example

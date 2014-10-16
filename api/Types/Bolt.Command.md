@@ -1,6 +1,7 @@
 *This file is auto-generated, do not edit.*
 
 # Bolt.Command
+`public abstract class Bolt.Command`
 ## Description
 Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.Command_Description.md'
 ## Example

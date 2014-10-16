@@ -1,6 +1,7 @@
 *This file is auto-generated, do not edit.*
 
 # BoltSingletonPrefab&lt;T&gt;
+`public abstract class BoltSingletonPrefab&lt;T&gt;`
 ## Description
 Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltSingletonPrefab[T]_Description.md'
 ## Example

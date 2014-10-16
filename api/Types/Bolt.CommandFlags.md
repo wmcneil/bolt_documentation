@@ -1,6 +1,7 @@
 *This file is auto-generated, do not edit.*
 
 # Bolt.CommandFlags
+`public struct Bolt.CommandFlags`
 ## Description
 Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.CommandFlags_Description.md'
 ## Example

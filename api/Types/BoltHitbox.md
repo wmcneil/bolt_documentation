@@ -1,6 +1,7 @@
 *This file is auto-generated, do not edit.*
 
 # BoltHitbox
+`public class BoltHitbox`
 ## Description
 Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltHitbox_Description.md'
 ## Example

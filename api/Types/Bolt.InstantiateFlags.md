@@ -1,6 +1,7 @@
 *This file is auto-generated, do not edit.*
 
 # Bolt.InstantiateFlags
+`public struct Bolt.InstantiateFlags`
 ## Description
 Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.InstantiateFlags_Description.md'
 ## Example

@@ -1,6 +1,7 @@
 *This file is auto-generated, do not edit.*
 
 # BoltHitboxType
+`public struct BoltHitboxType`
 ## Description
 Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltHitboxType_Description.md'
 ## Example

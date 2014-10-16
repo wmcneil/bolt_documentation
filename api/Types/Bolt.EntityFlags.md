@@ -1,6 +1,7 @@
 *This file is auto-generated, do not edit.*
 
 # Bolt.EntityFlags
+`public struct Bolt.EntityFlags`
 ## Description
 Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.EntityFlags_Description.md'
 ## Example

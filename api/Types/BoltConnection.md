@@ -1,6 +1,7 @@
 *This file is auto-generated, do not edit.*
 
 # BoltConnection
+`public class BoltConnection`
 ## Description
 Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltConnection_Description.md'
 ## Example

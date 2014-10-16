@@ -1,6 +1,7 @@
 *This file is auto-generated, do not edit.*
 
 # Bolt.IState
+`public abstract interface Bolt.IState`
 ## Description
 Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.IState_Description.md'
 ## Example

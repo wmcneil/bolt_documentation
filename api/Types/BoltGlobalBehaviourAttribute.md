@@ -1,6 +1,7 @@
 *This file is auto-generated, do not edit.*
 
 # BoltGlobalBehaviourAttribute
+`public class BoltGlobalBehaviourAttribute`
 ## Description
 Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltGlobalBehaviourAttribute_Description.md'
 ## Example

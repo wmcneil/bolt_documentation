@@ -1,6 +1,7 @@
 *This file is auto-generated, do not edit.*
 
 # BoltNetwork
+`public abstract class BoltNetwork`
 ## Description
 Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltNetwork_Description.md'
 ## Example

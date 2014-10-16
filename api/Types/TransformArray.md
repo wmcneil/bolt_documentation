@@ -1,6 +1,7 @@
 *This file is auto-generated, do not edit.*
 
 # TransformArray
+`public struct TransformArray`
 ## Description
 Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\TransformArray_Description.md'
 ## Example

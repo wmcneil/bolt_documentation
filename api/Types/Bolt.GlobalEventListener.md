@@ -1,6 +1,7 @@
 *This file is auto-generated, do not edit.*
 
 # Bolt.GlobalEventListener
+`public abstract class Bolt.GlobalEventListener`
 ## Description
 Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.GlobalEventListener_Description.md'
 ## Example

@@ -1,6 +1,7 @@
 *This file is auto-generated, do not edit.*
 
 # BoltPhysicsHit
+`public struct BoltPhysicsHit`
 ## Description
 Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltPhysicsHit_Description.md'
 ## Example

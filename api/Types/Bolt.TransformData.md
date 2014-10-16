@@ -1,6 +1,7 @@
 *This file is auto-generated, do not edit.*
 
 # Bolt.TransformData
+`public class Bolt.TransformData`
 ## Description
 Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.TransformData_Description.md'
 ## Example

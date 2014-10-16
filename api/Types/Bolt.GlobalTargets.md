@@ -1,6 +1,7 @@
 *This file is auto-generated, do not edit.*
 
 # Bolt.GlobalTargets
+`public struct Bolt.GlobalTargets`
 ## Description
 Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.GlobalTargets_Description.md'
 ## Example

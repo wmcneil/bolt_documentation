@@ -1,6 +1,7 @@
 *This file is auto-generated, do not edit.*
 
 # FloatArrayModifier
+`public class FloatArrayModifier`
 ## Description
 Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\FloatArrayModifier_Description.md'
 ## Example

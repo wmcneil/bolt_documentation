@@ -1,6 +1,7 @@
 *This file is auto-generated, do not edit.*
 
 # IntegerArrayModifier
+`public class IntegerArrayModifier`
 ## Description
 Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\IntegerArrayModifier_Description.md'
 ## Example

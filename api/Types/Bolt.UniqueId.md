@@ -1,6 +1,7 @@
 *This file is auto-generated, do not edit.*
 
 # Bolt.UniqueId
+`public struct Bolt.UniqueId`
 ## Description
 Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.UniqueId_Description.md'
 ## Example
