@@ -98,7 +98,7 @@ A *Bolt Entity* component is loosely related to a *Network View* in Unity or Pho
 
 When running *Assets/Compile Bolt Assets* Bolt will go through all of your prefabs and other Bolt-related assets and compile a very efficient network protocol for them, which is then stored inside of the *bolt.user.dll* assembly which you can find in *bolt/assemblies*. Running the *Assets/Compile Bolt Assets* command is done for several things in Bolt, but we will cover all of them in this tutorial.
 
-After you ran compile, the *Bolt Entity* component on your prefab should now look like this. As you can see there is still a warning here which we will get that to go away in just a minute.
+After you ran compile, the *Bolt Entity* component on your prefab should now look like this.
 
 ![](images/img18.png)
 
