@@ -3,6 +3,6 @@
 # [BoltConnection](Types/BoltConnection.md).bitsPerSecondIn
 `public int bitsPerSecondIn { get; }`
 ## Description
-Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltConnection\P\bitsPerSecondIn_Description.md'
+File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltConnection\P\bitsPerSecondIn_Description.md' Empty
 ## Example
-Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltConnection\P\bitsPerSecondIn_Example.md'
+File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltConnection\P\bitsPerSecondIn_Example.md' Empty

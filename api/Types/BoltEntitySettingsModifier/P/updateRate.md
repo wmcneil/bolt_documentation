@@ -3,6 +3,6 @@
 # [BoltEntitySettingsModifier](Types/BoltEntitySettingsModifier.md).updateRate
 `public int updateRate { get; set; }`
 ## Description
-Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltEntitySettingsModifier\P\updateRate_Description.md'
+File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltEntitySettingsModifier\P\updateRate_Description.md' Empty
 ## Example
-Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltEntitySettingsModifier\P\updateRate_Example.md'
+File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltEntitySettingsModifier\P\updateRate_Example.md' Empty

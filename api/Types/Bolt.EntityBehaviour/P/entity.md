@@ -3,6 +3,6 @@
 # [Bolt.EntityBehaviour](Types/Bolt.EntityBehaviour.md).entity
 `public BoltEntity entity { get; }`
 ## Description
-Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.EntityBehaviour\P\entity_Description.md'
+File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.EntityBehaviour\P\entity_Description.md' Empty
 ## Example
-Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.EntityBehaviour\P\entity_Example.md'
+File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.EntityBehaviour\P\entity_Example.md' Empty

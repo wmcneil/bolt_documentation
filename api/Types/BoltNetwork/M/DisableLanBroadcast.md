@@ -3,6 +3,6 @@
 # [BoltNetwork](Types/BoltNetwork.md).DisableLanBroadcast
 `public static void DisableLanBroadcast()`
 ## Description
-Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltNetwork\M\DisableLanBroadcast_Description.md'
+File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltNetwork\M\DisableLanBroadcast_Description.md' Empty
 ## Example
-Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltNetwork\M\DisableLanBroadcast_Example.md'
+File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltNetwork\M\DisableLanBroadcast_Example.md' Empty

@@ -3,8 +3,8 @@
 # [BoltEntity](Types/BoltEntity.md).IsController
 `public bool IsController(BoltConnection connection)`
 ## Parameters
-Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltEntity\M\IsController_Parameters.md'
+File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltEntity\M\IsController_Parameters.md' Empty
 ## Description
-Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltEntity\M\IsController_Description.md'
+File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltEntity\M\IsController_Description.md' Empty
 ## Example
-Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltEntity\M\IsController_Example.md'
+File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltEntity\M\IsController_Example.md' Empty

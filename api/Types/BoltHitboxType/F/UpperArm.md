@@ -3,6 +3,6 @@
 # [BoltHitboxType](Types/BoltHitboxType.md).UpperArm
 `public static BoltHitboxType UpperArm`
 ## Description
-Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltHitboxType\F\UpperArm_Description.md'
+File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltHitboxType\F\UpperArm_Description.md' Empty
 ## Example
-Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltHitboxType\F\UpperArm_Example.md'
+File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltHitboxType\F\UpperArm_Example.md' Empty

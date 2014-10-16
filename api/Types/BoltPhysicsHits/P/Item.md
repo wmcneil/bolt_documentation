@@ -3,6 +3,6 @@
 # [BoltPhysicsHits](Types/BoltPhysicsHits.md).Item
 `public BoltPhysicsHit Item { get; }`
 ## Description
-Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltPhysicsHits\P\Item_Description.md'
+File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltPhysicsHits\P\Item_Description.md' Empty
 ## Example
-Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltPhysicsHits\P\Item_Example.md'
+File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltPhysicsHits\P\Item_Example.md' Empty

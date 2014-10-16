@@ -3,6 +3,6 @@
 # [Bolt.GlobalTargets](Types/Bolt.GlobalTargets.md).Everyone
 `public static Bolt.GlobalTargets Everyone`
 ## Description
-Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.GlobalTargets\F\Everyone_Description.md'
+File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.GlobalTargets\F\Everyone_Description.md' Empty
 ## Example
-Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.GlobalTargets\F\Everyone_Example.md'
+File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.GlobalTargets\F\Everyone_Example.md' Empty

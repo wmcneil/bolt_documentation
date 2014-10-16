@@ -3,6 +3,6 @@
 # [Bolt.EntityBehaviour](Types/Bolt.EntityBehaviour.md).ControlLost
 `public virtual void ControlLost()`
 ## Description
-Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.EntityBehaviour\M\ControlLost_Description.md'
+File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.EntityBehaviour\M\ControlLost_Description.md' Empty
 ## Example
-Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.EntityBehaviour\M\ControlLost_Example.md'
+File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.EntityBehaviour\M\ControlLost_Example.md' Empty

@@ -3,6 +3,6 @@
 # [Bolt.NetId](Types/Bolt.NetId.md).GetHashCode
 `public virtual int GetHashCode()`
 ## Description
-Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.NetId\M\GetHashCode_Description.md'
+File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.NetId\M\GetHashCode_Description.md' Empty
 ## Example
-Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.NetId\M\GetHashCode_Example.md'
+File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.NetId\M\GetHashCode_Example.md' Empty

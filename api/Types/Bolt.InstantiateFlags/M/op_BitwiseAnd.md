@@ -3,8 +3,8 @@
 # [Bolt.InstantiateFlags](Types/Bolt.InstantiateFlags.md).op_BitwiseAnd
 `public static Bolt.InstantiateFlags op_BitwiseAnd(Bolt.InstantiateFlags a, Bolt.InstantiateFlags b)`
 ## Parameters
-Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.InstantiateFlags\M\op_BitwiseAnd_Parameters.md'
+File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.InstantiateFlags\M\op_BitwiseAnd_Parameters.md' Empty
 ## Description
-Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.InstantiateFlags\M\op_BitwiseAnd_Description.md'
+File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.InstantiateFlags\M\op_BitwiseAnd_Description.md' Empty
 ## Example
-Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.InstantiateFlags\M\op_BitwiseAnd_Example.md'
+File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.InstantiateFlags\M\op_BitwiseAnd_Example.md' Empty

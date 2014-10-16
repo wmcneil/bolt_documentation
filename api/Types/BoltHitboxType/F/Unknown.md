@@ -3,6 +3,6 @@
 # [BoltHitboxType](Types/BoltHitboxType.md).Unknown
 `public static BoltHitboxType Unknown`
 ## Description
-Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltHitboxType\F\Unknown_Description.md'
+File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltHitboxType\F\Unknown_Description.md' Empty
 ## Example
-Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltHitboxType\F\Unknown_Example.md'
+File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltHitboxType\F\Unknown_Example.md' Empty

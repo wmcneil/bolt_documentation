@@ -3,6 +3,6 @@
 # [BoltConnection](Types/BoltConnection.md).pingAliased
 `public float pingAliased { get; }`
 ## Description
-Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltConnection\P\pingAliased_Description.md'
+File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltConnection\P\pingAliased_Description.md' Empty
 ## Example
-Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltConnection\P\pingAliased_Example.md'
+File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltConnection\P\pingAliased_Example.md' Empty

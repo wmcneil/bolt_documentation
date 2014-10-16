@@ -3,16 +3,16 @@
 # Bolt.Command
 `public abstract class Bolt.Command`
 ## Description
-Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.Command_Description.md'
+File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.Command_Description.md' Empty
 ## Example
-Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.Command_Example.md'
+File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.Command_Example.md' Empty
 ## Properties
 | Property | Summary |
 |:-----|:--------|
-|[ServerFrame](Bolt.Command/P/ServerFrame.md)|Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.Command\P\ServerFrame_Summary.md'|
-|[IsFirstExecution](Bolt.Command/P/IsFirstExecution.md)|Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.Command\P\IsFirstExecution_Summary.md'|
-|[UserToken](Bolt.Command/P/UserToken.md)|Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.Command\P\UserToken_Summary.md'|
+|[ServerFrame](Bolt.Command/P/ServerFrame.md)|File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.Command\P\ServerFrame_Summary.md' Empty|
+|[IsFirstExecution](Bolt.Command/P/IsFirstExecution.md)|File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.Command\P\IsFirstExecution_Summary.md' Empty|
+|[UserToken](Bolt.Command/P/UserToken.md)|File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.Command\P\UserToken_Summary.md' Empty|
 ## Methods
 | Method | Summary |
 |:-----|:--------|
-|[op_Implicit](Bolt.Command/M/op_Implicit.md)|Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.Command\M\op_Implicit_Summary.md'|
+|[op_Implicit](Bolt.Command/M/op_Implicit.md)|File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.Command\M\op_Implicit_Summary.md' Empty|

@@ -3,6 +3,6 @@
 # [BoltEntity](Types/BoltEntity.md).isSceneObject
 `public bool isSceneObject { get; }`
 ## Description
-Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltEntity\P\isSceneObject_Description.md'
+File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltEntity\P\isSceneObject_Description.md' Empty
 ## Example
-Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltEntity\P\isSceneObject_Example.md'
+File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltEntity\P\isSceneObject_Example.md' Empty

@@ -3,6 +3,6 @@
 # [Bolt.NetId](Types/Bolt.NetId.md).ToString
 `public virtual string ToString()`
 ## Description
-Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.NetId\M\ToString_Description.md'
+File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.NetId\M\ToString_Description.md' Empty
 ## Example
-Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.NetId\M\ToString_Example.md'
+File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.NetId\M\ToString_Example.md' Empty

@@ -3,8 +3,8 @@
 # [BoltNetwork](Types/BoltNetwork.md).Destroy
 `public static void Destroy(GameObject gameobject)`
 ## Parameters
-Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltNetwork\M\Destroy_Parameters.md'
+File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltNetwork\M\Destroy_Parameters.md' Empty
 ## Description
-Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltNetwork\M\Destroy_Description.md'
+File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltNetwork\M\Destroy_Description.md' Empty
 ## Example
-Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltNetwork\M\Destroy_Example.md'
+File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltNetwork\M\Destroy_Example.md' Empty

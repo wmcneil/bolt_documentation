@@ -3,8 +3,8 @@
 # [BoltNetwork](Types/BoltNetwork.md).Refuse
 `public static void Refuse(UdpKit.UdpEndPoint ep)`
 ## Parameters
-Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltNetwork\M\Refuse_Parameters.md'
+File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltNetwork\M\Refuse_Parameters.md' Empty
 ## Description
-Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltNetwork\M\Refuse_Description.md'
+File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltNetwork\M\Refuse_Description.md' Empty
 ## Example
-Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltNetwork\M\Refuse_Example.md'
+File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltNetwork\M\Refuse_Example.md' Empty

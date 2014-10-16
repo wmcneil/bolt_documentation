@@ -3,8 +3,8 @@
 # [Bolt.EntityBehaviour](Types/Bolt.EntityBehaviour.md).ExecuteCommand
 `public virtual void ExecuteCommand(Bolt.Command command, bool resetState)`
 ## Parameters
-Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.EntityBehaviour\M\ExecuteCommand_Parameters.md'
+File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.EntityBehaviour\M\ExecuteCommand_Parameters.md' Empty
 ## Description
-Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.EntityBehaviour\M\ExecuteCommand_Description.md'
+File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.EntityBehaviour\M\ExecuteCommand_Description.md' Empty
 ## Example
-Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.EntityBehaviour\M\ExecuteCommand_Example.md'
+File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.EntityBehaviour\M\ExecuteCommand_Example.md' Empty

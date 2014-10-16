@@ -70,15 +70,19 @@ let main argv =
   let includeFile header file =
     if header <> "Summary" then
       h2 header
+      
+    if File.Exists(makePath file) |> not then
+      File.CreateText(makePath file).Close();
 
-    if File.Exists(makePath file) then
-      (!sb).Append(File.ReadAllText(makePath file).Trim()) |> ignore
+    let text = File.ReadAllText(makePath file).Trim()
+
+    if text <> "" then
+      (!sb).Append(text) |> ignore
 
     else
       if header <> "Summary" 
-        then p (sprintf "Missing File '%s'" (makePath file))
-        else a (sprintf "Missing File '%s'" (makePath file))
-      
+        then p (sprintf "File '%s' Empty" (makePath file))
+        else a (sprintf "File '%s' Empty" (makePath file))
 
   let dll = 
     Mono.Cecil.AssemblyDefinition.ReadAssembly("C:\\Users\\Fredrik\\Documents\\GitHub\\bolt\\build\\bolt.dll")
@@ -161,8 +165,6 @@ let main argv =
       
       let abs = 
         if t.IsAbstract then "abstract " else ""
-
-
 
       let typ = 
         if t.IsValueType then "struct " 

@@ -3,6 +3,6 @@
 # [BoltHitboxShape](Types/BoltHitboxShape.md).Sphere
 `public static BoltHitboxShape Sphere`
 ## Description
-Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltHitboxShape\F\Sphere_Description.md'
+File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltHitboxShape\F\Sphere_Description.md' Empty
 ## Example
-Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltHitboxShape\F\Sphere_Example.md'
+File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltHitboxShape\F\Sphere_Example.md' Empty

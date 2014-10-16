@@ -3,6 +3,6 @@
 # [BoltConnection](Types/BoltConnection.md).Disconnect
 `public void Disconnect()`
 ## Description
-Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltConnection\M\Disconnect_Description.md'
+File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltConnection\M\Disconnect_Description.md' Empty
 ## Example
-Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltConnection\M\Disconnect_Example.md'
+File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltConnection\M\Disconnect_Example.md' Empty

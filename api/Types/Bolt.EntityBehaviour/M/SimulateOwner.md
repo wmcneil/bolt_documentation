@@ -3,6 +3,6 @@
 # [Bolt.EntityBehaviour](Types/Bolt.EntityBehaviour.md).SimulateOwner
 `public virtual void SimulateOwner()`
 ## Description
-Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.EntityBehaviour\M\SimulateOwner_Description.md'
+File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.EntityBehaviour\M\SimulateOwner_Description.md' Empty
 ## Example
-Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.EntityBehaviour\M\SimulateOwner_Example.md'
+File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.EntityBehaviour\M\SimulateOwner_Example.md' Empty

@@ -3,6 +3,6 @@
 # [Bolt.ProxyFlags](Types/Bolt.ProxyFlags.md).IDLE
 `public readonly static Bolt.ProxyFlags IDLE`
 ## Description
-Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.ProxyFlags\F\IDLE_Description.md'
+File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.ProxyFlags\F\IDLE_Description.md' Empty
 ## Example
-Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.ProxyFlags\F\IDLE_Example.md'
+File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.ProxyFlags\F\IDLE_Example.md' Empty

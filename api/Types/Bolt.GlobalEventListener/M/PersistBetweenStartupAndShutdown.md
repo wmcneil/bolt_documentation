@@ -3,6 +3,6 @@
 # [Bolt.GlobalEventListener](Types/Bolt.GlobalEventListener.md).PersistBetweenStartupAndShutdown
 `public virtual bool PersistBetweenStartupAndShutdown()`
 ## Description
-Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.GlobalEventListener\M\PersistBetweenStartupAndShutdown_Description.md'
+File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.GlobalEventListener\M\PersistBetweenStartupAndShutdown_Description.md' Empty
 ## Example
-Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.GlobalEventListener\M\PersistBetweenStartupAndShutdown_Example.md'
+File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.GlobalEventListener\M\PersistBetweenStartupAndShutdown_Example.md' Empty

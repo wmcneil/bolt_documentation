@@ -3,6 +3,6 @@
 # [BoltEntity](Types/BoltEntity.md).persistsOnSceneLoad
 `public bool persistsOnSceneLoad { get; }`
 ## Description
-Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltEntity\P\persistsOnSceneLoad_Description.md'
+File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltEntity\P\persistsOnSceneLoad_Description.md' Empty
 ## Example
-Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltEntity\P\persistsOnSceneLoad_Example.md'
+File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltEntity\P\persistsOnSceneLoad_Example.md' Empty

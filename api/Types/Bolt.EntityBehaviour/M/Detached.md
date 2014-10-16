@@ -3,6 +3,6 @@
 # [Bolt.EntityBehaviour](Types/Bolt.EntityBehaviour.md).Detached
 `public virtual void Detached()`
 ## Description
-Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.EntityBehaviour\M\Detached_Description.md'
+File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.EntityBehaviour\M\Detached_Description.md' Empty
 ## Example
-Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.EntityBehaviour\M\Detached_Example.md'
+File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.EntityBehaviour\M\Detached_Example.md' Empty

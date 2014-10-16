@@ -3,8 +3,8 @@
 # [Bolt.IState](Types/Bolt.IState.md).RemoveCallback
 `public virtual void RemoveCallback(string path, Bolt.PropertyCallbackSimple callback)`
 ## Parameters
-Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.IState\M\RemoveCallback_Parameters.md'
+File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.IState\M\RemoveCallback_Parameters.md' Empty
 ## Description
-Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.IState\M\RemoveCallback_Description.md'
+File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.IState\M\RemoveCallback_Description.md' Empty
 ## Example
-Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.IState\M\RemoveCallback_Example.md'
+File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.IState\M\RemoveCallback_Example.md' Empty

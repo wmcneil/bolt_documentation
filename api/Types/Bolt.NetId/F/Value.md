@@ -3,6 +3,6 @@
 # [Bolt.NetId](Types/Bolt.NetId.md).Value
 `public readonly int Value`
 ## Description
-Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.NetId\F\Value_Description.md'
+File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.NetId\F\Value_Description.md' Empty
 ## Example
-Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.NetId\F\Value_Example.md'
+File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.NetId\F\Value_Example.md' Empty

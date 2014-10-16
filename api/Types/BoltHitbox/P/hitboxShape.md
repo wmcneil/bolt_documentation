@@ -3,6 +3,6 @@
 # [BoltHitbox](Types/BoltHitbox.md).hitboxShape
 `public BoltHitboxShape hitboxShape { get; }`
 ## Description
-Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltHitbox\P\hitboxShape_Description.md'
+File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltHitbox\P\hitboxShape_Description.md' Empty
 ## Example
-Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltHitbox\P\hitboxShape_Example.md'
+File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltHitbox\P\hitboxShape_Example.md' Empty

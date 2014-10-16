@@ -3,6 +3,6 @@
 # [BoltHitbox](Types/BoltHitbox.md).hitboxCenter
 `public Vector3 hitboxCenter { get; }`
 ## Description
-Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltHitbox\P\hitboxCenter_Description.md'
+File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltHitbox\P\hitboxCenter_Description.md' Empty
 ## Example
-Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltHitbox\P\hitboxCenter_Example.md'
+File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltHitbox\P\hitboxCenter_Example.md' Empty

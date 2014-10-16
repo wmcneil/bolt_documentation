@@ -3,6 +3,6 @@
 # [Bolt.EntityEventListener&lt;TState&gt;](Types/Bolt.EntityEventListener&lt;TState&gt;.md).state
 `public TState state { get; }`
 ## Description
-Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.EntityEventListener[TState]\P\state_Description.md'
+File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.EntityEventListener[TState]\P\state_Description.md' Empty
 ## Example
-Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.EntityEventListener[TState]\P\state_Example.md'
+File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.EntityEventListener[TState]\P\state_Example.md' Empty

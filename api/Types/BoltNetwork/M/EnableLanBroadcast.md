@@ -3,8 +3,8 @@
 # [BoltNetwork](Types/BoltNetwork.md).EnableLanBroadcast
 `public static void EnableLanBroadcast(System.UInt16 port)`
 ## Parameters
-Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltNetwork\M\EnableLanBroadcast_Parameters.md'
+File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltNetwork\M\EnableLanBroadcast_Parameters.md' Empty
 ## Description
-Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltNetwork\M\EnableLanBroadcast_Description.md'
+File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltNetwork\M\EnableLanBroadcast_Description.md' Empty
 ## Example
-Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltNetwork\M\EnableLanBroadcast_Example.md'
+File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltNetwork\M\EnableLanBroadcast_Example.md' Empty

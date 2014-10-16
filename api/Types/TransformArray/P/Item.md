@@ -3,6 +3,6 @@
 # [TransformArray](Types/TransformArray.md).Item
 `public Bolt.TransformData Item { get; }`
 ## Description
-Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\TransformArray\P\Item_Description.md'
+File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\TransformArray\P\Item_Description.md' Empty
 ## Example
-Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\TransformArray\P\Item_Example.md'
+File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\TransformArray\P\Item_Example.md' Empty

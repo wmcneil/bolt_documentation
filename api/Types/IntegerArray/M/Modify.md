@@ -3,6 +3,6 @@
 # [IntegerArray](Types/IntegerArray.md).Modify
 `public IntegerArrayModifier Modify()`
 ## Description
-Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\IntegerArray\M\Modify_Description.md'
+File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\IntegerArray\M\Modify_Description.md' Empty
 ## Example
-Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\IntegerArray\M\Modify_Example.md'
+File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\IntegerArray\M\Modify_Example.md' Empty

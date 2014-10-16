@@ -3,6 +3,6 @@
 # [BoltNetwork](Types/BoltNetwork.md).framesPerSecond
 `public static int framesPerSecond { get; }`
 ## Description
-Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltNetwork\P\framesPerSecond_Description.md'
+File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltNetwork\P\framesPerSecond_Description.md' Empty
 ## Example
-Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltNetwork\P\framesPerSecond_Example.md'
+File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltNetwork\P\framesPerSecond_Example.md' Empty

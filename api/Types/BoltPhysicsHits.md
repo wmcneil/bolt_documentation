@@ -3,16 +3,16 @@
 # BoltPhysicsHits
 `public class BoltPhysicsHits`
 ## Description
-Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltPhysicsHits_Description.md'
+File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltPhysicsHits_Description.md' Empty
 ## Example
-Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltPhysicsHits_Example.md'
+File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltPhysicsHits_Example.md' Empty
 ## Properties
 | Property | Summary |
 |:-----|:--------|
-|[count](BoltPhysicsHits/P/count.md)|Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltPhysicsHits\P\count_Summary.md'|
-|[Item](BoltPhysicsHits/P/Item.md)|Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltPhysicsHits\P\Item_Summary.md'|
+|[count](BoltPhysicsHits/P/count.md)|File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltPhysicsHits\P\count_Summary.md' Empty|
+|[Item](BoltPhysicsHits/P/Item.md)|File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltPhysicsHits\P\Item_Summary.md' Empty|
 ## Methods
 | Method | Summary |
 |:-----|:--------|
-|[GetHit](BoltPhysicsHits/M/GetHit.md)|Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltPhysicsHits\M\GetHit_Summary.md'|
-|[Dispose](BoltPhysicsHits/M/Dispose.md)|Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltPhysicsHits\M\Dispose_Summary.md'|
+|[GetHit](BoltPhysicsHits/M/GetHit.md)|File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltPhysicsHits\M\GetHit_Summary.md' Empty|
+|[Dispose](BoltPhysicsHits/M/Dispose.md)|File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltPhysicsHits\M\Dispose_Summary.md' Empty|

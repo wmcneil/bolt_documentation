@@ -3,6 +3,6 @@
 # [BoltPhysicsHit](Types/BoltPhysicsHit.md).distance
 `public float distance`
 ## Description
-Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltPhysicsHit\F\distance_Description.md'
+File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltPhysicsHit\F\distance_Description.md' Empty
 ## Example
-Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltPhysicsHit\F\distance_Example.md'
+File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltPhysicsHit\F\distance_Example.md' Empty

@@ -3,6 +3,6 @@
 # [Bolt.ProxyFlags](Types/Bolt.ProxyFlags.md).ZERO
 `public readonly static Bolt.ProxyFlags ZERO`
 ## Description
-Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.ProxyFlags\F\ZERO_Description.md'
+File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.ProxyFlags\F\ZERO_Description.md' Empty
 ## Example
-Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.ProxyFlags\F\ZERO_Example.md'
+File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.ProxyFlags\F\ZERO_Example.md' Empty

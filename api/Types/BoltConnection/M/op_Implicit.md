@@ -3,8 +3,8 @@
 # [BoltConnection](Types/BoltConnection.md).op_Implicit
 `public static bool op_Implicit(BoltConnection cn)`
 ## Parameters
-Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltConnection\M\op_Implicit_Parameters.md'
+File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltConnection\M\op_Implicit_Parameters.md' Empty
 ## Description
-Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltConnection\M\op_Implicit_Description.md'
+File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltConnection\M\op_Implicit_Description.md' Empty
 ## Example
-Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltConnection\M\op_Implicit_Example.md'
+File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltConnection\M\op_Implicit_Example.md' Empty

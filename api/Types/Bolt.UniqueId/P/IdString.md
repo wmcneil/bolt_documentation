@@ -3,6 +3,6 @@
 # [Bolt.UniqueId](Types/Bolt.UniqueId.md).IdString
 `public string IdString { get; }`
 ## Description
-Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.UniqueId\P\IdString_Description.md'
+File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.UniqueId\P\IdString_Description.md' Empty
 ## Example
-Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.UniqueId\P\IdString_Example.md'
+File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.UniqueId\P\IdString_Example.md' Empty

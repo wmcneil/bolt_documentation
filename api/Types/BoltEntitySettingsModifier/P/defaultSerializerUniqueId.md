@@ -3,6 +3,6 @@
 # [BoltEntitySettingsModifier](Types/BoltEntitySettingsModifier.md).defaultSerializerUniqueId
 `public Bolt.UniqueId defaultSerializerUniqueId { get; set; }`
 ## Description
-Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltEntitySettingsModifier\P\defaultSerializerUniqueId_Description.md'
+File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltEntitySettingsModifier\P\defaultSerializerUniqueId_Description.md' Empty
 ## Example
-Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltEntitySettingsModifier\P\defaultSerializerUniqueId_Example.md'
+File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltEntitySettingsModifier\P\defaultSerializerUniqueId_Example.md' Empty

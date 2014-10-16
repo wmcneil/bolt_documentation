@@ -3,6 +3,6 @@
 # [EntityArray](Types/EntityArray.md).Modify
 `public EntityArrayModifier Modify()`
 ## Description
-Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\EntityArray\M\Modify_Description.md'
+File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\EntityArray\M\Modify_Description.md' Empty
 ## Example
-Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\EntityArray\M\Modify_Example.md'
+File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\EntityArray\M\Modify_Example.md' Empty

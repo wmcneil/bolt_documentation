@@ -3,6 +3,6 @@
 # [Bolt.GlobalTargets](Types/Bolt.GlobalTargets.md).AllClients
 `public static Bolt.GlobalTargets AllClients`
 ## Description
-Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.GlobalTargets\F\AllClients_Description.md'
+File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.GlobalTargets\F\AllClients_Description.md' Empty
 ## Example
-Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.GlobalTargets\F\AllClients_Example.md'
+File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.GlobalTargets\F\AllClients_Example.md' Empty

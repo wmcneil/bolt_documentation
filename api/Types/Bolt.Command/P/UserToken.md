@@ -3,6 +3,6 @@
 # [Bolt.Command](Types/Bolt.Command.md).UserToken
 `public object UserToken { get; set; }`
 ## Description
-Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.Command\P\UserToken_Description.md'
+File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.Command\P\UserToken_Description.md' Empty
 ## Example
-Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.Command\P\UserToken_Example.md'
+File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.Command\P\UserToken_Example.md' Empty

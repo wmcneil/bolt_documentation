@@ -3,6 +3,6 @@
 # [IntegerArray](Types/IntegerArray.md).Length
 `public int Length { get; }`
 ## Description
-Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\IntegerArray\P\Length_Description.md'
+File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\IntegerArray\P\Length_Description.md' Empty
 ## Example
-Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\IntegerArray\P\Length_Example.md'
+File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\IntegerArray\P\Length_Example.md' Empty
