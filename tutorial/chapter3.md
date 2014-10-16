@@ -432,16 +432,22 @@ Assigning the state of the motor to the command passed in is very important, thi
 ```csharp
   // ..
 
-  public override void ExecuteCommand(BoltCommand c, bool resetState) {
-    TutorialPlayerCommand cmd = (TutorialPlayerCommand)c;
+  public override void ExecuteCommand(Bolt.Command command, bool resetState) {
+    TutorialPlayerCommand cmd = (TutorialPlayerCommand)command;
 
     if (resetState) {
       // we got a correction from the server, reset (this only runs on the client)
-      _motor.SetState(cmd.state);
+      _motor.SetState(cmd.Result.Position, cmd.Result.Velocity, cmd.Result.IsGrounded, cmd.Result.JumpFrames);
     }
     else {
       // apply movement (this runs on both server and client)
-      cmd.state = _motor.Move(cmd.input);
+      PlayerMotor.State motorState = _motor.Move(cmd.Input.Forward, cmd.Input.Backward, cmd.Input.Left, cmd.Input.Right, cmd.Input.Jump, cmd.Input.Yaw);
+
+      // copy the motor state to the commands result (this gets sent back to the client)
+      cmd.Result.Position = motorState.position;
+      cmd.Result.Velocity = motorState.velocity;
+      cmd.Result.IsGrounded = motorState.isGrounded;
+      cmd.Result.JumpFrames = motorState.jumpFrames;
     }
   }
 
