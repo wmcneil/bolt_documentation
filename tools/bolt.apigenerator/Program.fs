@@ -54,7 +54,7 @@ let main argv =
     (!sb).AppendLine("`" + Regex.Replace(s, "[\n\r\s\t]+", " ") + "`") |> ignore
 
   let makePath file =
-    let path = System.IO.Path.GetFullPath("../../../../Api/" + file)
+    let path = System.IO.Path.GetFullPath("../../../../api/" + file)
     System.IO.Directory.CreateDirectory(System.IO.Path.GetDirectoryName(path)) |> ignore
     path
 
