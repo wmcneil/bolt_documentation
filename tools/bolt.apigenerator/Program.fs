@@ -54,7 +54,7 @@ let main argv =
     (!sb).AppendLine("`" + Regex.Replace(s, "[\n\r\s\t]+", " ") + "`") |> ignore
 
   let makePath file =
-    let path = System.IO.Path.GetFullPath("..\\..\\..\\..\\Api\\" + file)
+    let path = System.IO.Path.GetFullPath("../../../../Api/" + file)
     System.IO.Directory.CreateDirectory(System.IO.Path.GetDirectoryName(path)) |> ignore
     path
 
@@ -113,7 +113,7 @@ let main argv =
     sprintf "[%s](%s)" m.Name (memberPath m)
     
   let memberInclude header (m:Mono.Cecil.IMemberDefinition)  = 
-    includeFile header (m |> memberPath |> replace ".md" ("_" + header + ".md"))
+    includeFile header ("Types/" + (m |> memberPath |> replace ".md" ("_" + header + ".md")))
 
   let writeReadme () =
     sb := new System.Text.StringBuilder()
