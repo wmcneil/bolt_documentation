@@ -3,6 +3,6 @@
 # [BoltEntity](Types/BoltEntity.md).isOwner
 `public bool isOwner { get; }`
 ## Description
-Missing File 'Types/BoltEntity/P/isOwner_Description.md'
+Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltEntity\P\isOwner_Description.md'
 ## Example
-Missing File 'Types/BoltEntity/P/isOwner_Example.md'
+Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltEntity\P\isOwner_Example.md'

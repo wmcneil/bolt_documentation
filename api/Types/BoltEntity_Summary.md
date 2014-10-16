@@ -1,0 +1,1 @@
+Links a `UnityEngine.GameObject` to Bolt, contains methods and properties for interacting with entities over the network.

@@ -3,8 +3,8 @@
 # [BoltNetwork](Types/BoltNetwork.md).Connect
 `public static void Connect(UdpKit.UdpEndPoint endpoint, System.Byte[] token)`
 ## Parameters
-Missing File 'Types/BoltNetwork/M/Connect_Parameters.md'
+Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltNetwork\M\Connect_Parameters.md'
 ## Description
-Missing File 'Types/BoltNetwork/M/Connect_Description.md'
+Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltNetwork\M\Connect_Description.md'
 ## Example
-Missing File 'Types/BoltNetwork/M/Connect_Example.md'
+Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltNetwork\M\Connect_Example.md'

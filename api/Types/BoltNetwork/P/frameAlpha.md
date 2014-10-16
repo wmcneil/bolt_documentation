@@ -3,6 +3,6 @@
 # [BoltNetwork](Types/BoltNetwork.md).frameAlpha
 `public static float frameAlpha { get; }`
 ## Description
-Missing File 'Types/BoltNetwork/P/frameAlpha_Description.md'
+Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltNetwork\P\frameAlpha_Description.md'
 ## Example
-Missing File 'Types/BoltNetwork/P/frameAlpha_Example.md'
+Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltNetwork\P\frameAlpha_Example.md'

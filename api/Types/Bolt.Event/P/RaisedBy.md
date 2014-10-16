@@ -3,6 +3,6 @@
 # [Bolt.Event](Types/Bolt.Event.md).RaisedBy
 `public BoltConnection RaisedBy { get; }`
 ## Description
-Missing File 'Types/Bolt.Event/P/RaisedBy_Description.md'
+Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.Event\P\RaisedBy_Description.md'
 ## Example
-Missing File 'Types/Bolt.Event/P/RaisedBy_Example.md'
+Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.Event\P\RaisedBy_Example.md'

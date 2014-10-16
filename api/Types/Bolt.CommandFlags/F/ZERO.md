@@ -3,6 +3,6 @@
 # [Bolt.CommandFlags](Types/Bolt.CommandFlags.md).ZERO
 `public readonly static Bolt.CommandFlags ZERO`
 ## Description
-Missing File 'Types/Bolt.CommandFlags/F/ZERO_Description.md'
+Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.CommandFlags\F\ZERO_Description.md'
 ## Example
-Missing File 'Types/Bolt.CommandFlags/F/ZERO_Example.md'
+Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.CommandFlags\F\ZERO_Example.md'

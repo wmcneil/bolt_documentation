@@ -3,6 +3,6 @@
 # [FloatArrayModifier](Types/FloatArrayModifier.md).Dispose
 `public virtual void Dispose()`
 ## Description
-Missing File 'Types/FloatArrayModifier/M/Dispose_Description.md'
+Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\FloatArrayModifier\M\Dispose_Description.md'
 ## Example
-Missing File 'Types/FloatArrayModifier/M/Dispose_Example.md'
+Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\FloatArrayModifier\M\Dispose_Example.md'

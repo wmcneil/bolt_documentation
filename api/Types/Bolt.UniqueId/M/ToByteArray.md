@@ -3,6 +3,6 @@
 # [Bolt.UniqueId](Types/Bolt.UniqueId.md).ToByteArray
 `public System.Byte[] ToByteArray()`
 ## Description
-Missing File 'Types/Bolt.UniqueId/M/ToByteArray_Description.md'
+Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.UniqueId\M\ToByteArray_Description.md'
 ## Example
-Missing File 'Types/Bolt.UniqueId/M/ToByteArray_Example.md'
+Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.UniqueId\M\ToByteArray_Example.md'

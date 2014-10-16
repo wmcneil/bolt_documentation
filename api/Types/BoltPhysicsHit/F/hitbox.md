@@ -3,6 +3,6 @@
 # [BoltPhysicsHit](Types/BoltPhysicsHit.md).hitbox
 `public BoltHitbox hitbox`
 ## Description
-Missing File 'Types/BoltPhysicsHit/F/hitbox_Description.md'
+Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltPhysicsHit\F\hitbox_Description.md'
 ## Example
-Missing File 'Types/BoltPhysicsHit/F/hitbox_Example.md'
+Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltPhysicsHit\F\hitbox_Example.md'

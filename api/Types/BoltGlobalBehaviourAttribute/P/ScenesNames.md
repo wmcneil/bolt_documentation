@@ -3,6 +3,6 @@
 # [BoltGlobalBehaviourAttribute](Types/BoltGlobalBehaviourAttribute.md).ScenesNames
 `public System.String[] ScenesNames { get; set; }`
 ## Description
-Missing File 'Types/BoltGlobalBehaviourAttribute/P/ScenesNames_Description.md'
+Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltGlobalBehaviourAttribute\P\ScenesNames_Description.md'
 ## Example
-Missing File 'Types/BoltGlobalBehaviourAttribute/P/ScenesNames_Example.md'
+Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltGlobalBehaviourAttribute\P\ScenesNames_Example.md'

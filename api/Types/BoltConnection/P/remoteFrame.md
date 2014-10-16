@@ -3,6 +3,6 @@
 # [BoltConnection](Types/BoltConnection.md).remoteFrame
 `public int remoteFrame { get; }`
 ## Description
-Missing File 'Types/BoltConnection/P/remoteFrame_Description.md'
+Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltConnection\P\remoteFrame_Description.md'
 ## Example
-Missing File 'Types/BoltConnection/P/remoteFrame_Example.md'
+Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltConnection\P\remoteFrame_Example.md'

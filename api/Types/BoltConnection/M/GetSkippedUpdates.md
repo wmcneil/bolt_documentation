@@ -3,8 +3,8 @@
 # [BoltConnection](Types/BoltConnection.md).GetSkippedUpdates
 `public int GetSkippedUpdates(BoltEntity en)`
 ## Parameters
-Missing File 'Types/BoltConnection/M/GetSkippedUpdates_Parameters.md'
+Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltConnection\M\GetSkippedUpdates_Parameters.md'
 ## Description
-Missing File 'Types/BoltConnection/M/GetSkippedUpdates_Description.md'
+Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltConnection\M\GetSkippedUpdates_Description.md'
 ## Example
-Missing File 'Types/BoltConnection/M/GetSkippedUpdates_Example.md'
+Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltConnection\M\GetSkippedUpdates_Example.md'

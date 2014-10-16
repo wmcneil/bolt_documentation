@@ -3,8 +3,8 @@
 # [BoltEntity](Types/BoltEntity.md).Idle
 `public void Idle(BoltConnection connection)`
 ## Parameters
-Missing File 'Types/BoltEntity/M/Idle_Parameters.md'
+Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltEntity\M\Idle_Parameters.md'
 ## Description
-Missing File 'Types/BoltEntity/M/Idle_Description.md'
+Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltEntity\M\Idle_Description.md'
 ## Example
-Missing File 'Types/BoltEntity/M/Idle_Example.md'
+Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltEntity\M\Idle_Example.md'

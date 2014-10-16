@@ -3,6 +3,6 @@
 # [BoltEntitySettingsModifier](Types/BoltEntitySettingsModifier.md).clientPredicted
 `public bool clientPredicted { get; set; }`
 ## Description
-Missing File 'Types/BoltEntitySettingsModifier/P/clientPredicted_Description.md'
+Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltEntitySettingsModifier\P\clientPredicted_Description.md'
 ## Example
-Missing File 'Types/BoltEntitySettingsModifier/P/clientPredicted_Example.md'
+Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltEntitySettingsModifier\P\clientPredicted_Example.md'

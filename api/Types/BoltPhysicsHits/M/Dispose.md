@@ -3,6 +3,6 @@
 # [BoltPhysicsHits](Types/BoltPhysicsHits.md).Dispose
 `public virtual void Dispose()`
 ## Description
-Missing File 'Types/BoltPhysicsHits/M/Dispose_Description.md'
+Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltPhysicsHits\M\Dispose_Description.md'
 ## Example
-Missing File 'Types/BoltPhysicsHits/M/Dispose_Example.md'
+Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltPhysicsHits\M\Dispose_Example.md'

@@ -3,8 +3,8 @@
 # [Bolt.EntityFlags](Types/Bolt.EntityFlags.md).op_Inequality
 `public static bool op_Inequality(Bolt.EntityFlags a, Bolt.EntityFlags b)`
 ## Parameters
-Missing File 'Types/Bolt.EntityFlags/M/op_Inequality_Parameters.md'
+Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.EntityFlags\M\op_Inequality_Parameters.md'
 ## Description
-Missing File 'Types/Bolt.EntityFlags/M/op_Inequality_Description.md'
+Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.EntityFlags\M\op_Inequality_Description.md'
 ## Example
-Missing File 'Types/Bolt.EntityFlags/M/op_Inequality_Example.md'
+Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.EntityFlags\M\op_Inequality_Example.md'

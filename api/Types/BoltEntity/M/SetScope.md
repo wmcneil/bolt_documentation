@@ -3,8 +3,8 @@
 # [BoltEntity](Types/BoltEntity.md).SetScope
 `public void SetScope(BoltConnection connection, bool inScope)`
 ## Parameters
-Missing File 'Types/BoltEntity/M/SetScope_Parameters.md'
+Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltEntity\M\SetScope_Parameters.md'
 ## Description
-Missing File 'Types/BoltEntity/M/SetScope_Description.md'
+Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltEntity\M\SetScope_Description.md'
 ## Example
-Missing File 'Types/BoltEntity/M/SetScope_Example.md'
+Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltEntity\M\SetScope_Example.md'

@@ -3,6 +3,6 @@
 # [BoltGlobalBehaviourAttribute](Types/BoltGlobalBehaviourAttribute.md).Mode
 `public BoltNetworkModes Mode { get; set; }`
 ## Description
-Missing File 'Types/BoltGlobalBehaviourAttribute/P/Mode_Description.md'
+Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltGlobalBehaviourAttribute\P\Mode_Description.md'
 ## Example
-Missing File 'Types/BoltGlobalBehaviourAttribute/P/Mode_Example.md'
+Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltGlobalBehaviourAttribute\P\Mode_Example.md'

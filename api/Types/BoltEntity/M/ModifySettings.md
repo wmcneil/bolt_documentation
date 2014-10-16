@@ -3,6 +3,6 @@
 # [BoltEntity](Types/BoltEntity.md).ModifySettings
 `public BoltEntitySettingsModifier ModifySettings()`
 ## Description
-Missing File 'Types/BoltEntity/M/ModifySettings_Description.md'
+Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltEntity\M\ModifySettings_Description.md'
 ## Example
-Missing File 'Types/BoltEntity/M/ModifySettings_Example.md'
+Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltEntity\M\ModifySettings_Example.md'

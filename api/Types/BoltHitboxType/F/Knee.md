@@ -3,6 +3,6 @@
 # [BoltHitboxType](Types/BoltHitboxType.md).Knee
 `public static BoltHitboxType Knee`
 ## Description
-Missing File 'Types/BoltHitboxType/F/Knee_Description.md'
+Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltHitboxType\F\Knee_Description.md'
 ## Example
-Missing File 'Types/BoltHitboxType/F/Knee_Example.md'
+Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltHitboxType\F\Knee_Example.md'

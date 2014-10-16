@@ -3,6 +3,6 @@
 # [Bolt.Event](Types/Bolt.Event.md).IsFromLocalComputer
 `public bool IsFromLocalComputer { get; }`
 ## Description
-Missing File 'Types/Bolt.Event/P/IsFromLocalComputer_Description.md'
+Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.Event\P\IsFromLocalComputer_Description.md'
 ## Example
-Missing File 'Types/Bolt.Event/P/IsFromLocalComputer_Example.md'
+Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.Event\P\IsFromLocalComputer_Example.md'

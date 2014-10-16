@@ -3,8 +3,8 @@
 # [Bolt.GlobalEventListener](Types/Bolt.GlobalEventListener.md).SceneLoadRemoteDone
 `public virtual void SceneLoadRemoteDone(BoltConnection connection)`
 ## Parameters
-Missing File 'Types/Bolt.GlobalEventListener/M/SceneLoadRemoteDone_Parameters.md'
+Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.GlobalEventListener\M\SceneLoadRemoteDone_Parameters.md'
 ## Description
-Missing File 'Types/Bolt.GlobalEventListener/M/SceneLoadRemoteDone_Description.md'
+Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.GlobalEventListener\M\SceneLoadRemoteDone_Description.md'
 ## Example
-Missing File 'Types/Bolt.GlobalEventListener/M/SceneLoadRemoteDone_Example.md'
+Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.GlobalEventListener\M\SceneLoadRemoteDone_Example.md'

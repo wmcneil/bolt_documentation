@@ -3,6 +3,6 @@
 # [BoltNetwork](Types/BoltNetwork.md).isRunning
 `public static bool isRunning { get; }`
 ## Description
-Missing File 'Types/BoltNetwork/P/isRunning_Description.md'
+Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltNetwork\P\isRunning_Description.md'
 ## Example
-Missing File 'Types/BoltNetwork/P/isRunning_Example.md'
+Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltNetwork\P\isRunning_Example.md'

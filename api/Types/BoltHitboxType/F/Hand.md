@@ -3,6 +3,6 @@
 # [BoltHitboxType](Types/BoltHitboxType.md).Hand
 `public static BoltHitboxType Hand`
 ## Description
-Missing File 'Types/BoltHitboxType/F/Hand_Description.md'
+Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltHitboxType\F\Hand_Description.md'
 ## Example
-Missing File 'Types/BoltHitboxType/F/Hand_Example.md'
+Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltHitboxType\F\Hand_Example.md'

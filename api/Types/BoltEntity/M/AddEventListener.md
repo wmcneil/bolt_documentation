@@ -3,8 +3,8 @@
 # [BoltEntity](Types/BoltEntity.md).AddEventListener
 `public void AddEventListener(MonoBehaviour behaviour)`
 ## Parameters
-Missing File 'Types/BoltEntity/M/AddEventListener_Parameters.md'
+Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltEntity\M\AddEventListener_Parameters.md'
 ## Description
-Missing File 'Types/BoltEntity/M/AddEventListener_Description.md'
+Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltEntity\M\AddEventListener_Description.md'
 ## Example
-Missing File 'Types/BoltEntity/M/AddEventListener_Example.md'
+Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltEntity\M\AddEventListener_Example.md'

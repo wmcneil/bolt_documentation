@@ -53,7 +53,8 @@ let main argv =
   let code s = 
     (!sb).AppendLine("`" + Regex.Replace(s, "[\n\r\s\t]+", " ") + "`") |> ignore
 
-  let makePath file =
+  let makePath (file:string) =
+    let file = file.Replace("&lt;", "[").Replace("&gt;", "]")
     let path = System.IO.Path.GetFullPath("../../../../api/" + file)
     System.IO.Directory.CreateDirectory(System.IO.Path.GetDirectoryName(path)) |> ignore
     path
@@ -75,8 +76,8 @@ let main argv =
 
     else
       if header <> "Summary" 
-        then p (sprintf "Missing File '%s'" file)
-        else a (sprintf "Missing File '%s'" file)
+        then p (sprintf "Missing File '%s'" (makePath file))
+        else a (sprintf "Missing File '%s'" (makePath file))
       
 
   let dll = 
@@ -90,16 +91,22 @@ let main argv =
   let typeName (t:Mono.Cecil.TypeDefinition) =
     let attr = t.CustomAttributes |> Seq.find (fun a -> a.AttributeType.FullName = "Bolt.DocumentationAttribute")
     let alias = attr.Properties |> Seq.tryFind (fun p -> p.Name = "Alias")
-    
-    match alias with
-    | None -> t.FullName
-    | Some(v) -> v.Argument.Value.ToString()
+    let name = 
+      match alias with
+      | None -> t.FullName
+      | Some(v) -> v.Argument.Value.ToString()
+
+    name
+      .Replace("`1", "<T>")
+      .Replace("<", "&lt;")
+      .Replace(">", "&gt;")
 
   let fields (t:Mono.Cecil.TypeDefinition) = t.Fields |> Seq.filter (fun f -> f.IsPublic)
   let properties (t:Mono.Cecil.TypeDefinition) = t.Properties |> Seq.filter (fun p -> p.GetMethod.IsPublic)
   let methods (t:Mono.Cecil.TypeDefinition) = 
     t.Methods 
     |> Seq.filter (fun m -> m.IsPublic && m.Name <> ".ctor")
+    |> Seq.filter (fun m -> m.CustomAttributes |> Seq.exists (fun a -> a.AttributeType.FullName = "System.ObsoleteAttribute") |> not)
     |> Seq.filter (fun m -> (not <| m.Name.StartsWith("get_")) && (not <| m.Name.StartsWith("set_")))
   
   let typePath (t:Mono.Cecil.TypeDefinition) = sprintf "Types/%s.md" (typeName t)

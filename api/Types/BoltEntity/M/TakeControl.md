@@ -3,6 +3,6 @@
 # [BoltEntity](Types/BoltEntity.md).TakeControl
 `public void TakeControl()`
 ## Description
-Missing File 'Types/BoltEntity/M/TakeControl_Description.md'
+Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltEntity\M\TakeControl_Description.md'
 ## Example
-Missing File 'Types/BoltEntity/M/TakeControl_Example.md'
+Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltEntity\M\TakeControl_Example.md'

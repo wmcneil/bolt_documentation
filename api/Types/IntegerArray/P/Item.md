@@ -3,6 +3,6 @@
 # [IntegerArray](Types/IntegerArray.md).Item
 `public int Item { get; }`
 ## Description
-Missing File 'Types/IntegerArray/P/Item_Description.md'
+Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\IntegerArray\P\Item_Description.md'
 ## Example
-Missing File 'Types/IntegerArray/P/Item_Example.md'
+Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\IntegerArray\P\Item_Example.md'

@@ -3,6 +3,6 @@
 # [BoltEntity](Types/BoltEntity.md).isAttached
 `public bool isAttached { get; }`
 ## Description
-Missing File 'Types/BoltEntity/P/isAttached_Description.md'
+Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltEntity\P\isAttached_Description.md'
 ## Example
-Missing File 'Types/BoltEntity/P/isAttached_Example.md'
+Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltEntity\P\isAttached_Example.md'

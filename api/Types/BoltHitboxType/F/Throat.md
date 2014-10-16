@@ -3,6 +3,6 @@
 # [BoltHitboxType](Types/BoltHitboxType.md).Throat
 `public static BoltHitboxType Throat`
 ## Description
-Missing File 'Types/BoltHitboxType/F/Throat_Description.md'
+Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltHitboxType\F\Throat_Description.md'
 ## Example
-Missing File 'Types/BoltHitboxType/F/Throat_Example.md'
+Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltHitboxType\F\Throat_Example.md'

@@ -3,6 +3,6 @@
 # [BoltHitboxType](Types/BoltHitboxType.md).Buttocks
 `public static BoltHitboxType Buttocks`
 ## Description
-Missing File 'Types/BoltHitboxType/F/Buttocks_Description.md'
+Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltHitboxType\F\Buttocks_Description.md'
 ## Example
-Missing File 'Types/BoltHitboxType/F/Buttocks_Example.md'
+Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltHitboxType\F\Buttocks_Example.md'

@@ -3,8 +3,8 @@
 # [BoltNetwork](Types/BoltNetwork.md).RemoveGlobalEventListener
 `public static void RemoveGlobalEventListener(MonoBehaviour mb)`
 ## Parameters
-Missing File 'Types/BoltNetwork/M/RemoveGlobalEventListener_Parameters.md'
+Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltNetwork\M\RemoveGlobalEventListener_Parameters.md'
 ## Description
-Missing File 'Types/BoltNetwork/M/RemoveGlobalEventListener_Description.md'
+Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltNetwork\M\RemoveGlobalEventListener_Description.md'
 ## Example
-Missing File 'Types/BoltNetwork/M/RemoveGlobalEventListener_Example.md'
+Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltNetwork\M\RemoveGlobalEventListener_Example.md'

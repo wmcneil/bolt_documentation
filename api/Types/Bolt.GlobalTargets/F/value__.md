@@ -3,6 +3,6 @@
 # [Bolt.GlobalTargets](Types/Bolt.GlobalTargets.md).value__
 `public System.Byte value__`
 ## Description
-Missing File 'Types/Bolt.GlobalTargets/F/value___Description.md'
+Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.GlobalTargets\F\value___Description.md'
 ## Example
-Missing File 'Types/Bolt.GlobalTargets/F/value___Example.md'
+Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.GlobalTargets\F\value___Example.md'

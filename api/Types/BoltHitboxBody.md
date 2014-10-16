@@ -2,6 +2,6 @@
 
 # BoltHitboxBody
 ## Description
-Missing File 'Types/BoltHitboxBody_Description.md'
+Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltHitboxBody_Description.md'
 ## Example
-Missing File 'Types/BoltHitboxBody_Example.md'
+Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltHitboxBody_Example.md'

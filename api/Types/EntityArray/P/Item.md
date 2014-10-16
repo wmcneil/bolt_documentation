@@ -3,6 +3,6 @@
 # [EntityArray](Types/EntityArray.md).Item
 `public BoltEntity Item { get; }`
 ## Description
-Missing File 'Types/EntityArray/P/Item_Description.md'
+Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\EntityArray\P\Item_Description.md'
 ## Example
-Missing File 'Types/EntityArray/P/Item_Example.md'
+Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\EntityArray\P\Item_Example.md'

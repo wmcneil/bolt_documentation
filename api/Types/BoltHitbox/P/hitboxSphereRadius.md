@@ -3,6 +3,6 @@
 # [BoltHitbox](Types/BoltHitbox.md).hitboxSphereRadius
 `public float hitboxSphereRadius { get; }`
 ## Description
-Missing File 'Types/BoltHitbox/P/hitboxSphereRadius_Description.md'
+Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltHitbox\P\hitboxSphereRadius_Description.md'
 ## Example
-Missing File 'Types/BoltHitbox/P/hitboxSphereRadius_Example.md'
+Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltHitbox\P\hitboxSphereRadius_Example.md'

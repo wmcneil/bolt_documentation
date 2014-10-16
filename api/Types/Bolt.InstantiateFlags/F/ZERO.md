@@ -3,6 +3,6 @@
 # [Bolt.InstantiateFlags](Types/Bolt.InstantiateFlags.md).ZERO
 `public readonly static Bolt.InstantiateFlags ZERO`
 ## Description
-Missing File 'Types/Bolt.InstantiateFlags/F/ZERO_Description.md'
+Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.InstantiateFlags\F\ZERO_Description.md'
 ## Example
-Missing File 'Types/Bolt.InstantiateFlags/F/ZERO_Example.md'
+Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.InstantiateFlags\F\ZERO_Example.md'

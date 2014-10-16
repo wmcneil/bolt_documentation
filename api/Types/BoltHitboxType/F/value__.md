@@ -3,6 +3,6 @@
 # [BoltHitboxType](Types/BoltHitboxType.md).value__
 `public int value__`
 ## Description
-Missing File 'Types/BoltHitboxType/F/value___Description.md'
+Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltHitboxType\F\value___Description.md'
 ## Example
-Missing File 'Types/BoltHitboxType/F/value___Example.md'
+Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltHitboxType\F\value___Example.md'

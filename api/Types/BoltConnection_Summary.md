@@ -1,0 +1,1 @@
+Represents a connection from to the local computer to another remote computer.

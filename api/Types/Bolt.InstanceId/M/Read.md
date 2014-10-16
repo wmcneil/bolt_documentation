@@ -3,8 +3,8 @@
 # [Bolt.InstanceId](Types/Bolt.InstanceId.md).Read
 `public static Bolt.InstanceId Read(UdpKit.UdpStream stream)`
 ## Parameters
-Missing File 'Types/Bolt.InstanceId/M/Read_Parameters.md'
+Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.InstanceId\M\Read_Parameters.md'
 ## Description
-Missing File 'Types/Bolt.InstanceId/M/Read_Description.md'
+Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.InstanceId\M\Read_Description.md'
 ## Example
-Missing File 'Types/Bolt.InstanceId/M/Read_Example.md'
+Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\Bolt.InstanceId\M\Read_Example.md'

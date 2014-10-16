@@ -3,6 +3,6 @@
 # [BoltNetwork](Types/BoltNetwork.md).isDebugMode
 `public static bool isDebugMode { get; }`
 ## Description
-Missing File 'Types/BoltNetwork/P/isDebugMode_Description.md'
+Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltNetwork\P\isDebugMode_Description.md'
 ## Example
-Missing File 'Types/BoltNetwork/P/isDebugMode_Example.md'
+Missing File 'C:\Users\Fredrik\Documents\GitHub\bolt_documentation\api\Types\BoltNetwork\P\isDebugMode_Example.md'
