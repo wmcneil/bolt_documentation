@@ -13,7 +13,6 @@ For the best support it's recommended to include your OS, version of Unity, vers
 
 ---
 
-
 ###Forgot to install
 
 **Error:**
@@ -23,3 +22,28 @@ For the best support it's recommended to include your OS, version of Unity, vers
 
 You've probably installed the Bolt package but didn't perform its internal installation yet.  
 Try: *Edit -> Bolt Install -> Yes (Force)*
+
+---
+
+###Missing icons in Bolt UI
+
+This is likely a case where you're missing some Bolt files related to its installation.  
+Try: *Edit -> Bolt Install -> Yes (Force)*
+
+---
+
+###Missing delete button in Bolt Editor UI (Bolt 0.4+)
+
+With Bolt 0.4+ to remove any of the elements in the Bolt Editor you need to **hold control** to have the delete button show up.
+
+---
+
+###The transform is not syncing with the State to other Clients (Bolt 0.4+)
+
+With Bolt 0.4+ ensure to link up the transform in Attached():
+
+    void Attached() {
+        state.transform.SetTransforms(transform);
+    }
+    
+Note that this assumes the transform property on your State is called *transform*.

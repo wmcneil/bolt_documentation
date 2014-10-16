@@ -42,21 +42,3 @@ Note that in most scenarios the Server will be the Owner so one will often read 
 
 A BoltEntity is considered a Proxy in your connection/game if you're not the Owner or Controller.
 Even though it may seem logical for some it's important to keep in mind that what might be a Proxy BoltEntity on a Client will not be on another connection (where instead it's the Owner/Controller).
-
-# The BoltEntity
-
-The BoltEntity is a Unity gameObject that will be represented on the network by Bolt. A BoltEntity is not a *Server or Client*, but can be:
-
-1. *Owned*, where`entity.isOwner == true`
-2. *Controlled*, where `entity.isController == true`
-3. *Proxy*, where `entity.isOwner == false && entity.isController == false`
-
-#### Synching the BoltEntity to others
-To sync state from the Owner to the other Clients you'll need to create a **State**.
-This can be done through Bolt's *Editor*. 
-*Make sure to recompile Bolt Assets after creating/changing a State*
-
-#### Controlling a BoltEntity
-
-To set up how a BoltEntity is controlled you'll need to override the entity's `ExecuteCommand()` and `SimulateController()` methods.
-This is (usually) done for **client-side prediction**. Note that the Owner will still have full control over the actual State of the BoltEntity.
