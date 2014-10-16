@@ -1,0 +1,6 @@
+# [Bolt.UniqueId](Types/Bolt.UniqueId.md).IsNone
+`public bool IsNone { get; }`
+## Summary
+Missing File 'Types/Bolt.UniqueId/P/IsNone_Summary.md'
+## Example
+Missing File 'Types/Bolt.UniqueId/P/IsNone_Example.md'

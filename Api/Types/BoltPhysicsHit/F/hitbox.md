@@ -1,0 +1,6 @@
+# [BoltPhysicsHit](Types/BoltPhysicsHit.md).hitbox
+`public BoltHitbox hitbox`
+## Summary
+Missing File 'Types/BoltPhysicsHit/F/hitbox_Summary.md'
+## Example
+Missing File 'Types/BoltPhysicsHit/F/hitbox_Example.md'

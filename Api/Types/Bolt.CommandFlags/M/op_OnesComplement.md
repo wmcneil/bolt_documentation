@@ -1,0 +1,8 @@
+# [Bolt.CommandFlags](Types/Bolt.CommandFlags.md).op_OnesComplement
+`public static Bolt.CommandFlags op_OnesComplement(Bolt.CommandFlags a)`
+## Parameters
+Missing File 'Types/Bolt.CommandFlags/M/op_OnesComplement_Parameters.md'
+## Summary
+Missing File 'Types/Bolt.CommandFlags/M/op_OnesComplement_Summary.md'
+## Example
+Missing File 'Types/Bolt.CommandFlags/M/op_OnesComplement_Example.md'

@@ -1,0 +1,6 @@
+# [BoltEntity](Types/BoltEntity.md).uniqueId
+`public Bolt.UniqueId uniqueId { get; }`
+## Summary
+Missing File 'Types/BoltEntity/P/uniqueId_Summary.md'
+## Example
+Missing File 'Types/BoltEntity/P/uniqueId_Example.md'

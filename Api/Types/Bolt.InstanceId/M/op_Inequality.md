@@ -1,0 +1,8 @@
+# [Bolt.InstanceId](Types/Bolt.InstanceId.md).op_Inequality
+`public static bool op_Inequality(Bolt.InstanceId a, Bolt.InstanceId b)`
+## Parameters
+Missing File 'Types/Bolt.InstanceId/M/op_Inequality_Parameters.md'
+## Summary
+Missing File 'Types/Bolt.InstanceId/M/op_Inequality_Summary.md'
+## Example
+Missing File 'Types/Bolt.InstanceId/M/op_Inequality_Example.md'

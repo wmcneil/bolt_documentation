@@ -1,0 +1,36 @@
+# BoltEntity
+## Summary
+Missing File 'Types/BoltEntity_Summary.md'
+## Example
+Missing File 'Types/BoltEntity_Example.md'
+## Fields
+## Properties
+### [uniqueId](Types/BoltEntity/P/uniqueId.md)
+### [source](Types/BoltEntity/P/source.md)
+### [controller](Types/BoltEntity/P/controller.md)
+### [isAttached](Types/BoltEntity/P/isAttached.md)
+### [isSceneObject](Types/BoltEntity/P/isSceneObject.md)
+### [isOwner](Types/BoltEntity/P/isOwner.md)
+### [hasControl](Types/BoltEntity/P/hasControl.md)
+### [hasControlWithPrediction](Types/BoltEntity/P/hasControlWithPrediction.md)
+### [persistsOnSceneLoad](Types/BoltEntity/P/persistsOnSceneLoad.md)
+## Methods
+### [Join](Types/BoltEntity/M/Join.md)
+### [ModifySettings](Types/BoltEntity/M/ModifySettings.md)
+### [SetScopeAll](Types/BoltEntity/M/SetScopeAll.md)
+### [SetScope](Types/BoltEntity/M/SetScope.md)
+### [SetParent](Types/BoltEntity/M/SetParent.md)
+### [TakeControl](Types/BoltEntity/M/TakeControl.md)
+### [ReleaseControl](Types/BoltEntity/M/ReleaseControl.md)
+### [SetUniqueId](Types/BoltEntity/M/SetUniqueId.md)
+### [AssignControl](Types/BoltEntity/M/AssignControl.md)
+### [RevokeControl](Types/BoltEntity/M/RevokeControl.md)
+### [IsController](Types/BoltEntity/M/IsController.md)
+### [QueueInput](Types/BoltEntity/M/QueueInput.md)
+### [Idle](Types/BoltEntity/M/Idle.md)
+### [Wakeup](Types/BoltEntity/M/Wakeup.md)
+### [AddEventListener](Types/BoltEntity/M/AddEventListener.md)
+### [RemoveEventListener](Types/BoltEntity/M/RemoveEventListener.md)
+### [GetState](Types/BoltEntity/M/GetState.md)
+### [StateIs](Types/BoltEntity/M/StateIs.md)
+### [ToString](Types/BoltEntity/M/ToString.md)

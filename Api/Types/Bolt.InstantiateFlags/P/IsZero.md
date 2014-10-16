@@ -1,0 +1,6 @@
+# [Bolt.InstantiateFlags](Types/Bolt.InstantiateFlags.md).IsZero
+`public bool IsZero { get; }`
+## Summary
+Missing File 'Types/Bolt.InstantiateFlags/P/IsZero_Summary.md'
+## Example
+Missing File 'Types/Bolt.InstantiateFlags/P/IsZero_Example.md'

@@ -1,0 +1,6 @@
+# [BoltConnection](Types/BoltConnection.md).ToString
+`public virtual string ToString()`
+## Summary
+Missing File 'Types/BoltConnection/M/ToString_Summary.md'
+## Example
+Missing File 'Types/BoltConnection/M/ToString_Example.md'

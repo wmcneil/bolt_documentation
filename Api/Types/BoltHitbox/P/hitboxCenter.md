@@ -1,0 +1,6 @@
+# [BoltHitbox](Types/BoltHitbox.md).hitboxCenter
+`public Vector3 hitboxCenter { get; }`
+## Summary
+Missing File 'Types/BoltHitbox/P/hitboxCenter_Summary.md'
+## Example
+Missing File 'Types/BoltHitbox/P/hitboxCenter_Example.md'

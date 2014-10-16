@@ -1,0 +1,6 @@
+# [BoltGlobalBehaviourAttribute](Types/BoltGlobalBehaviourAttribute.md).Scenes
+`public System.Int32[] Scenes { get; set; }`
+## Summary
+Missing File 'Types/BoltGlobalBehaviourAttribute/P/Scenes_Summary.md'
+## Example
+Missing File 'Types/BoltGlobalBehaviourAttribute/P/Scenes_Example.md'

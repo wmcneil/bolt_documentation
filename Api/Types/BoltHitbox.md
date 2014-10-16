@@ -1,0 +1,13 @@
+# BoltHitbox
+## Summary
+Missing File 'Types/BoltHitbox_Summary.md'
+## Example
+Missing File 'Types/BoltHitbox_Example.md'
+## Fields
+## Properties
+### [hitboxShape](Types/BoltHitbox/P/hitboxShape.md)
+### [hitboxType](Types/BoltHitbox/P/hitboxType.md)
+### [hitboxCenter](Types/BoltHitbox/P/hitboxCenter.md)
+### [hitboxBoxSize](Types/BoltHitbox/P/hitboxBoxSize.md)
+### [hitboxSphereRadius](Types/BoltHitbox/P/hitboxSphereRadius.md)
+## Methods

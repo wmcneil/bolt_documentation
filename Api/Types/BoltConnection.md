@@ -1,0 +1,23 @@
+# BoltConnection
+## Summary
+Missing File 'Types/BoltConnection_Summary.md'
+## Example
+Missing File 'Types/BoltConnection_Example.md'
+## Fields
+## Properties
+### [isLoadingMap](Types/BoltConnection/P/isLoadingMap.md)
+### [udpConnection](Types/BoltConnection/P/udpConnection.md)
+### [remoteFrame](Types/BoltConnection/P/remoteFrame.md)
+### [ping](Types/BoltConnection/P/ping.md)
+### [pingAliased](Types/BoltConnection/P/pingAliased.md)
+### [bitsPerSecondIn](Types/BoltConnection/P/bitsPerSecondIn.md)
+### [bitsPerSecondOut](Types/BoltConnection/P/bitsPerSecondOut.md)
+### [remoteEndPoint](Types/BoltConnection/P/remoteEndPoint.md)
+### [userToken](Types/BoltConnection/P/userToken.md)
+## Methods
+### [Disconnect](Types/BoltConnection/M/Disconnect.md)
+### [GetSkippedUpdates](Types/BoltConnection/M/GetSkippedUpdates.md)
+### [Equals](Types/BoltConnection/M/Equals.md)
+### [GetHashCode](Types/BoltConnection/M/GetHashCode.md)
+### [ToString](Types/BoltConnection/M/ToString.md)
+### [op_Implicit](Types/BoltConnection/M/op_Implicit.md)

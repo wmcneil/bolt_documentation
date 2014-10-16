@@ -1,0 +1,6 @@
+# [Bolt.GlobalTargets](Types/Bolt.GlobalTargets.md).value__
+`public System.Byte value__`
+## Summary
+Missing File 'Types/Bolt.GlobalTargets/F/value___Summary.md'
+## Example
+Missing File 'Types/Bolt.GlobalTargets/F/value___Example.md'

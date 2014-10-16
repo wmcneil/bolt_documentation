@@ -1,0 +1,11 @@
+# IntegerArray
+## Summary
+Missing File 'Types/IntegerArray_Summary.md'
+## Example
+Missing File 'Types/IntegerArray_Example.md'
+## Fields
+## Properties
+### [Length](Types/IntegerArray/P/Length.md)
+### [Item](Types/IntegerArray/P/Item.md)
+## Methods
+### [Modify](Types/IntegerArray/M/Modify.md)

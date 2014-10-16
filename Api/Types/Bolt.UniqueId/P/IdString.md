@@ -1,0 +1,6 @@
+# [Bolt.UniqueId](Types/Bolt.UniqueId.md).IdString
+`public string IdString { get; }`
+## Summary
+Missing File 'Types/Bolt.UniqueId/P/IdString_Summary.md'
+## Example
+Missing File 'Types/Bolt.UniqueId/P/IdString_Example.md'

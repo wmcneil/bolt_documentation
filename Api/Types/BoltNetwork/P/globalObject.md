@@ -1,0 +1,6 @@
+# [BoltNetwork](Types/BoltNetwork.md).globalObject
+`public static GameObject globalObject { get; }`
+## Summary
+Missing File 'Types/BoltNetwork/P/globalObject_Summary.md'
+## Example
+Missing File 'Types/BoltNetwork/P/globalObject_Example.md'

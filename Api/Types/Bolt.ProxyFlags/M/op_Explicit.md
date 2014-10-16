@@ -1,0 +1,8 @@
+# [Bolt.ProxyFlags](Types/Bolt.ProxyFlags.md).op_Explicit
+`public static Bolt.ProxyFlags op_Explicit(int a)`
+## Parameters
+Missing File 'Types/Bolt.ProxyFlags/M/op_Explicit_Parameters.md'
+## Summary
+Missing File 'Types/Bolt.ProxyFlags/M/op_Explicit_Summary.md'
+## Example
+Missing File 'Types/Bolt.ProxyFlags/M/op_Explicit_Example.md'

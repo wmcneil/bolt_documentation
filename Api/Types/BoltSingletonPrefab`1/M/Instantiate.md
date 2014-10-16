@@ -1,0 +1,6 @@
+# [BoltSingletonPrefab`1](Types/BoltSingletonPrefab`1.md).Instantiate
+`public static void Instantiate()`
+## Summary
+Missing File 'Types/BoltSingletonPrefab`1/M/Instantiate_Summary.md'
+## Example
+Missing File 'Types/BoltSingletonPrefab`1/M/Instantiate_Example.md'

@@ -1,0 +1,6 @@
+# [BoltEntity](Types/BoltEntity.md).RevokeControl
+`public void RevokeControl()`
+## Summary
+Missing File 'Types/BoltEntity/M/RevokeControl_Summary.md'
+## Example
+Missing File 'Types/BoltEntity/M/RevokeControl_Example.md'

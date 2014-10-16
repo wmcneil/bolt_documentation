@@ -1,0 +1,8 @@
+# [BoltNetwork](Types/BoltNetwork.md).LoadScene
+`public static void LoadScene(string scene)`
+## Parameters
+Missing File 'Types/BoltNetwork/M/LoadScene_Parameters.md'
+## Summary
+Missing File 'Types/BoltNetwork/M/LoadScene_Summary.md'
+## Example
+Missing File 'Types/BoltNetwork/M/LoadScene_Example.md'

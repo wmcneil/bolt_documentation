@@ -1,0 +1,8 @@
+# [BoltNetwork](Types/BoltNetwork.md).RemoveGlobalEventListener
+`public static void RemoveGlobalEventListener(MonoBehaviour mb)`
+## Parameters
+Missing File 'Types/BoltNetwork/M/RemoveGlobalEventListener_Parameters.md'
+## Summary
+Missing File 'Types/BoltNetwork/M/RemoveGlobalEventListener_Summary.md'
+## Example
+Missing File 'Types/BoltNetwork/M/RemoveGlobalEventListener_Example.md'

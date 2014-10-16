@@ -1,0 +1,6 @@
+# [Bolt.GlobalTargets](Types/Bolt.GlobalTargets.md).Server
+`public static Bolt.GlobalTargets Server`
+## Summary
+Missing File 'Types/Bolt.GlobalTargets/F/Server_Summary.md'
+## Example
+Missing File 'Types/Bolt.GlobalTargets/F/Server_Example.md'

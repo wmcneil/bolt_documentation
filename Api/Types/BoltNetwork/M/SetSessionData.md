@@ -1,0 +1,8 @@
+# [BoltNetwork](Types/BoltNetwork.md).SetSessionData
+`public static void SetSessionData(string serverName, string userData)`
+## Parameters
+Missing File 'Types/BoltNetwork/M/SetSessionData_Parameters.md'
+## Summary
+Missing File 'Types/BoltNetwork/M/SetSessionData_Summary.md'
+## Example
+Missing File 'Types/BoltNetwork/M/SetSessionData_Example.md'

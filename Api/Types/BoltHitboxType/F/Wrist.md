@@ -1,0 +1,6 @@
+# [BoltHitboxType](Types/BoltHitboxType.md).Wrist
+`public static BoltHitboxType Wrist`
+## Summary
+Missing File 'Types/BoltHitboxType/F/Wrist_Summary.md'
+## Example
+Missing File 'Types/BoltHitboxType/F/Wrist_Example.md'

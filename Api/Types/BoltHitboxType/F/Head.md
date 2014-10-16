@@ -1,0 +1,6 @@
+# [BoltHitboxType](Types/BoltHitboxType.md).Head
+`public static BoltHitboxType Head`
+## Summary
+Missing File 'Types/BoltHitboxType/F/Head_Summary.md'
+## Example
+Missing File 'Types/BoltHitboxType/F/Head_Example.md'

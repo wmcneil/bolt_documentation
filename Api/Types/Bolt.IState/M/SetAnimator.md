@@ -1,0 +1,8 @@
+# [Bolt.IState](Types/Bolt.IState.md).SetAnimator
+`public virtual void SetAnimator(Animator animator)`
+## Parameters
+Missing File 'Types/Bolt.IState/M/SetAnimator_Parameters.md'
+## Summary
+Missing File 'Types/Bolt.IState/M/SetAnimator_Summary.md'
+## Example
+Missing File 'Types/Bolt.IState/M/SetAnimator_Example.md'

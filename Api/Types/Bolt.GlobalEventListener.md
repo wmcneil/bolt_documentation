@@ -1,0 +1,21 @@
+# Bolt.GlobalEventListener
+## Summary
+Missing File 'Types/Bolt.GlobalEventListener_Summary.md'
+## Example
+Missing File 'Types/Bolt.GlobalEventListener_Example.md'
+## Fields
+## Properties
+## Methods
+### [PersistBetweenStartupAndShutdown](Types/Bolt.GlobalEventListener/M/PersistBetweenStartupAndShutdown.md)
+### [ConnectFailed](Types/Bolt.GlobalEventListener/M/ConnectFailed.md)
+### [ConnectRefused](Types/Bolt.GlobalEventListener/M/ConnectRefused.md)
+### [EntityAttached](Types/Bolt.GlobalEventListener/M/EntityAttached.md)
+### [EntityDetached](Types/Bolt.GlobalEventListener/M/EntityDetached.md)
+### [ControlOfEntityGained](Types/Bolt.GlobalEventListener/M/ControlOfEntityGained.md)
+### [ControlOfEntityLost](Types/Bolt.GlobalEventListener/M/ControlOfEntityLost.md)
+### [SceneLoadLocalBegin](Types/Bolt.GlobalEventListener/M/SceneLoadLocalBegin.md)
+### [SceneLoadLocalDone](Types/Bolt.GlobalEventListener/M/SceneLoadLocalDone.md)
+### [SceneLoadRemoteDone](Types/Bolt.GlobalEventListener/M/SceneLoadRemoteDone.md)
+### [Connected](Types/Bolt.GlobalEventListener/M/Connected.md)
+### [Disconnected](Types/Bolt.GlobalEventListener/M/Disconnected.md)
+### [ConnectRequest](Types/Bolt.GlobalEventListener/M/ConnectRequest.md)

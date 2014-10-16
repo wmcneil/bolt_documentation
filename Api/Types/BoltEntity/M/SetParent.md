@@ -1,0 +1,8 @@
+# [BoltEntity](Types/BoltEntity.md).SetParent
+`public void SetParent(BoltEntity parent)`
+## Parameters
+Missing File 'Types/BoltEntity/M/SetParent_Parameters.md'
+## Summary
+Missing File 'Types/BoltEntity/M/SetParent_Summary.md'
+## Example
+Missing File 'Types/BoltEntity/M/SetParent_Example.md'

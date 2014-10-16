@@ -1,0 +1,6 @@
+# [BoltEntity](Types/BoltEntity.md).persistsOnSceneLoad
+`public bool persistsOnSceneLoad { get; }`
+## Summary
+Missing File 'Types/BoltEntity/P/persistsOnSceneLoad_Summary.md'
+## Example
+Missing File 'Types/BoltEntity/P/persistsOnSceneLoad_Example.md'

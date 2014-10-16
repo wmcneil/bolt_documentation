@@ -1,0 +1,6 @@
+# [IntegerArrayModifier](Types/IntegerArrayModifier.md).Length
+`public int Length { get; }`
+## Summary
+Missing File 'Types/IntegerArrayModifier/P/Length_Summary.md'
+## Example
+Missing File 'Types/IntegerArrayModifier/P/Length_Example.md'

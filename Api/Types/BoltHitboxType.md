@@ -1,0 +1,31 @@
+# BoltHitboxType
+## Summary
+Missing File 'Types/BoltHitboxType_Summary.md'
+## Example
+Missing File 'Types/BoltHitboxType_Example.md'
+## Fields
+### [value__](Types/BoltHitboxType/F/value__.md)
+### [Unknown](Types/BoltHitboxType/F/Unknown.md)
+### [Proximity](Types/BoltHitboxType/F/Proximity.md)
+### [Body](Types/BoltHitboxType/F/Body.md)
+### [Head](Types/BoltHitboxType/F/Head.md)
+### [Throat](Types/BoltHitboxType/F/Throat.md)
+### [Shoulder](Types/BoltHitboxType/F/Shoulder.md)
+### [UpperArm](Types/BoltHitboxType/F/UpperArm.md)
+### [Forearm](Types/BoltHitboxType/F/Forearm.md)
+### [Hand](Types/BoltHitboxType/F/Hand.md)
+### [Chest](Types/BoltHitboxType/F/Chest.md)
+### [Stomach](Types/BoltHitboxType/F/Stomach.md)
+### [Pelvis](Types/BoltHitboxType/F/Pelvis.md)
+### [Buttocks](Types/BoltHitboxType/F/Buttocks.md)
+### [Thigh](Types/BoltHitboxType/F/Thigh.md)
+### [Knee](Types/BoltHitboxType/F/Knee.md)
+### [Leg](Types/BoltHitboxType/F/Leg.md)
+### [Foot](Types/BoltHitboxType/F/Foot.md)
+### [Elbow](Types/BoltHitboxType/F/Elbow.md)
+### [Ankle](Types/BoltHitboxType/F/Ankle.md)
+### [Wrist](Types/BoltHitboxType/F/Wrist.md)
+### [Finger](Types/BoltHitboxType/F/Finger.md)
+### [Heel](Types/BoltHitboxType/F/Heel.md)
+## Properties
+## Methods

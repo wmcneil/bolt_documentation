@@ -1,0 +1,8 @@
+# [BoltEntity](Types/BoltEntity.md).IsController
+`public bool IsController(BoltConnection connection)`
+## Parameters
+Missing File 'Types/BoltEntity/M/IsController_Parameters.md'
+## Summary
+Missing File 'Types/BoltEntity/M/IsController_Summary.md'
+## Example
+Missing File 'Types/BoltEntity/M/IsController_Example.md'

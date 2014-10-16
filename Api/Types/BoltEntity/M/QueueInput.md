@@ -1,0 +1,8 @@
+# [BoltEntity](Types/BoltEntity.md).QueueInput
+`public bool QueueInput(Bolt.ICommandInput command)`
+## Parameters
+Missing File 'Types/BoltEntity/M/QueueInput_Parameters.md'
+## Summary
+Missing File 'Types/BoltEntity/M/QueueInput_Summary.md'
+## Example
+Missing File 'Types/BoltEntity/M/QueueInput_Example.md'

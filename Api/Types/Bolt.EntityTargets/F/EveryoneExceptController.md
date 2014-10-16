@@ -1,0 +1,6 @@
+# [Bolt.EntityTargets](Types/Bolt.EntityTargets.md).EveryoneExceptController
+`public static Bolt.EntityTargets EveryoneExceptController`
+## Summary
+Missing File 'Types/Bolt.EntityTargets/F/EveryoneExceptController_Summary.md'
+## Example
+Missing File 'Types/Bolt.EntityTargets/F/EveryoneExceptController_Example.md'

@@ -1,0 +1,6 @@
+# [BoltPhysicsHit](Types/BoltPhysicsHit.md).distance
+`public float distance`
+## Summary
+Missing File 'Types/BoltPhysicsHit/F/distance_Summary.md'
+## Example
+Missing File 'Types/BoltPhysicsHit/F/distance_Example.md'

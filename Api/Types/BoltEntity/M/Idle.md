@@ -1,0 +1,8 @@
+# [BoltEntity](Types/BoltEntity.md).Idle
+`public void Idle(BoltConnection connection)`
+## Parameters
+Missing File 'Types/BoltEntity/M/Idle_Parameters.md'
+## Summary
+Missing File 'Types/BoltEntity/M/Idle_Summary.md'
+## Example
+Missing File 'Types/BoltEntity/M/Idle_Example.md'

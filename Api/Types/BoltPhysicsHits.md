@@ -1,0 +1,12 @@
+# BoltPhysicsHits
+## Summary
+Missing File 'Types/BoltPhysicsHits_Summary.md'
+## Example
+Missing File 'Types/BoltPhysicsHits_Example.md'
+## Fields
+## Properties
+### [count](Types/BoltPhysicsHits/P/count.md)
+### [Item](Types/BoltPhysicsHits/P/Item.md)
+## Methods
+### [GetHit](Types/BoltPhysicsHits/M/GetHit.md)
+### [Dispose](Types/BoltPhysicsHits/M/Dispose.md)
