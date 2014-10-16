@@ -66,7 +66,8 @@ let main argv =
       File.WriteAllText(makePath file, (!sb).ToString());
 
   let includeFile header file =
-    h2 header
+    if header <> "Description" then
+      h2 header
 
     if File.Exists(makePath file) then
       (!sb).Append(File.ReadAllText(makePath file)) |> ignore
