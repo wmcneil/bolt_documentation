@@ -117,7 +117,8 @@ let main argv =
     h1 "Bolt API Documentation"
 
     for t in types do
-      h3 (sprintf "[%s](%s.md)" (typeName t) (typeName t))
+      t |> typeLink |> h3
+      t |> typeInclude "Description"
 
     save "README.md"
 
