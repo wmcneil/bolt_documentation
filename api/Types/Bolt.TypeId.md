@@ -1,9 +1,7 @@
 # Bolt.TypeId
-## Summary
-Missing File 'Types/Bolt.TypeId_Summary.md'
-## Example
-Missing File 'Types/Bolt.TypeId_Example.md'
-## Fields
+## Description
+Missing File 'Types/Bolt.TypeId_Description.md'## Example
+Missing File 'Types/Bolt.TypeId_Example.md'## Fields
 ### [Value](Bolt.TypeId/F/Value.md)
 ## Properties
 ## Methods

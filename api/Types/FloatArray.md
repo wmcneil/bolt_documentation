@@ -1,9 +1,7 @@
 # FloatArray
-## Summary
-Missing File 'Types/FloatArray_Summary.md'
-## Example
-Missing File 'Types/FloatArray_Example.md'
-## Fields
+## Description
+Missing File 'Types/FloatArray_Description.md'## Example
+Missing File 'Types/FloatArray_Example.md'## Fields
 ## Properties
 ### [Length](FloatArray/P/Length.md)
 ### [Item](FloatArray/P/Item.md)

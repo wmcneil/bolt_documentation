@@ -1,9 +1,7 @@
 # IntegerArrayModifier
-## Summary
-Missing File 'Types/IntegerArrayModifier_Summary.md'
-## Example
-Missing File 'Types/IntegerArrayModifier_Example.md'
-## Fields
+## Description
+Missing File 'Types/IntegerArrayModifier_Description.md'## Example
+Missing File 'Types/IntegerArrayModifier_Example.md'## Fields
 ## Properties
 ### [Length](IntegerArrayModifier/P/Length.md)
 ### [Item](IntegerArrayModifier/P/Item.md)

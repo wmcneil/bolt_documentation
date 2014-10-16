@@ -1,9 +1,7 @@
 # BoltGlobalBehaviourAttribute
-## Summary
-Missing File 'Types/BoltGlobalBehaviourAttribute_Summary.md'
-## Example
-Missing File 'Types/BoltGlobalBehaviourAttribute_Example.md'
-## Fields
+## Description
+Missing File 'Types/BoltGlobalBehaviourAttribute_Description.md'## Example
+Missing File 'Types/BoltGlobalBehaviourAttribute_Example.md'## Fields
 ## Properties
 ### [Mode](BoltGlobalBehaviourAttribute/P/Mode.md)
 ### [Scenes](BoltGlobalBehaviourAttribute/P/Scenes.md)

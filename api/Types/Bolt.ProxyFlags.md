@@ -1,9 +1,7 @@
 # Bolt.ProxyFlags
-## Summary
-Missing File 'Types/Bolt.ProxyFlags_Summary.md'
-## Example
-Missing File 'Types/Bolt.ProxyFlags_Example.md'
-## Fields
+## Description
+Missing File 'Types/Bolt.ProxyFlags_Description.md'## Example
+Missing File 'Types/Bolt.ProxyFlags_Example.md'## Fields
 ### [ZERO](Bolt.ProxyFlags/F/ZERO.md)
 ### [CREATE_REQUESTED](Bolt.ProxyFlags/F/CREATE_REQUESTED.md)
 ### [CREATE_DONE](Bolt.ProxyFlags/F/CREATE_DONE.md)

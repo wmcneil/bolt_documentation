@@ -1,9 +1,7 @@
 # BoltHitboxType
-## Summary
-Missing File 'Types/BoltHitboxType_Summary.md'
-## Example
-Missing File 'Types/BoltHitboxType_Example.md'
-## Fields
+## Description
+Missing File 'Types/BoltHitboxType_Description.md'## Example
+Missing File 'Types/BoltHitboxType_Example.md'## Fields
 ### [value__](BoltHitboxType/F/value__.md)
 ### [Unknown](BoltHitboxType/F/Unknown.md)
 ### [Proximity](BoltHitboxType/F/Proximity.md)

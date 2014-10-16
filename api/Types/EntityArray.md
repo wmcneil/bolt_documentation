@@ -1,9 +1,7 @@
 # EntityArray
-## Summary
-Missing File 'Types/EntityArray_Summary.md'
-## Example
-Missing File 'Types/EntityArray_Example.md'
-## Fields
+## Description
+Missing File 'Types/EntityArray_Description.md'## Example
+Missing File 'Types/EntityArray_Example.md'## Fields
 ## Properties
 ### [Length](EntityArray/P/Length.md)
 ### [Item](EntityArray/P/Item.md)

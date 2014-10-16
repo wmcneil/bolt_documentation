@@ -1,9 +1,7 @@
 # Bolt.Command
-## Summary
-Missing File 'Types/Bolt.Command_Summary.md'
-## Example
-Missing File 'Types/Bolt.Command_Example.md'
-## Fields
+## Description
+Missing File 'Types/Bolt.Command_Description.md'## Example
+Missing File 'Types/Bolt.Command_Example.md'## Fields
 ## Properties
 ### [ServerFrame](Bolt.Command/P/ServerFrame.md)
 ### [IsFirstExecution](Bolt.Command/P/IsFirstExecution.md)

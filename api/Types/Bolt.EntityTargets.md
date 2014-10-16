@@ -1,9 +1,7 @@
 # Bolt.EntityTargets
-## Summary
-Missing File 'Types/Bolt.EntityTargets_Summary.md'
-## Example
-Missing File 'Types/Bolt.EntityTargets_Example.md'
-## Fields
+## Description
+Missing File 'Types/Bolt.EntityTargets_Description.md'## Example
+Missing File 'Types/Bolt.EntityTargets_Example.md'## Fields
 ### [value__](Bolt.EntityTargets/F/value__.md)
 ### [Everyone](Bolt.EntityTargets/F/Everyone.md)
 ### [EveryoneExceptController](Bolt.EntityTargets/F/EveryoneExceptController.md)

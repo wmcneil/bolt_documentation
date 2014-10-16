@@ -1,9 +1,7 @@
 # Bolt.UniqueId
-## Summary
-Missing File 'Types/Bolt.UniqueId_Summary.md'
-## Example
-Missing File 'Types/Bolt.UniqueId_Example.md'
-## Fields
+## Description
+Missing File 'Types/Bolt.UniqueId_Description.md'## Example
+Missing File 'Types/Bolt.UniqueId_Example.md'## Fields
 ## Properties
 ### [IdString](Bolt.UniqueId/P/IdString.md)
 ### [IsNone](Bolt.UniqueId/P/IsNone.md)

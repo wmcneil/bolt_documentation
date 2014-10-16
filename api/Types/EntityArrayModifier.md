@@ -1,9 +1,7 @@
 # EntityArrayModifier
-## Summary
-Missing File 'Types/EntityArrayModifier_Summary.md'
-## Example
-Missing File 'Types/EntityArrayModifier_Example.md'
-## Fields
+## Description
+Missing File 'Types/EntityArrayModifier_Description.md'## Example
+Missing File 'Types/EntityArrayModifier_Example.md'## Fields
 ## Properties
 ### [Length](EntityArrayModifier/P/Length.md)
 ### [Item](EntityArrayModifier/P/Item.md)

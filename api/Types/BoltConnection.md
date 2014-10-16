@@ -1,9 +1,7 @@
 # BoltConnection
-## Summary
-Missing File 'Types/BoltConnection_Summary.md'
-## Example
-Missing File 'Types/BoltConnection_Example.md'
-## Fields
+## Description
+Missing File 'Types/BoltConnection_Description.md'## Example
+Missing File 'Types/BoltConnection_Example.md'## Fields
 ## Properties
 ### [isLoadingMap](BoltConnection/P/isLoadingMap.md)
 ### [udpConnection](BoltConnection/P/udpConnection.md)

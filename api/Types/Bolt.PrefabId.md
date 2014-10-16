@@ -1,9 +1,7 @@
 # Bolt.PrefabId
-## Summary
-Missing File 'Types/Bolt.PrefabId_Summary.md'
-## Example
-Missing File 'Types/Bolt.PrefabId_Example.md'
-## Fields
+## Description
+Missing File 'Types/Bolt.PrefabId_Description.md'## Example
+Missing File 'Types/Bolt.PrefabId_Example.md'## Fields
 ### [Value](Bolt.PrefabId/F/Value.md)
 ## Properties
 ## Methods

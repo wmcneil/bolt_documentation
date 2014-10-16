@@ -1,9 +1,7 @@
 # TransformArray
-## Summary
-Missing File 'Types/TransformArray_Summary.md'
-## Example
-Missing File 'Types/TransformArray_Example.md'
-## Fields
+## Description
+Missing File 'Types/TransformArray_Description.md'## Example
+Missing File 'Types/TransformArray_Example.md'## Fields
 ## Properties
 ### [Length](TransformArray/P/Length.md)
 ### [Item](TransformArray/P/Item.md)

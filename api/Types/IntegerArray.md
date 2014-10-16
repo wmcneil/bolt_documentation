@@ -1,9 +1,7 @@
 # IntegerArray
-## Summary
-Missing File 'Types/IntegerArray_Summary.md'
-## Example
-Missing File 'Types/IntegerArray_Example.md'
-## Fields
+## Description
+Missing File 'Types/IntegerArray_Description.md'## Example
+Missing File 'Types/IntegerArray_Example.md'## Fields
 ## Properties
 ### [Length](IntegerArray/P/Length.md)
 ### [Item](IntegerArray/P/Item.md)

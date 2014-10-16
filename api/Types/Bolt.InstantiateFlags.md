@@ -1,9 +1,7 @@
 # Bolt.InstantiateFlags
-## Summary
-Missing File 'Types/Bolt.InstantiateFlags_Summary.md'
-## Example
-Missing File 'Types/Bolt.InstantiateFlags_Example.md'
-## Fields
+## Description
+Missing File 'Types/Bolt.InstantiateFlags_Description.md'## Example
+Missing File 'Types/Bolt.InstantiateFlags_Example.md'## Fields
 ### [ZERO](Bolt.InstantiateFlags/F/ZERO.md)
 ### [TAKE_CONTROL](Bolt.InstantiateFlags/F/TAKE_CONTROL.md)
 ### [ASSIGN_CONTROL](Bolt.InstantiateFlags/F/ASSIGN_CONTROL.md)

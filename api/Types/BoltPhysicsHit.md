@@ -1,9 +1,7 @@
 # BoltPhysicsHit
-## Summary
-Missing File 'Types/BoltPhysicsHit_Summary.md'
-## Example
-Missing File 'Types/BoltPhysicsHit_Example.md'
-## Fields
+## Description
+Missing File 'Types/BoltPhysicsHit_Description.md'## Example
+Missing File 'Types/BoltPhysicsHit_Example.md'## Fields
 ### [distance](BoltPhysicsHit/F/distance.md)
 ### [hitbox](BoltPhysicsHit/F/hitbox.md)
 ### [body](BoltPhysicsHit/F/body.md)

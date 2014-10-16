@@ -1,9 +1,7 @@
 # BoltEntity
-## Summary
-Missing File 'Types/BoltEntity_Summary.md'
-## Example
-Missing File 'Types/BoltEntity_Example.md'
-## Fields
+## Description
+Missing File 'Types/BoltEntity_Description.md'## Example
+Missing File 'Types/BoltEntity_Example.md'## Fields
 ## Properties
 ### [uniqueId](BoltEntity/P/uniqueId.md)
 ### [source](BoltEntity/P/source.md)

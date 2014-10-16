@@ -1,9 +1,7 @@
 # Bolt.GlobalTargets
-## Summary
-Missing File 'Types/Bolt.GlobalTargets_Summary.md'
-## Example
-Missing File 'Types/Bolt.GlobalTargets_Example.md'
-## Fields
+## Description
+Missing File 'Types/Bolt.GlobalTargets_Description.md'## Example
+Missing File 'Types/Bolt.GlobalTargets_Example.md'## Fields
 ### [value__](Bolt.GlobalTargets/F/value__.md)
 ### [Everyone](Bolt.GlobalTargets/F/Everyone.md)
 ### [Others](Bolt.GlobalTargets/F/Others.md)

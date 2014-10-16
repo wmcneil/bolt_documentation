@@ -1,9 +1,7 @@
 # Bolt.TransformData
-## Summary
-Missing File 'Types/Bolt.TransformData_Summary.md'
-## Example
-Missing File 'Types/Bolt.TransformData_Example.md'
-## Fields
+## Description
+Missing File 'Types/Bolt.TransformData_Description.md'## Example
+Missing File 'Types/Bolt.TransformData_Example.md'## Fields
 ## Properties
 ## Methods
 ### [SetTransforms](Bolt.TransformData/M/SetTransforms.md)

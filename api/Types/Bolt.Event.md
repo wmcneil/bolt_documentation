@@ -1,9 +1,7 @@
 # Bolt.Event
-## Summary
-Missing File 'Types/Bolt.Event_Summary.md'
-## Example
-Missing File 'Types/Bolt.Event_Example.md'
-## Fields
+## Description
+Missing File 'Types/Bolt.Event_Description.md'## Example
+Missing File 'Types/Bolt.Event_Example.md'## Fields
 ## Properties
 ### [IsFromLocalComputer](Bolt.Event/P/IsFromLocalComputer.md)
 ### [RaisedBy](Bolt.Event/P/RaisedBy.md)

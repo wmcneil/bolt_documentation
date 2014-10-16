@@ -1,9 +1,7 @@
 # BoltHitboxShape
-## Summary
-Missing File 'Types/BoltHitboxShape_Summary.md'
-## Example
-Missing File 'Types/BoltHitboxShape_Example.md'
-## Fields
+## Description
+Missing File 'Types/BoltHitboxShape_Description.md'## Example
+Missing File 'Types/BoltHitboxShape_Example.md'## Fields
 ### [value__](BoltHitboxShape/F/value__.md)
 ### [Box](BoltHitboxShape/F/Box.md)
 ### [Sphere](BoltHitboxShape/F/Sphere.md)

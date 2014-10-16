@@ -1,9 +1,7 @@
 # BoltEntitySettingsModifier
-## Summary
-Missing File 'Types/BoltEntitySettingsModifier_Summary.md'
-## Example
-Missing File 'Types/BoltEntitySettingsModifier_Example.md'
-## Fields
+## Description
+Missing File 'Types/BoltEntitySettingsModifier_Description.md'## Example
+Missing File 'Types/BoltEntitySettingsModifier_Example.md'## Fields
 ## Properties
 ### [prefabId](BoltEntitySettingsModifier/P/prefabId.md)
 ### [defaultSerializerUniqueId](BoltEntitySettingsModifier/P/defaultSerializerUniqueId.md)

@@ -1,9 +1,7 @@
 # Bolt.GlobalEventListener
-## Summary
-Missing File 'Types/Bolt.GlobalEventListener_Summary.md'
-## Example
-Missing File 'Types/Bolt.GlobalEventListener_Example.md'
-## Fields
+## Description
+Missing File 'Types/Bolt.GlobalEventListener_Description.md'## Example
+Missing File 'Types/Bolt.GlobalEventListener_Example.md'## Fields
 ## Properties
 ## Methods
 ### [PersistBetweenStartupAndShutdown](Bolt.GlobalEventListener/M/PersistBetweenStartupAndShutdown.md)

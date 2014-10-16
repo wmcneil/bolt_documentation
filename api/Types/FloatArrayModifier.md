@@ -1,9 +1,7 @@
 # FloatArrayModifier
-## Summary
-Missing File 'Types/FloatArrayModifier_Summary.md'
-## Example
-Missing File 'Types/FloatArrayModifier_Example.md'
-## Fields
+## Description
+Missing File 'Types/FloatArrayModifier_Description.md'## Example
+Missing File 'Types/FloatArrayModifier_Example.md'## Fields
 ## Properties
 ### [Length](FloatArrayModifier/P/Length.md)
 ### [Item](FloatArrayModifier/P/Item.md)

@@ -1,9 +1,7 @@
 # BoltNetwork
-## Summary
-Missing File 'Types/BoltNetwork_Summary.md'
-## Example
-Missing File 'Types/BoltNetwork_Example.md'
-## Fields
+## Description
+Missing File 'Types/BoltNetwork_Description.md'## Example
+Missing File 'Types/BoltNetwork_Example.md'## Fields
 ### [ShutdownComplete](BoltNetwork/F/ShutdownComplete.md)
 ## Properties
 ### [frame](BoltNetwork/P/frame.md)

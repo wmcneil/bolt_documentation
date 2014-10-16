@@ -1,9 +1,7 @@
 # Bolt.CommandFlags
-## Summary
-Missing File 'Types/Bolt.CommandFlags_Summary.md'
-## Example
-Missing File 'Types/Bolt.CommandFlags_Example.md'
-## Fields
+## Description
+Missing File 'Types/Bolt.CommandFlags_Description.md'## Example
+Missing File 'Types/Bolt.CommandFlags_Example.md'## Fields
 ### [ZERO](Bolt.CommandFlags/F/ZERO.md)
 ### [HAS_EXECUTED](Bolt.CommandFlags/F/HAS_EXECUTED.md)
 ### [SEND_STATE](Bolt.CommandFlags/F/SEND_STATE.md)

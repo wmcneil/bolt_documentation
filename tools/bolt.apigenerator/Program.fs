@@ -46,6 +46,9 @@ let main argv =
   let h2 h = (!sb).AppendLine("## " + h) |> ignore
   let h3 h = (!sb).AppendLine("### " + h) |> ignore
   let h4 h = (!sb).AppendLine("#### " + h) |> ignore
+  
+  let a s = 
+    (!sb).Append(Regex.Replace(s, "[\n\r\s\t]+", " ")) |> ignore
 
   let p s = 
     (!sb).AppendLine(Regex.Replace(s, "[\n\r\s\t]+", " ")) |> ignore
@@ -69,14 +72,14 @@ let main argv =
       File.WriteAllText(makePath file, (!sb).ToString());
 
   let includeFile header file =
-    if header <> "Description" then
+    if header <> "Summary" then
       h2 header
 
     if File.Exists(makePath file) then
-      (!sb).Append(File.ReadAllText(makePath file)) |> ignore
+      (!sb).Append(File.ReadAllText(makePath file).Trim()) |> ignore
 
     else
-      p (sprintf "Missing File '%s'" file)
+      a (sprintf "Missing File '%s'" file)
 
   let dll = Mono.Cecil.AssemblyDefinition.ReadAssembly("C:\\Users\\Fredrik\\Documents\\GitHub\\bolt\\build\\bolt.dll")
 
@@ -120,9 +123,13 @@ let main argv =
 
     h1 "Bolt API Documentation"
 
+    p "| Type | Summary |"
+    p "|:-----|:--------|"
+
     for t in types do
-      t |> typeLink |> h3
-      t |> typeInclude "Description"
+      t |> typeLink |> sprintf "|%s|" |> a
+      t |> typeInclude "Summary"
+      p "|"
 
     save "README.md"
 
@@ -133,7 +140,7 @@ let main argv =
 
       h1 (typeName t)
 
-      t |> typeInclude "Summary"
+      t |> typeInclude "Description"
       t |> typeInclude "Example"
 
       h2 "Fields"
@@ -164,7 +171,7 @@ let main argv =
 
         code (sprintf "public %s%s%s %s" readonly statc typ m.Name)
         
-        m |> memberInclude "Summary"
+        m |> memberInclude "Description"
         m |> memberInclude "Example"
 
         save ("Types/" + (memberPath m))
@@ -179,7 +186,7 @@ let main argv =
         let statc = isStatic m.GetMethod.IsStatic
         code (sprintf "public %s%s %s { get; %s}" statc typ m.Name set)
         
-        m |> memberInclude "Summary"
+        m |> memberInclude "Description"
         m |> memberInclude "Example"
 
         save ("Types/" + (memberPath m))
@@ -204,7 +211,7 @@ let main argv =
         if m.Parameters.Count > 0 then
           m |> memberInclude "Parameters"
 
-        m |> memberInclude "Summary"
+        m |> memberInclude "Description"
         m |> memberInclude "Example"
 
         save ("Types/" + (memberPath m))

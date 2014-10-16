@@ -1,9 +1,7 @@
 # Bolt.IState
-## Summary
-Missing File 'Types/Bolt.IState_Summary.md'
-## Example
-Missing File 'Types/Bolt.IState_Example.md'
-## Fields
+## Description
+Missing File 'Types/Bolt.IState_Description.md'## Example
+Missing File 'Types/Bolt.IState_Example.md'## Fields
 ## Properties
 ## Methods
 ### [SetAnimator](Bolt.IState/M/SetAnimator.md)

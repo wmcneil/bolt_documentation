@@ -1,9 +1,7 @@
 # Bolt.EntityFlags
-## Summary
-Missing File 'Types/Bolt.EntityFlags_Summary.md'
-## Example
-Missing File 'Types/Bolt.EntityFlags_Example.md'
-## Fields
+## Description
+Missing File 'Types/Bolt.EntityFlags_Description.md'## Example
+Missing File 'Types/Bolt.EntityFlags_Example.md'## Fields
 ### [ZERO](Bolt.EntityFlags/F/ZERO.md)
 ### [HAS_CONTROL](Bolt.EntityFlags/F/HAS_CONTROL.md)
 ### [PERSIST_ON_LOAD](Bolt.EntityFlags/F/PERSIST_ON_LOAD.md)
