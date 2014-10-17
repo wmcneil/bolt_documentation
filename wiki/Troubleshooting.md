@@ -3,7 +3,7 @@
 If Bolt seems to be functioning incorrectly the first steps to try would be to:
 
 1. Ensure you've installed all files from the original Bolt package.
-2. Perform a Bolt install: *Edit -> Bolt Install -> Yes (Force)*
+2. Perform a Bolt install: *Edit -> Bolt Install -> Yes*
 3. Perform a Bolt compile: *Assets -> Bolt Compile (All)*
 4. Restart Unity
 
@@ -21,14 +21,14 @@ For the best support it's recommended to include your OS, version of Unity, vers
 > BoltEditorGUI.Button( System.String icon)
 
 You've probably installed the Bolt package but didn't perform its internal installation yet.  
-Try: *Edit -> Bolt Install -> Yes (Force)*
+Try: *Edit -> Bolt Install -> Yes*
 
 ---
 
 ###Missing icons in Bolt UI
 
 This is likely a case where you're missing some Bolt files related to its installation.  
-Try: *Edit -> Bolt Install -> Yes (Force)*
+Try: *Edit -> Bolt Install -> Yes*
 
 ---
 
@@ -43,10 +43,10 @@ With Bolt 0.4+ to remove any of the elements in the Bolt Editor you need to **ho
 With Bolt 0.4+ ensure to link up the transform in Attached():
 
     public override void Attached() {
-        state.transform.SetTransforms(transform);
+        state.myTransform.SetTransforms(transform);
     }
     
-Note that this assumes the transform property on your State is called *transform*.
+Note that this assumes the transform property on your State is called *myTransform*.
 
 ---
 
@@ -70,6 +70,3 @@ Instead of:
 3. Perform a Bolt Compile upon creation/changes in your Event.
 
 For more information see [Events](Events.md)
-
-
-
