@@ -32,3 +32,11 @@ This is the community wiki for Bolt Engine.
 [Official Bolt Forum](http://forum.boltengine.com/)
 
 [Reddit /r/boltengine Wiki](http://www.reddit.com/r/boltengine/wiki/index)
+
+---
+
+### Want to contribute?
+
+If you find any errors, mistakes or missing documentation and you think you can fix it. Then feel free to fork the repository here on github, fix what needs to be fixed and then submit a pull request to us. It's greatly appreciated!
+
+Here's a [Github markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
