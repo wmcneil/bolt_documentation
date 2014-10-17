@@ -31,6 +31,7 @@ Bolt doesn't sync animation speed with mecanim, but you can mimick such behaviou
 So in order to make the legs move faster with the increased speed you could read out the force that is applied to the character on its controller.
 
 **Providing your own smoothing/prediction for State properties**
+
 You could predict/adjust local values based on the State values and your own algorithm to modify the proxies' value that better represents how the value would change between updates within your game mechanics. This could allow you to perform a *sense of client-side prediction* that could work better than interpolation or extrapolation.
 
 ## Examples
