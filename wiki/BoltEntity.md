@@ -5,8 +5,8 @@ The BoltEntity is a Unity gameObject that will be represented on the network by 
 A BoltEntity is not a *Server or Client*, but can be:
 
 1. *Owned*, where`entity.isOwner == true`
-2. *Controlled*, where `entity.isController == true`
-3. *Proxy*, where `entity.isOwner == false && entity.isController == false`
+2. *Controlled*, where `entity.hasControl == true`
+3. *Proxy*, where `entity.isOwner == false && entity.hasControl == false`
 
 For more information about Owner, Controller and Proxies see [Who is Who?](WhoIsWho.md)
 
