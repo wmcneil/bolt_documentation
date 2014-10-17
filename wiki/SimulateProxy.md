@@ -21,6 +21,7 @@ So to implement it yourself you would implement FixedUpdate() on your BoltEntity
         {
             // Do your simulate proxy stuff here
         }
+    }
  
 ## Use cases
 
@@ -55,4 +56,5 @@ You could Lerp a locally stored value towards the one in the State.
             // Lerp our local value towards the new one in the State to smooth it in our own way
             _health = Mathf.Lerp(_health, State.health, 0.5f);
         }
+    }
        
