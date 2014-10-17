@@ -5,8 +5,8 @@ Each prefab which is compiled gets a unique id which is also refered as the "Pre
 ## Uses of the Prefab ID
 
 The prefab id can be used for instantiating bolt prefabs with their ID.
-Which means that lets say that u wanna make a drop system for objects in your game,
-and u wanna transmit a prefab in an event, you just add a new property to your event
+If you would like to make a drop system for objects in your game
+and you want to transmit a prefab in an event then you just add a new property to your event.
 Let's say "ItemToDrop" and define him as "Prefab id" and then do something like:
 
 	void DropItem()
