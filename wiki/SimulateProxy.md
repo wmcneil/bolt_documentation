@@ -36,7 +36,7 @@ You could predict/adjust local values based on the State values and your own alg
 
 ## Examples
 
-### Implemention a custom interpolation for State property on Proxy side
+### Implement a custom interpolation for State property on Proxy side
 
 You could Lerp a locally stored value towards the one in the State.
 
