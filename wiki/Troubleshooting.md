@@ -42,8 +42,34 @@ With Bolt 0.4+ to remove any of the elements in the Bolt Editor you need to **ho
 
 With Bolt 0.4+ ensure to link up the transform in Attached():
 
-    void Attached() {
+    public override void Attached() {
         state.transform.SetTransforms(transform);
     }
     
 Note that this assumes the transform property on your State is called *transform*.
+
+---
+
+### My implemented method X on BoltEntity is not being called
+
+Ensure (where required) you're using:
+
+`public override void MethodName()`
+
+Instead of:
+
+`public void MethodName()`
+
+---
+
+### My Entity doesn't have the OnEvent() method
+**Can't override OnEvent() on BoltEntity since it doesn't exist**
+
+1. To receive Entity Events you need to inherit from **Bolt.EntityEventListener** instead of **Bolt.EntityBehaviour**.  
+2. Ensure your Event has been created through the *Bolt Editor*.
+3. Perform a Bolt Compile upon creation/changes in your Event.
+
+For more information see [Events](Events.md)
+
+
+
