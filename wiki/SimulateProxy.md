@@ -28,3 +28,25 @@ So to implement it yourself you would implement FixedUpdate() on your BoltEntity
 You might not have a seperate animation for running and jogging in your game, but instead you want to speed or respectively slow down the animation based on the speed of your character.
 Bolt doesn't sync animation speed with mecanim, but you can mimick such behaviour nicely within SimulateProxy().
 So in order to make the legs move faster with the increased speed you could read out the force that is applied to the character on its controller.
+
+
+### Example: Custom interpolation for State property
+
+You could Lerp a locally stored value towards the one in the State.
+
+    public class PlayerEntity :  Bolt.EntityBehaviour<IPlayerState> {
+    
+        int _health;
+    
+        void FixedUpdate()
+        {
+            if (!entity.isOwner && !entity.hasControl)
+                SimulateProxy()
+        }
+        
+        void SimulateProxy()
+        {
+            // Lerp our local value towards the new one in the State to smooth it in our own way
+            _health = Mathf.Lerp(_health, State.health, 0.5f);
+        }
+       
