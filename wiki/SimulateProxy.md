@@ -11,7 +11,7 @@ So to implement it yourself you would implement FixedUpdate() on your BoltEntity
     public class PlayerEntity :  Bolt.EntityBehaviour<IPlayerState> {
         void FixedUpdate()
         {
-            if (!entity.isOwner && !entity.isController)
+            if (!entity.isOwner && !entity.hasControl)
                 SimulateProxy()
         }
         
