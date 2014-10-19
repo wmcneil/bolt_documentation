@@ -2,9 +2,9 @@
 
 This is the community wiki for Bolt Engine.
 
-
 ###Introduction
 
+* [What is Bolt?](WhatIsBolt.md)
 * [Who is who?](WhoIsWho.md)
     *  About Server, Client, Connection, Owner, Controller and Proxy
 * [What is what?](WhatIsWhat.md)
@@ -24,6 +24,8 @@ This is the community wiki for Bolt Engine.
 * [SimulateProxy() removed in  Bolt 0.4+ and here's how to do it yourself!](SimulateProxy.md)
 
 ###[Troubleshooting](Troubleshooting.md)
+
+* [Getting the latest version](GettingTheLatestVersion.md)
 
 ---
 
