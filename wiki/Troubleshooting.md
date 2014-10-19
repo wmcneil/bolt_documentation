@@ -70,3 +70,14 @@ Instead of:
 3. Perform a Bolt Compile upon creation/changes in your Event.
 
 For more information see [Events](Events.md)
+
+---
+
+### My Server callback is getting called twice  
+**Or: Server/Client callback is getting called more than once.**
+
+You likely have the Callbacks script attached to a gameObject in the scene.  
+There is no need to do this as Bolt automatically attaches it to the scene for you.  
+Therefore it's calling twice.
+
+Source: [http://forum.boltengine.com/viewtopic.php?f=6&t=331](http://forum.boltengine.com/viewtopic.php?f=6&t=331)
