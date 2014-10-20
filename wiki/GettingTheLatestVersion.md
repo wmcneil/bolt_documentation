@@ -8,7 +8,7 @@ If you purchased Bolt through our site, you should have been supplied a download
 
 ### Getting Bolt from the Private Repository
 
-*Once you've been given access to the [official repository](https://github.com/BoltEngine/bolt) **link will not work if you don't have access, see above)** then you can log in to Github and access the full repository*.
+*Once you've been given access to the [official repository](https://github.com/BoltEngine/bolt) _(link will not work if you don't have access, see above)_ then you can log in to Github and access the full repository*.
 
 You can either pull the repository and compile it yourself or pick one of the latest binary releases. You can find the releases at the root of the repository under *Releases* at the top, that would bring you to [*Bolt Releases*](https://github.com/BoltEngine/bolt/releases).
 
