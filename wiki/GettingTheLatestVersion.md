@@ -6,6 +6,12 @@ If you purchased Bolt through the Unity Asset Store, the best way to get the lat
 
 If you purchased Bolt through our site, you should have been supplied a download link on the return page after your purchase, if you have for some reason lost this link, email [support@boltengine.com](support@boltengine.com) to receive a new one. We also send out a link for every release of Bolt to your email. 
 
+### Getting Bolt from the Private Repository
+
+*Once you've been given access to the [official repository](https://github.com/BoltEngine/bolt) **(link will not work if you don't have access, see above)** then you can log in to Github and access the full repository*.
+
+You can either pull the repository and compile it yourself or pick one of the latest binary releases. You can find the releases at the root of the repository under *Releases* at the top, that would bring you to [*Bolt Releases*](https://github.com/BoltEngine/bolt/releases).
+
 ### Buying Bolt
 
 You can buy bolt here:
