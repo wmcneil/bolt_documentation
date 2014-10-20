@@ -35,6 +35,8 @@ This is the community wiki for Bolt Engine.
 
 [Reddit /r/boltengine Wiki](http://www.reddit.com/r/boltengine/wiki/index)
 
+[Some snippets of code from the Jabbr Chat](JabbrChatSnippets.md)
+
 ---
 
 ### Want to contribute?
