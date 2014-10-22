@@ -1,4 +1,4 @@
-# Bolt: SimulateProxy()
+# BoltEntity.SimulateProxy()
 
 You could use a `SimulateProxy()` method to perform a *simulation* on the Client where the Entity is a Proxy.
 
