@@ -57,4 +57,6 @@ Since on a remote controller ExecuteCommand will be called several times for the
 
 #### What about normal proxies, which are not the controller?
 
-On normal proxies, which are not in direct control of the entity and are not the owner of the entity, the only callback which executes is SimulateProxy(), neither SimulateController() or ExecuteCommand() runs on them. The position, rotation, animation and state sync is done through the Bolt state object for these entities. This means that any type of state, action, event, etc. you want visible to everyone connected has to be sent with either the Bolt State mechanism or over a Bolt Event, commands never execute on anyone but the controller and owner.
+On normal proxies, which are not in direct control of the entity and are not the owner of the entity, the only callback which executes is [*SimulateProxy()*](SimulateProxy.md), neither *SimulateController()* or *ExecuteCommand()* runs on them. 
+
+The position, rotation, animation and state sync is done through the Bolt state object for these entities. This means that any type of state, action, event, etc. you want visible to everyone connected has to be sent with either the Bolt State mechanism or over a Bolt Event,  as Bolt Commands never execute on anyone but the Controller and Owner.
