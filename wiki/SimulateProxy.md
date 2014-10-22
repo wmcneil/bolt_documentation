@@ -10,18 +10,20 @@ For more information about *Proxy* have a look at [*Who is Who?*](WhoIsWho.md)
 
 So to implement it yourself you would implement FixedUpdate() on your BoltEntity:
 
-    public class PlayerEntity :  Bolt.EntityBehaviour<IPlayerState> {
-        void FixedUpdate()
-        {
-            if (!entity.isOwner && !entity.hasControl)
-                SimulateProxy()
-        }
-        
-        void SimulateProxy()
-        {
-            // Do your simulate proxy stuff here
-        }
+```C#
+public class PlayerEntity :  Bolt.EntityBehaviour<IPlayerState> {
+    void FixedUpdate()
+    {
+        if (!entity.isOwner && !entity.hasControl)
+            SimulateProxy()
     }
+    
+    void SimulateProxy()
+    {
+        // Do your simulate proxy stuff here
+    }
+}
+```
  
 ## Use cases
 
@@ -41,20 +43,22 @@ You could predict/adjust local values based on the State values and your own alg
 
 You could Lerp a locally stored value towards the one in the State.
 
-    public class PlayerEntity :  Bolt.EntityBehaviour<IPlayerState> {
-    
-        int _health;
-    
-        void FixedUpdate()
-        {
-            if (!entity.isOwner && !entity.hasControl)
-                SimulateProxy()
-        }
-        
-        void SimulateProxy()
-        {
-            // Lerp our local value towards the new one in the State to smooth it in our own way
-            _health = Mathf.Lerp(_health, State.health, 0.5f);
-        }
+```C#
+public class PlayerEntity :  Bolt.EntityBehaviour<IPlayerState> {
+
+    int _health;
+
+    void FixedUpdate()
+    {
+        if (!entity.isOwner && !entity.hasControl)
+            SimulateProxy()
     }
+    
+    void SimulateProxy()
+    {
+        // Lerp our local value towards the new one in the State to smooth it in our own way
+        _health = Mathf.Lerp(_health, State.health, 0.5f);
+    }
+}
+```
        
