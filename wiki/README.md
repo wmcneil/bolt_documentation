@@ -18,6 +18,7 @@ This is the community wiki for Bolt Engine.
 * [State Syncing: Interpolated Snapshots vs Dead Reckoning](InterpolatedSnapshots_vs_DeadReckoning.md)
 * [State Callbacks](StateCallbacks.md)
 * [Events](Events.md)
+* [Bolt and Pool Managers](PoolManagers.md)
 
 ###Bolt Advanced
 
