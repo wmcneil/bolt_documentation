@@ -44,15 +44,3 @@ public override void SimulateController() {
     }
 }
 ```
-
-
-### enity poolling, snipet from adamscoble
-```C#
-BoltNetwork.SetInstantiateDestroyCallbacks((prefab, position, rotation) => {
-			Transform playerPrefab = PoolManager.Pools["Players"].Spawn(prefab.transform, position, rotation, null);
-			playerPrefab.parent = null;
-			return playerPrefab.gameObject;
-		}, (gameObject) => {
-			PoolManager.Pools["Players"].Despawn(gameObject.transform);
-		});
-```
