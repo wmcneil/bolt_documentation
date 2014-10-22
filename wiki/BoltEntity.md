@@ -39,9 +39,11 @@ Once the latest verified command has executed with resetState, Bolt will then ru
 
 #### What does 'resetState' entail?
 
-This is cause for a lot of confusion, when the command which has resetState set to true executes, Bolt wants you to set the local state of the character motor you are using to the state that is represented by the command. You should not use the "input" of the command here, only the "state". This is what allows Bolt to correct the local movement of a remote controller (often a client) with the correct state from the owner (often the server).
+This is cause for a lot of confusion, when the command which has resetState set to true executes, Bolt wants you to set the local state of the character motor you are using to the state that is represented by the command. You should not use the "BoltCommand.Input" here, only the "BoltCommand.Result". This is what allows Bolt to correct the local movement of a remote controller (often a client) with the correct state from the owner (often the server).
 
 Note that the state you need to reset is all of the state which effects movement of your entity in any way, usually this is position, rotation and some state variables like if you are grounded or crouching, etc. If you have a complex controller other things you want to reset could be velocity, acceleration, external forces, etc.
+
+*Incorrectly/incompletely resetting state is one of the most common problems with "jittery movement" on the Controller's side*
 
 #### What is BoltCommand.isFirstExecution used for?
 
