@@ -6,20 +6,24 @@ To replicate a value means to reproduce the value over a network/connection on t
 
 Remember to link your Animator/Transform when your state is attached, eg (in a script that inherits from `Bolt.EntityBehaviour<YourStateNameHere>`):
 
-	public override void Attached ()
-	{
-		state.transform.SetTransforms(transform);
-		state.SetAnimator(GetComponentInChildren<Animator>()); //Or wherever your animator is
-	}
+```C#
+public override void Attached ()
+{
+    state.transform.SetTransforms(transform);
+    state.SetAnimator(GetComponentInChildren<Animator>()); //Or wherever your animator is
+}
+```
 
 After that, if your state properties are all set up properly in-editor, then all you have to do is change the linked properties, and your Animator should replicate as intended.  
 In-editor example of Mecanim properties in state: [http://i.imgur.com/yWHrE1Z.png](http://i.imgur.com/yWHrE1Z.png)  
 Then, to change the properties (this is not mecanim-specific, this method can be used to change any property): In a script that inherits from: `Bolt.EntityBehaviour<YourStateNamehere>`
 
-	using(var mod = state.Modify())
-	{ 
-		mod.RunningSpeed = currentSpeed;
-	}
+```C#
+using(var mod = state.Modify())
+{ 
+    mod.RunningSpeed = currentSpeed;
+}
+```
 
 Then, as long as the controller is the only one running that bit of code (eg: wrap that in a `if(BoltNetwork.isOwner)` loop), Bolt will replicate that variable across the network, and push it into that animator automatically, if your state properties are set up as shown above.
 
