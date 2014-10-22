@@ -24,11 +24,11 @@ This is (usually) done for **client-side prediction**. Note that the Owner will 
 
 **Note that to be able to use authoritative and client predicted movement, you have to use either the transform component directly or a Character Controller component. You can not use mecanim root motion or rigidbodies to control your characters.**
 
-#### Method: `SimulateController()`
+#### Method: `BoltEntity.SimulateController()`
 Only runs on the person which has been assigned control of an entity. This can either be the Owner that has given itself control by calling `TakeControl()` on an Entity, or it can be someone which has a remote proxy of an object and has been given control from the owner, which the owner does by calling `AssignControl(BoltConnection connection);` 
 You are allowed to call QueueCommand inside of SimulateController, which is used for queuing up a command for execution.
 
-#### Method: `ExecuteCommand()`
+#### Method: `BoltEntity.ExecuteCommand(BoltCommand cmd, bool resetState)`
 This function runs on both the owner and controller, but has different behaviors depending on if it runs on the owner or a remote controller.
 
 On the owner, no matter if the Owner is the controller or not, it **only runs once** for each command. No matter if the command was created locally, by the owner itself or if it came from a remote connection which has been given control. The second parameter called **resetState will never be true on the owner**.
