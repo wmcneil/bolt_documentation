@@ -18,12 +18,12 @@ Like so:
 
 You can set up a callback on an array in an array like so:
 
-There is an overload to `state.AddCallback` which takes a delegate that takes three parameters in the format of *(Bolt.IState, string path, Bolt.ArrayIndices indices)*
+There is an overload to `state.AddCallback` which takes a delegate that takes three parameters in the format of `(Bolt.IState, string path, Bolt.ArrayIndices indices)`.
 
-1. *Bolt.IState* can be casted to your state type within the method (note that Bolt.IState is the class all States inherit from).
+1. **Bolt.IState** can be casted to your state type within the method (note that Bolt.IState is the class all States inherit from).
     - This is your actual State though it's just not strongly typed (to have a generic AddCallback method); that's the reason you need to cast it to your own type.
-2. *path* is the path to the property.
-3. *Bolt.ArrayIndices indices* contains the indices for any of the arrays that you attached in the callback.
+2. **string path** is the path to the property.
+3. **Bolt.ArrayIndices indices** contains the indices for any of the arrays that you attached in the callback.
 
 **Example 1a: Array callback with method**
 
@@ -108,7 +108,7 @@ Action UpdateArmor(Item item, int index) {
 And this would be used to add a callback:
 
 ```C#
-state.AddCallback("equpptedItems", OnHeadStuffChanged); 
+state.AddCallback("equippedItems", OnHeadStuffChanged); 
 ```
 
 And this is the method:
