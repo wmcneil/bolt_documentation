@@ -95,9 +95,9 @@ Defining your look up table of Actions:
 ```C#
 Dictionary<string, Action> lookupTable = new Dictionary<string, Action>()
 {
-    { "equippedItems.head", UpdateArmor(actorState.equippedItems.head, 0) },
-    { "equippedItems.body", UpdateArmor(actorState.equippedItems.body, 1) },
-    { "equippedItems.arms", UpdateArmor(actorState.equippedItems.arms, 2) }
+    { "equippedItems.head", UpdateArmor(state.equippedItems.head, 0) },
+    { "equippedItems.body", UpdateArmor(state.equippedItems.body, 1) },
+    { "equippedItems.arms", UpdateArmor(state.equippedItems.arms, 2) }
 };
 
 
@@ -106,10 +106,14 @@ Action UpdateArmor(Item item, int index) {
 }
 ```
 
+**Note that you can't acces the State's parameters yet until it has been attached. Therefore you should fill up the look-up table within Attached() OR do a look-up table that is initialized with lazy access. Otherwise you might end up with the following error:*
+
+> Error *X* An object reference is required for the non-static field, method, or property 'Bolt.EntityBehaviour<IPlayerState>.state.get' 
+
 And this would be used to add a callback:
 
 ```C#
-state.AddCallback("equippedItems", OnHeadStuffChanged); 
+state.AddCallback("equippedItems", UpdateNewArmor); 
 ```
 
 And this is the method:
