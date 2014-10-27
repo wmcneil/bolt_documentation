@@ -90,7 +90,7 @@ public void OnVaultContentsChanged(IActorState state, string path, Bolt.ArrayInd
 If you have defined a struct in your State and you want a single global callback instead of setting a callback for each of its fields and you still want a separate method to be called per specific property then it's recommended to use a look-up table as opposed to a switch statement.   
 *This is more of an optimization than a necessity, also this will only be of any benefit if the callback is triggered a lot and there are many fields in your struct.*
 
-Defining your look up table of Actions:
+Defining your look-up table of Actions:
 
 ```C#
 Dictionary<string, Action> lookupTable = new Dictionary<string, Action>()
@@ -106,9 +106,10 @@ Action UpdateArmor(Item item, int index) {
 }
 ```
 
-**Note that you can't acces the State's parameters yet until it has been attached. Therefore you should fill up the look-up table within Attached() OR do a look-up table that is initialized with lazy access. Otherwise you might end up with the following error:*
+*Note that you can't access the State's parameters until it has been attached. Therefore you should fill up the look-up table within Attached() OR do a look-up table that is initialized with lazy access.*  
+*Otherwise you might end up with the following error:*
 
-> Error *X* An object reference is required for the non-static field, method, or property 'Bolt.EntityBehaviour<IPlayerState>.state.get' 
+> Error: An object reference is required for the non-static field, method, or property 'Bolt.EntityBehaviour<IPlayerState>.state.get' 
 
 And this would be used to add a callback:
 
