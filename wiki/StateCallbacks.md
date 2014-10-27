@@ -56,7 +56,9 @@ public void OnStatsChanged(IActorState state, string path, Bolt.ArrayIndices ind
 
 **Example 2a: Nested array with method**
 
+```C#
 state.AddCallback("vaults[].contents[]",  OnVaultContentsChanged); 
+```
 
 ```C#
 public void OnVaultContentsChanged(IState state, string path, Bolt.ArrayIndices indices)
@@ -70,7 +72,9 @@ public void OnVaultContentsChanged(IState state, string path, Bolt.ArrayIndices 
 
 **Example 2b: Nested array callback with lambda**
 
+```C#
 state.AddCallback("vaults[].contents[]", (x, y, z) => { OnVaultContentsChanged((IActorState)x, (string)y, (Bolt.ArrayIndices)z); }); 
+```
 
 ```C#
 public void OnVaultContentsChanged(IActorState state, string path, Bolt.ArrayIndices indices)
