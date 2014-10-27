@@ -20,9 +20,9 @@ You can set up a callback on an array in an array like so:
 
 There is an overload to `state.AddCallback` which takes a delegate that takes three parameters in the format of `(Bolt.IState, string path, Bolt.ArrayIndices indices)`.
 
-1. **Bolt.IState** can be casted to your state type within the method (note that Bolt.IState is the class all States inherit from).
+1. **Bolt.IState** can be cast to your state type within the method (note that Bolt.IState is the class all States inherit from).
     - This is your actual State though it's just not strongly typed (to have a generic AddCallback method); that's the reason you need to cast it to your own type.
-2. **string path** is the path to the property.
+2. **string path** is the *full* path to the property.
 3. **Bolt.ArrayIndices indices** contains the indices for any of the arrays that you attached in the callback.
 
 **Example 1a: Array callback with method**
@@ -87,16 +87,17 @@ public void OnVaultContentsChanged(IActorState state, string path, Bolt.ArrayInd
 
 **Example 3: Using a look-up table for methods in your struct callback**
 
-If you have defined a struct in your State and you want a single global callback (instead of setting a callback for each of its fields). And you still want a separate method to be called per specific property then it's recommended to use a look-up table as opposed to a switch statement. *This is more of an optimization than a necessity, also this will only be of any benefit if the callback is trigger a lot and there are many fields in your struct.*
+If you have defined a struct in your State and you want a single global callback instead of setting a callback for each of its fields and you still want a separate method to be called per specific property then it's recommended to use a look-up table as opposed to a switch statement.   
+*This is more of an optimization than a necessity, also this will only be of any benefit if the callback is triggered a lot and there are many fields in your struct.*
 
 Defining your look up table of Actions:
 
 ```C#
 Dictionary<string, Action> lookupTable = new Dictionary<string, Action>()
 {
-    { "head", UpdateArmor(actorState.equippedItems.head, 0) },
-    { "body", UpdateArmor(actorState.equippedItems.body, 1) },
-    { "arms", UpdateArmor(actorState.equippedItems.arms, 2) }
+    { "equippedItems.head", UpdateArmor(actorState.equippedItems.head, 0) },
+    { "equippedItems.body", UpdateArmor(actorState.equippedItems.body, 1) },
+    { "equippedItems.arms", UpdateArmor(actorState.equippedItems.arms, 2) }
 };
 
 
