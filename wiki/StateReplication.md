@@ -2,9 +2,11 @@
 
 To replicate a value means to reproduce the value over a network/connection on the other machine. Bolt makes it easy for you to define what is important to be transferred over the Network by defining a **State**.
 
+The *State* of a *BoltEntity* can **only** be modified by the *Owner*. Trying to change the State from somewhere else than the Owner will mean the value will not get replicated over the network.
+
 ### Mecanim/State interaction/Modifying state properties
 
-Remember to link your Animator/Transform when your state is attached, eg (in a script that inherits from `Bolt.EntityBehaviour<YourStateNameHere>`):
+Remember to link your Animator/Transform when your state is attached, eg. (in a script that inherits from `Bolt.EntityBehaviour<YourStateNameHere>`):
 
 ```C#
 public override void Attached ()
