@@ -2,6 +2,8 @@
 
 If you want to customize the bolt configuration through code before starting your server or client, you can do so by calling BoltRuntimeSettings.GetConfigCopy, modifying the returned object and then passing it as the last argument to StartClient or StartServer.
 
+You have access to more settings that are not exposed in the Bolt Settings window through code.
+
 ```csharp
 
 BoltConfig config = BoltRuntimeSettings.GetConfigCopy();
