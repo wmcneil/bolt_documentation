@@ -22,6 +22,7 @@ This is the community wiki for Bolt Engine.
 ###Bolt Advanced
 
 * [SimulateProxy() removed in  Bolt 0.4+ and here's how to do it yourself!](SimulateProxy.md)
+* [Custom Configuration!](CustomConfiguration.md)
 
 ###[Troubleshooting](Troubleshooting.md)
 
