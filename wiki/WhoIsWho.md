@@ -41,7 +41,7 @@ To check if the *local machine is the owner of an entity* use: `entity.isOwner`
 
 An Entity that is controlled by either the server or a remote player.
 
-Both the Server and a Client can gain control of a BoltEntity. Though control can only be given by the Owner of the object. By Default, entities do not have a controller and one must be assigned.
+Both the Server and a Client can gain control of a BoltEntity. Though control can only be given by the Owner of the object. By default, entities do not have a controller and one must be assigned.
 
 The Owner can *take control* with: `entity.TakeControl()`.  
 Another Client can be *assigned control* with: `entity.AssignControl(connection)`
