@@ -32,7 +32,7 @@ state.AddCallback("stats[]", OnStatsChanged);
 ```
 
 ```C#
-public void OnStatsChanged(IState state, string path, Bolt.ArrayIndices indices)
+public void OnStatsChanged(Bolt.IState state, string path, Bolt.ArrayIndices indices)
     {
         int index = indices[0];
         IActorState actorState = (IActorState)state;
@@ -61,7 +61,7 @@ state.AddCallback("vaults[].contents[]",  OnVaultContentsChanged);
 ```
 
 ```C#
-public void OnVaultContentsChanged(IState state, string path, Bolt.ArrayIndices indices)
+public void OnVaultContentsChanged(Bolt.IState state, string path, Bolt.ArrayIndices indices)
     {
         IActorState actorState = (IActorState)state;
         int vaultIndex = indices[0];
